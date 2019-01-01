@@ -1,0 +1,1280 @@
+Gene.refGene	tag	cosmic70	CDS_Mutation	AA_Mutation	exon	transcripts	Func.refGene	ExonicFunc.refGene	GeneDetail.refGene	chr	pos	ref	alt	tumor_ratio	normal_ratio	genotype	alt_depth	all_depth	control_alt_depth	control_all_depth	status	tumor_alt_forward_reverse	normal_alt_forward_reverse	decision
+ETV1	others	.					intronic	.	.	chr7	13989994	TGA	T	6.30	5.11	indels	66	973	23	450	alt_allele_in_normal;clustered_events;str_contraction;triallelic_site	66:28,29	23:11,9	no
+ETV1	others	.					intronic	.	.	chr7	13989994	TGA	T	3.96	4.26	indels	46	1163	21	493	PASS:Germline	46:22,24	21:10,11	no
+CYP2D6	others	.	c.T375C,c.T528C	p.G125G,p.G176G	exon3,exon4	NM_001025161,NM_000106	exonic	synonymous SNV	.	chr22	42524924	A	G	4.70	5.71	AA	10	223	2	35	alt_allele_in_normal;germline_risk	10:3,7	2:1,1	no
+CYP2D6	others	.	c.T375C,c.T528C	p.G125G,p.G176G	exon3,exon4	NM_001025161,NM_000106	exonic	synonymous SNV	.	chr22	42524924	A	G	8.23	5.56	AA	20	243	2	36	PASS:Germline	20:6,14	2:0,2	no
+RANBP2	others	.	c.G6976C	p.E2326Q	exon20	NM_006267	exonic	nonsynonymous SNV	.	chr2	109383971	G	C	1.06	0.36	GG	17	1603	2	554	PASS:Germline	17:8,9	2:1,1	no
+BRAF	others	.					intronic	.	.	chr7	140498359	CT	C	20.77	27.59	indels	59	284	8	29	PASS:Germline	59:42,17	8:5,3	no
+AHNAK2	others	.	c.T9486C	p.I3162I	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105412302	A	G	2.22	2.35	AA	103	4636	22	935	PASS:Germline	103:59,44	22:12,10	no
+NCOR1	others	.	c.T18C,c.T18C,c.T18C	p.Y6Y,p.Y6Y,p.Y6Y	exon1,exon1,exon2	NM_001190438,NM_001190440,NM_006311	exonic	synonymous SNV	.	chr17	16097866	A	G	2.27	2.42	AA	73	3217	16	662	PASS:Germline	73:38,35	16:8,8	no
+NCOR1	others	.					intronic	.	.	chr17	16068215	A	G	6.80	2.38	AA	9	130	1	42	PASS	9:6,3	1:0,1	no
+FANCD2	others	.	c.C1170T,c.C1170T	p.S390S,p.S390S	exon15,exon15	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10088299	C	T	27.31	29.65	CT	852	3120	188	634	PASS:Germline	852:543,309	188:118,70	no
+FANCD2	others	.	c.C1170T,c.C1170T	p.S390S,p.S390S	exon15,exon15	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10088299	C	T	27.59	30.84	CT	599	2171	136	440	Germline	599:221,378	136:45,91	no
+POLE	others	.					intronic	.	.	chr12	133201443	G	C	12.03	8.77	GG	93	773	15	171	PASS:Germline	93:45,48	15:10,5	no
+SETD2	others	.					intronic	.	.	chr3	47143087	AGTGT	A	22.54	13.28	indels	176	781	17	128	PASS:Germline	176:33,143	17:2,15	no
+EGFR	unknown_19del	.	c.2237_2253del	p.E746fs(ref_AA:ELREAT,start:746,end:751,mut_AA:V)	exon19	NM_005228	exonic	frameshift deletion	.	chr7	55242466	GAATTAAGAGAAGCAACA	G	19.40	0	indels	627	3044	0	550	clustered_events	627:283,344	0:0,0	yes
+EGFR	unknown_19del	.	c.2237_2253del	p.E746fs(ref_AA:ELREAT,start:746,end:751,mut_AA:V)	exon19	NM_005228	exonic	frameshift deletion	.	chr7	55242466	GAATTAAGAGAAGCAACA	G	15.41	0	indels	391	2538	0	465	PASS:Somatic	391:214,177	0:0,0	no
+AHNAK2	others	.	c.C6436G	p.L2146V	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415352	G	C	51.50	52.03	GC	2175	4223	422	811	PASS:Germline	2175:1095,1080	422:213,209	no
+PMS1	others	.					intronic	.	.	chr2	190720635	A	G	34.21	48.65	AG	26	76	18	37	PASS:Germline	26:9,17	18:9,9	no
+PMS1	others	.					intronic	.	.	chr2	190720635	A	G	38.18	42.86	AG	21	55	12	27	Germline	21:4,17	12:3,9	no
+KMT2C	others	COSM1131647	c.G2755C	p.V919L	exon16	NM_170606	exonic	nonsynonymous SNV	.	chr7	151932916	C	G	5.02	9.97	CC	211	4203	73	732	PASS:Germline	211:63,148	73:25,48	no
+RAD50	others	COSN167554					intronic	.	.	chr5	131923393	G	A	42.57	49.41	GA	146	343	42	85	PASS:Germline	146:61,85	42:16,26	no
+ZRSR2	others	.					intronic	.	.	chrX	15822390	G	GT	2.30	4.32	indels	18	781	7	162	PASS:Germline	18:7,11	7:2,5	no
+MLH1	others	.					intronic	.	.	chr3	37067075	CTA	C	2.64	3.75	indels	11	416	3	80	PASS:Germline	11:7,4	3:3,0	no
+KMT2C	others	.	c.G2512A	p.G838S	exon14	NM_170606	exonic	nonsynonymous SNV	.	chr7	151945007	C	T	43.91	39.64	CT	2619	5965	811	2046	PASS:Germline	2619:1566,1053	811:488,323	no
+HERC2	others	.	c.C990A	p.A330A	exon9	NM_004667	exonic	synonymous SNV	.	chr15	28517454	G	T	25.02	22.93	GT	544	2174	72	314	PASS:Germline	544:211,333	72:24,48	no
+KMT2C	others	.	c.C2291T	p.S764F	exon14	NM_170606	exonic	nonsynonymous SNV	.	chr7	151945228	G	A	5.40	7.3	GG	108	2466	88	1206	alt_allele_in_normal;clustered_events	108:48,60	88:46,42	no
+KMT2C	others	.	c.C2291T	p.S764F	exon14	NM_170606	exonic	nonsynonymous SNV	.	chr7	151945228	G	A	5.49	7.08	GG	175	3190	86	1215	PASS:Germline	175:19,156	86:11,75	no
+KMT2C	others	.					intronic	.	.	chr7	151970775	C	G	15.43	15.26	CC	862	5587	234	1533	PASS:Germline	862:576,286	234:147,87	no
+KMT2C	others	.	c.G1050A	p.P350P	exon8	NM_170606	exonic	synonymous SNV	.	chr7	151962257	C	T	4.90	4.27	CC	229	4856	78	1827	alt_allele_in_normal;clustered_events	229:104,125	78:42,36	no
+KMT2C	others	.	c.G1050A	p.P350P	exon8	NM_170606	exonic	synonymous SNV	.	chr7	151962257	C	T	5.02	4.22	CC	281	5600	76	1802	PASS:Germline	281:90,191	76:22,54	no
+LIFR	others	.					intronic	.	.	chr5	38528951	GAC	G	23.53	17.19	indels	184	782	22	128	PASS:Germline	184:53,131	22:2,20	no
+FGFR1	others	.					intronic	.	.	chr8	38286059	C	T	43.33	44.55	CT	779	1798	139	312	PASS:Germline	779:285,494	139:55,84	no
+FGFR1	others	.					intronic	.	.	chr8	38287160	T	G	2.67	0	TT	9	337	0	65	PASS:Somatic	9:1,8	0:0,0	no
+ADGRA2	others	.					intronic	.	.	chr8	37692943	T	G	2.71	0	TT	7	258	0	40	PASS:Somatic	7:4,3	0:0,0	no
+SUZ12	others	.					intronic	.	.	chr17	30320860	CT	C	4.91	7.25	indels	40	815	10	138	PASS:Germline	40:27,13	10:6,4	no
+NCOR1	others	.					UTR5	.	NM_006311:c.-38A>G,NM_001190440:c.-38A>G,NM_001190438:c.-38A>G	chr17	16097921	T	C	4.00	6.76	TT	86	1777	25	370	alt_allele_in_normal;clustered_events	86:43,43	25:16,9	no
+NCOR1	others	.					UTR5	.	NM_006311:c.-38A>G,NM_001190440:c.-38A>G,NM_001190438:c.-38A>G	chr17	16097921	T	C	9.95	11.17	TT	188	1889	44	394	PASS:Germline	188:99,89	44:23,21	no
+RQCD1	others	.					intronic	.	.	chr2	219452150	CT	C	6.35	5.71	indels	24	378	4	70	PASS:Germline	24:15,9	4:3,1	no
+NF1	others	.					intronic	.	.	chr17	29482977	G	GT	3.48	3.82	indels	27	776	5	131	PASS:Germline	27:20,7	5:3,2	no
+SOX10	others	.	c.A718C	p.T240P	exon4	NM_006941	exonic	nonsynonymous SNV	.	chr22	38370185	T	G	1.01	0	TT	6	595	0	50	PASS:Somatic	6:1,5	0:0,0	no
+BCR	others	.	c.T3552C,c.T3684C	p.P1184P,p.P1228P	exon21,exon22	NM_021574,NM_004327	exonic	synonymous SNV	.	chr22	23656859	T	C	1.90	6.69	TT	45	1859	18	269	alt_allele_in_normal;clustered_events	45:28,17	18:15,3	no
+BCR	others	.	c.T3552C,c.T3684C	p.P1184P,p.P1228P	exon21,exon22	NM_021574,NM_004327	exonic	synonymous SNV	.	chr22	23656859	T	C	5.95	6.91	TT	117	1966	19	275	PASS:Germline	117:54,63	19:9,10	no
+MDM4	others	.					intronic	.	.	chr1	204494756	G	GT	13.89	10.53	indels	115	828	12	114	PASS:Germline	115:34,81	12:3,9	no
+AHNAK2	others	.	c.G3307A	p.V1103I	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105418481	C	T	15.59	12.67	CC	398	2553	56	442	PASS:Germline	398:326,72	56:48,8	no
+IKZF1	others	.					intronic	.	.	chr7	50455211	C	G	56.37	44.79	CG	734	1302	86	192	PASS:Germline	734:244,490	86:31,55	no
+TRAF7	others	.					intronic	.	.	chr16	2221239	C	T	61.67	56	CT	140	227	14	25	PASS:Germline	140:82,58	14:8,6	no
+SYK	others	.					intronic	.	.	chr9	93650758	TA	T	6.72	4.44	indels	39	580	4	90	PASS:Germline	39:25,14	4:3,1	no
+DNMT1	others	.	c.G358C,c.G358C	p.V120L,p.V120L	exon4,exon4	NM_001130823,NM_001379	exonic	nonsynonymous SNV	.	chr19	10291113	C	G	52.35	42.41	CG	1112	2124	137	323	PASS:Germline	1112:622,490	137:79,58	no
+CRBN	others	.					intronic	.	.	chr3	3194107	G	GA	52.28	37.38	indels	688	1316	114	305	PASS:Germline	688:474,214	114:82,32	no
+PLCG1	others	.					intronic	.	.	chr20	39803078	C	T	47.54	47.07	CT	1431	3010	289	614	PASS:Germline	1431:670,761	289:136,153	no
+KMT2C	others	COSM1635198	c.A2185G	p.N729D	exon14	NM_170606	exonic	nonsynonymous SNV	.	chr7	151945334	T	C	7.80	5.02	TT	80	1450	26	518	alt_allele_in_normal;clustered_events	80:38,42	26:15,11	no
+ATM	others	.					intronic	.	.	chr11	108202154	C	CT	1.25	0.88	indels	15	1196	2	228	PASS:Germline	15:9,6	2:1,1	no
+FANCD2	others	.					intronic	.	.	chr3	10088461	T	C	26.92	25.27	TC	361	1341	70	277	PASS:Germline	361:77,284	70:17,53	no
+HSP90AA1	others	.	c.836_838del,c.1202_1204del	p.K279delK(ref_AA:KI,start:279,end:280,mut_AA:I),p.K401delK(ref_AA:KI,start:401,end:402,mut_AA:I)	exon5,exon6	NM_005348,NM_001017963	exonic	nonframeshift deletion	.	chr14	102551160	ATCT	A	1.20	2.29	indels	7	737	3	131	alt_allele_in_normal;str_contraction	7:2,5	3:0,3	no
+MDM2	others	.					intronic	.	.	chr12	69214081	AT	A	6.74	4.37	indels	55	816	7	160	PASS:Germline	55:37,18	7:4,3	no
+AHNAK2	others	.	c.C2490T	p.D830D	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105419298	G	A	23.79	21.38	GG	1370	5759	251	1174	PASS:Germline	1370:830,540	251:152,99	no
+SDHA	others	.	c.C1227A,c.C1371A	p.L409L,p.L457L	exon9,exon10	NM_001294332,NM_004168	exonic	synonymous SNV	.	chr5	236653	C	A	1.99	1.32	CC	68	3418	7	530	PASS:Germline	68:35,33	7:3,4	no
+NCOR1	others	.	c.C188T,c.C515T,c.C515T	p.S63L,p.S172L,p.S172L	exon2,exon4,exon5	NM_001190438,NM_001190440,NM_006311	exonic	nonsynonymous SNV	.	chr17	16068396	G	A	46.51	37.8	GA	1105	2376	240	635	PASS:Germline	1105:609,496	240:134,106	no
+ETV6	others	.					intronic	.	.	chr12	11980004	T	TCACA	24.82	16.9	indels	103	415	12	71	PASS:Germline	103:72,31	12:7,5	no
+GNAQ	others	.					UTR5	.	NM_002072:c.-72G>T	chr9	80646223	C	A	4.60	0	CC	6	161	0	27	clustered_events;homologous_mapping_event	6:1,5	0:0,0	yes
+ATR	others	.					intronic	.	.	chr3	142215178	A	C	34.94	34	AC	87	249	17	50	PASS:Germline	87:52,35	17:9,8	no
+ATR	others	.					intronic	.	.	chr3	142215178	A	C	70.14	70.71	AC	343	489	70	98	Germline	343:172,171	70:32,38	no
+TET2-AS1	others	.					ncRNA_intronic	.	.	chr4	106193653	TAC	T	2.80	1.4	indels	24	994	5	358	alt_allele_in_normal;str_contraction	24:10,14	5:2,3	no
+TET2-AS1	others	.					ncRNA_intronic	.	.	chr4	106193653	TAC	T	2.43	1.4	indels	25	1028	5	358	PASS:Germline	25:16,9	5:5,0	no
+BCR	others	.					intronic	.	.	chr22	23533638	A	AAACAAC	40.49	35.29	indels	526	1299	72	204	PASS:Germline	526:312,214	72:39,33	no
+ETV1	others	.					intronic	.	.	chr7	14005078	A	AT	4.05	4.2	indels	67	1656	15	357	PASS:Germline	67:39,28	15:8,7	no
+SCN10A	others	.					intronic	.	.	chr3	38765107	G	T	10.30	0	GG	20	222	0	34	PASS	20:5,15	0:0,0	yes
+KMT2C	others	.					intronic	.	.	chr7	151933033	G	A	2.20	2.66	GG	67	3388	15	564	alt_allele_in_normal;clustered_events	67:46,21	15:8,7	no
+KMT2C	others	.					intronic	.	.	chr7	151933033	G	A	5.19	1.79	GG	184	3542	10	560	PASS:Germline	184:42,142	10:3,7	no
+RAF1	others	.					intronic	.	.	chr3	12649476	T	G	10.80	10.87	TT	34	235	5	46	alt_allele_in_normal;t_lod_fstar	34:17,17	5:4,1	no
+NCOR1	others	.	c.A59C,c.A59C,c.A59C	p.Y20S,p.Y20S,p.Y20S	exon1,exon1,exon2	NM_001190438,NM_001190440,NM_006311	exonic	nonsynonymous SNV	.	chr17	16097825	T	G	2.66	3.04	TT	98	3686	23	756	PASS:Germline	98:59,39	23:15,8	no
+AHNAK2	others	.	c.A2474C	p.E825A	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105419314	T	G	26.99	24.4	TG	1657	6140	297	1217	PASS:Germline	1657:927,730	297:168,129	no
+CHD4	others	.	c.396_398del,c.417_419del	p.E132delE(ref_AA:ED,start:132,end:133,mut_AA:D),p.E139delE(ref_AA:ED,start:139,end:140,mut_AA:D)	exon3,exon4	NM_001297553,NM_001273	exonic	nonframeshift deletion	.	chr12	6711144	ATCC	A	1.60	2.34	indels	13	716	3	128	alt_allele_in_normal;clustered_events;str_contraction	13:7,5	3:0,3	no
+CHD4	others	.	c.396_398del,c.417_419del	p.E132delE(ref_AA:ED,start:132,end:133,mut_AA:D),p.E139delE(ref_AA:ED,start:139,end:140,mut_AA:D)	exon3,exon4	NM_001297553,NM_001273	exonic	nonframeshift deletion	.	chr12	6711144	ATCC	A	1.18	1.85	indels	10	846	3	162	PASS:Germline	10:6,4	3:1,2	no
+IDH1	others	.					intronic	.	.	chr2	209110006	TA	T	1.95	3.93	indels	13	667	7	178	PASS:Germline	13:10,3	7:4,3	no
+AHNAK2	others	.	c.G9722A	p.R3241H	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105412066	C	T	21.68	21.96	CC	664	3063	110	501	PASS:Germline	664:331,333	110:54,56	no
+MRE11A	others	COSM253028					intronic	.	.	chr11	94212930	TA	T	4.17	3.23	indels	23	552	5	155	PASS:Germline	23:10,13	5:2,3	no
+ETV1	others	.					intronic	.	.	chr7	14028172	T	C	2.82	3.85	TT	12	425	4	104	PASS:Germline	12:3,9	4:0,4	no
+AHNAK2	others	.	c.G6051A	p.K2017K	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415737	C	T	1.96	1.19	CC	67	3414	7	589	PASS:Germline	67:19,48	7:1,6	no
+HERC2	others	.					intronic	.	.	chr15	28518272	G	A	6.60	4.44	GG	15	275	2	45	alt_allele_in_normal;clustered_events	15:6,9	2:0,2	no
+AHNAK2	others	.	c.A6378G	p.P2126P	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415410	T	C	16.10	16.03	TT	687	4268	117	730	PASS:Germline	687:428,259	117:77,40	no
+ZFHX3	others	.	c.A4786C,c.A7528C	p.K1596Q,p.K2510Q	exon8,exon9	NM_001164766,NM_006885	exonic	nonsynonymous SNV	.	chr16	72829053	T	G	1.01	1.4	TT	8	795	2	143	PASS:Germline	8:1,7	2:0,2	no
+H3F3AP4	others	.					ncRNA_exonic	.	.	chr1	226259229	A	T	1.53	0	AA	10	655	0	99	StrongSomatic	10:1,9	0:0,0	yes
+HLA-A	others	.					intronic	.	.	chr6	29910437	C	T	51.20	35.56	CT	128	250	16	45	PASS:Germline	128:40,88	16:1,15	no
+COL2A1	others	.					intronic	.	.	chr12	48370970	A	C	56.57	42.37	AC	142	251	25	59	PASS:Germline	142:80,62	25:17,8	no
+PARP4	others	.					intronic	.	.	chr13	25073399	GT	G	12.24	8.7	indels	12	98	2	23	PASS:Germline	12:9,3	2:2,0	no
+KMT2C	others	.					intronic	.	.	chr7	151971078	TAAAC	T	10.70	9.33	indels	94	824	25	268	alt_allele_in_normal;clustered_events;germline_risk	94:43,51	25:14,11	no
+KMT2C	others	COSM4162016	c.C2352A	p.S784S	exon14	NM_170606	exonic	synonymous SNV	.	chr7	151945167	G	T	31.94	29.02	GT	1795	5620	640	2205	PASS:Germline	1795:508,1287	640:191,449	no
+AHNAK2	others	.	c.G3387C	p.V1129V	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418401	C	G	3.60	3.8	CC	109	4322	30	790	alt_allele_in_normal;clustered_events	109:46,63	30:14,16	no
+AHNAK2	others	.	c.G3387C	p.V1129V	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418401	C	G	4.30	4.1	CC	175	4066	30	731	PASS:Germline	175:30,145	30:4,26	no
+ARID2	others	.					intronic	.	.	chr12	46287170	TTC	T	8.20	8.22	indels	79	874	29	353	alt_allele_in_normal;str_contraction;triallelic_site	79:26,52	29:9,20	no
+ARID2	others	.					intronic	.	.	chr12	46287170	TTC	T	7.09	5.57	indels	78	1100	25	449	PASS:Germline	78:38,40	25:11,14	no
+CUL4B	others	COSM1465286,COSM1465287	c.375_377del,c.429_431del	p.S126delS(ref_AA:SS,start:125,end:126,mut_AA:S),p.S144delS(ref_AA:SS,start:143,end:144,mut_AA:S)	exon1,exon3	NM_001079872,NM_003588	exonic	nonframeshift deletion	.	chrX	119694116	TGAG	T	2.80	0.93	indels	20	712	1	107	str_contraction	20:5,15	1:0,1	no
+CUL4B	others	COSM1465286,COSM1465287	c.375_377del,c.429_431del	p.S126delS(ref_AA:SS,start:125,end:126,mut_AA:S),p.S144delS(ref_AA:SS,start:143,end:144,mut_AA:S)	exon1,exon3	NM_001079872,NM_003588	exonic	nonframeshift deletion	.	chrX	119694116	TGAG	T	2.26	0	indels	19	840	0	123	PASS:Somatic	19:11,8	0:0,0	no
+HERC2	others	.					intronic	.	.	chr15	28518234	C	T	3.70	4.72	CC	23	617	5	106	alt_allele_in_normal;clustered_events	23:7,16	5:1,4	no
+NCOR1	others	.					UTR5	.	NM_006311:c.-16G>A,NM_001190440:c.-16G>A,NM_001190438:c.-16G>A	chr17	16097899	C	T	2.30	3.79	CC	61	2297	18	475	alt_allele_in_normal;clustered_events	61:30,31	18:10,8	no
+NCOR1	others	.					UTR5	.	NM_006311:c.-16G>A,NM_001190440:c.-16G>A,NM_001190438:c.-16G>A	chr17	16097899	C	T	5.33	6.02	CC	128	2402	30	498	PASS:Germline	128:70,58	30:16,14	no
+DICER1	others	.					intronic	.	.	chr14	95574594	G	GT	7.02	13.53	indels	88	1254	28	207	PASS:Germline	88:53,35	28:15,13	no
+GNAQ	others	.	c.C303A	p.Y101X	exon2	NM_002072	exonic	stopgain	.	chr9	80537095	G	T	2.99	1.95	GG	41	1369	8	411	PASS:Germline	41:22,19	8:4,4	no
+AKAP9	others	.					intronic	.	.	chr7	91714092	AT	A	5.47	4.19	indels	48	877	8	191	PASS:Germline	48:24,24	8:5,3	no
+KAT6B	others	.					intronic	.	.	chr10	76732253	A	G	50.00	62.86	AG	36	72	22	35	PASS:Germline	36:28,8	22:18,4	no
+USP8	others	.	c.C2073T,c.C2391T,c.C2391T	p.N691N,p.N797N,p.N797N	exon12,exon15,exon15	NM_001283049,NM_001128610,NM_005154	exonic	synonymous SNV	.	chr15	50785054	C	T	1.70	7.55	CC	49	2186	32	424	alt_allele_in_normal;clustered_events	49:23,26	32:14,18	no
+USP8	others	.	c.C2073T,c.C2391T,c.C2391T	p.N691N,p.N797N,p.N797N	exon12,exon15,exon15	NM_001283049,NM_001128610,NM_005154	exonic	synonymous SNV	.	chr15	50785054	C	T	4.00	6.99	CC	89	2225	29	415	PASS:Germline	89:43,46	29:13,16	no
+UGT1A8	others	.	c.A711C	p.T237T	exon1	NM_019076	exonic	synonymous SNV	.	chr2	234527064	A	C	53.33	44.04	AC	1521	2852	281	638	PASS:Germline	1521:749,772	281:145,136	no
+BLM	others	.					intronic	.	.	chr15	91312650	AT	A	1.02	1.7	indels	24	2363	6	352	PASS:Germline	24:12,12	6:3,3	no
+UGT1A1,UGT1A10,UGT1A3,UGT1A4,UGT1A5,UGT1A6,UGT1A7,UGT1A8,UGT1A9	others	.					intronic	.	.	chr2	234678110	CGT	C	3.30	7.82	indels	33	925	14	179	alt_allele_in_normal;str_contraction	33:17,14	14:5,7	no
+NUP98	others	.					intronic	.	.	chr11	3800286	A	C	42.81	44.85	AC	950	2219	196	437	PASS:Germline	950:378,572	196:74,122	no
+PIK3C2G	others	.					intronic	.	.	chr12	18534672	CTG	C	2.90	4.6	indels	40	1483	23	500	alt_allele_in_normal;str_contraction	40:18,22	23:12,11	no
+PIK3C2G	others	.					intronic	.	.	chr12	18534672	CTG	C	2.38	4.31	indels	36	1515	22	510	PASS:Germline	36:24,12	22:14,8	no
+NFATC2	others	.					intronic	.	.	chr20	50008006	A	AG	25.49	23.53	indels	142	557	16	68	PASS:Germline	142:96,46	16:12,4	no
+LOC100506274,LOC101929551	others	.					intergenic	.	dist=325054;dist=111463	chr2	7915435	C	A	1.68	0	CC	6	358	0	66	PASS:Somatic	6:3,3	0:0,0	no
+EXT2	others	.					intronic	.	.	chr11	44257708	GGTGT	G	1.30	2.11	indels	10	505	2	95	PASS	10:6,2	2:0,0	yes
+ETV1	others	.					intronic	.	.	chr7	14027867	G	GCACA	2.50	0	indels	9	92	0	32	triallelic_site	9:1,1	0:0,0	no
+AHNAK2	others	.	c.C6674A	p.P2225H	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415114	G	T	4.71	2.17	GG	128	2719	10	460	PASS:Germline	128:99,29	10:10,0	no
+USP8	others	.	c.G2788T,c.G3106T,c.G3106T	p.D930Y,p.D1036Y,p.D1036Y	exon16,exon19,exon19	NM_001283049,NM_001128610,NM_005154	exonic	nonsynonymous SNV	.	chr15	50790860	G	T	1.08	0	GG	7	647	0	217	PASS:Somatic	7:3,4	0:0,0	no
+FANCD2	others	.					intronic	.	.	chr3	10088239	G	A	15.29	14.51	GG	313	2047	56	386	PASS:Germline	313:264,49	56:49,7	no
+FANCD2	others	.					intronic	.	.	chr3	10088239	G	A	17.89	19.86	GG	276	1543	58	291	Germline	276:207,69	58:40,18	no
+AHNAK2	others	.	c.G9625C	p.V3209L	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105412163	C	G	4.30	5.11	CC	98	2680	23	450	alt_allele_in_normal	98:35,63	23:14,9	no
+AHNAK2	others	.	c.G9625C	p.V3209L	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105412163	C	G	4.77	4.88	CC	130	2728	22	451	PASS:Germline	130:23,107	22:3,19	no
+ETV6	others	.					intronic	.	.	chr12	12021372	CT	C	15.67	18.11	indels	110	702	23	127	PASS:Germline	110:11,99	23:3,20	no
+PARP4	others	.	c.A3176G	p.Q1059R	exon26	NM_006437	exonic	nonsynonymous SNV	.	chr13	25021263	T	C	20.49	19.29	TT	647	3158	114	591	PASS:Germline	647:324,323	114:59,55	no
+WRN	others	.					intronic	.	.	chr8	31007825	TTTG	T	1.20	0.65	indels	21	1972	3	461	alt_allele_in_normal;str_contraction	21:14,7	3:0,3	no
+BCR	others	.					intronic	.	.	chr22	23568492	TGAGAGA	T	8.47	7.98	indels	107	1264	15	188	PASS:Germline	107:53,54	15:9,6	no
+FANCD2	others	.	c.A1122G,c.A1122G	p.V374V,p.V374V	exon14,exon14	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10085536	A	G	28.77	20.99	AG	376	1307	55	262	PASS:Germline	376:183,193	55:27,28	no
+NCOR1	others	.	c.G244A,c.G571A,c.G571A	p.E82K,p.E191K,p.E191K	exon2,exon4,exon5	NM_001190438,NM_001190440,NM_006311	exonic	nonsynonymous SNV	.	chr17	16068340	C	T	43.24	32.75	CT	633	1464	130	397	PASS:Germline	633:449,184	130:96,34	no
+ARAF	others	.					intronic	.	.	chrX	47430611	GGTGT	G	14.10	35.29	indels	27	94	6	17	alt_allele_in_normal;germline_risk;t_lod_fstar	27:4,7	6:0,2	no
+HERC2	others	.	c.C9852T	p.N3284N	exon65	NM_004667	exonic	synonymous SNV	.	chr15	28419746	G	A	20.24	28.1	GG	445	2199	93	331	PASS:Germline	445:128,317	93:25,68	no
+BCR	others	COSM3785509	c.G3483A,c.G3615A	p.T1161T,p.T1205T	exon21,exon22	NM_021574,NM_004327	exonic	synonymous SNV	.	chr22	23656790	G	A	1.90	5.86	GG	52	2028	18	307	alt_allele_in_normal;clustered_events	52:24,28	18:12,6	no
+BCR	others	COSM3785509	c.G3483A,c.G3615A	p.T1161T,p.T1205T	exon21,exon22	NM_021574,NM_004327	exonic	synonymous SNV	.	chr22	23656790	G	A	5.88	5.84	GG	125	2127	17	291	PASS:Germline	125:63,62	17:9,8	no
+NCOR1	others	.					intronic	.	.	chr17	16068545	A	C	41.12	35.84	AC	287	698	62	173	PASS:Germline	287:46,241	62:10,52	no
+AHNAK2	others	.	c.G11130C	p.Q3710H	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105410658	C	G	1.06	0.62	CC	30	2826	3	481	PASS:Germline	30:12,18	3:1,2	no
+TACC3	others	.					intronic	.	.	chr4	1741533	CCGTCCCCATCCCCCTCGCCATCCT	C	62.16	66.67	indels	23	37	8	11	Germline	23:14,9	8:6,2	no
+GRIN2A	others	.					UTR3	.	NM_001134408:c.*342_*340delTTG,NM_001134407:c.*136_*134delTTG,NM_000833:c.*136_*134delTTG	chr16	9856869	CCAA	C	1.30	0	indels	8	622	0	68	str_contraction	8:4,4	0:0,0	yes
+AHNAK2	others	.	c.G6399A	p.A2133A	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415389	C	T	7.33	8.32	CC	298	4068	58	697	PASS:Germline	298:219,79	58:43,15	no
+ATM	others	.					intronic	.	.	chr11	108188379	T	C	58.30	44.44	TC	41	69	8	18	alt_allele_in_normal;germline_risk;t_lod_fstar	41:11,25	8:5,3	no
+TRIP11	others	.					intronic	.	.	chr14	92466484	AAC	A	5.90	3.97	indels	36	673	5	126	alt_allele_in_normal;str_contraction	36:15,21	5:3,2	no
+TRIP11	others	.					intronic	.	.	chr14	92466484	AAC	A	4.08	3.36	indels	33	809	5	149	PASS:Germline	33:10,23	5:0,5	no
+HLA-A	others	.					intronic	.	.	chr6	29911895	T	A	6.00	6.18	TT	233	3801	40	647	alt_allele_in_normal;clustered_events	233:120,113	40:14,26	no
+HLA-A	others	.					intronic	.	.	chr6	29911895	T	A	6.35	6.13	TT	253	3986	40	653	PASS:Germline	253:148,105	40:26,14	no
+KMT2C	others	.					intronic	.	.	chr7	151921037	G	GT	6.31	4.63	indels	32	507	5	108	indelError:Unknown	32:25,7	5:4,1	no
+KMT2C	others	.					intronic	.	.	chr7	151932816	C	A	3.98	1.25	CC	69	1732	4	319	PASS:Germline	69:59,10	4:4,0	no
+CRBN	others	.					intronic	.	.	chr3	3216976	G	GA	3.61	4.67	indels	21	581	5	107	PASS:Germline	21:4,17	5:2,3	no
+AHNAK2	others	.	c.T3225C	p.A1075A	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418563	A	G	18.77	18.85	AA	334	1779	49	260	PASS:Germline	334:45,289	49:5,44	no
+ARID1A	others	.	c.C6192T,c.C5541T	p.L2064L,p.L1847L	exon20,exon20	NM_006015,NM_139135	exonic	synonymous SNV	.	chr1	27106581	C	T	7.30	0	CC	142	1913	0	287	PASS	142:50,92	0:0,0	yes
+ARID1A	others	.	c.C6192T,c.C5541T	p.L2064L,p.L1847L	exon20,exon20	NM_006015,NM_139135	exonic	synonymous SNV	.	chr1	27106581	C	T	7.32	0	CC	141	1927	0	287	PASS:Somatic	141:65,76	0:0,0	no
+ARID1A	others	.	c.C6192T,c.C5541T	p.L2064L,p.L1847L	exon20,exon20	NM_006015,NM_139135	exonic	synonymous SNV	.	chr1	27106581	C	T	7.32	0	CC	107	1462	0	213	StrongSomatic	107:28,79	0:0,0	yes
+LRP1B	others	.					intronic	.	.	chr2	141528592	T	C	100.00	100	CC	397	397	142	142	PASS:Germline	397:116,281	142:39,103	no
+EWSR1	others	.					intronic	.	.	chr22	29669713	G	GT	1.17	0.18	indels	17	1447	1	564	PASS:Somatic	17:12,5	1:1,0	no
+HLA-A	others	.					intronic	.	.	chr6	29912188	T	C	40.30	40.62	TC	187	464	26	64	PASS:Germline	187:95,92	26:13,13	no
+PIK3R1	others	.					intronic	.	.	chr5	67576330	CT	C	17.03	14.93	indels	63	370	10	67	PASS:Germline	63:46,17	10:7,3	no
+ETV6	others	.					intronic	.	.	chr12	11934976	C	T	44.56	48.25	CT	332	745	138	286	PASS:Germline	332:166,166	138:70,68	no
+HLA-A	others	.	c.T497C,c.T497C	p.I166T,p.I166T	exon3,exon3	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911198	T	C	51.17	38.46	TC	305	596	30	78	PASS:Germline	305:125,180	30:11,19	no
+HLA-A	others	.	c.T497C,c.T497C	p.I166T,p.I166T	exon3,exon3	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911198	T	C	45.04	35.09	TC	177	393	20	56	Germline	177:33,144	20:3,17	no
+ERBB4	others	.					intronic	.	.	chr2	212488828	GTC	G	8.20	0.74	indels	23	497	1	135	str_contraction;t_lod_fstar	23:11,9	1:0,1	no
+EWSR1	others	.					intronic	.	.	chr22	29682881	CT	C	8.09	5.41	indels	231	2855	21	388	PASS:Germline	231:144,87	21:11,10	no
+BRAF	others	.					intronic	.	.	chr7	140498072	C	CTTTT	21.11	16.98	indels	76	360	9	53	PASS:Germline	76:10,66	9:1,8	no
+PBRM1	others	.					intronic	.	.	chr3	52676063	TAC	T	2.37	1.98	indels	32	1349	5	252	PASS:Germline	32:12,20	5:2,3	no
+SETD2	others	.					intronic	.	.	chr3	47129781	C	CA	2.60	1.6	indels	19	732	2	124	LikelySomatic	19:2,17	2:0,2	no
+BCR	others	.					intronic	.	.	chr22	23564723	T	C	48.30	46.41	TC	809	1675	110	237	PASS:Germline	809:335,474	110:47,63	no
+HIF1A	others	.					intronic	.	.	chr14	62194112	CT	C	1.09	2.5	indels	12	1101	5	200	PASS:Germline	12:8,4	5:4,1	no
+CASP8	others	.					intronic	.	.	chr2	202139739	C	CT	24.94	26.32	indels	104	417	25	95	PASS:Germline	104:24,80	25:5,20	no
+HLA-A	others	.	c.C649G,c.C649G	p.P217A,p.P217A	exon4,exon4	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911928	C	G	5.51	6.51	CC	227	4118	42	645	PASS:Germline	227:126,101	42:25,17	no
+ETV6	others	.					UTR3	.	NM_001987:c.*555delA	chr12	12044534	GA	G	6.39	3.93	indels	70	1096	7	178	PASS:Germline	70:24,46	7:2,5	no
+PBRM1	others	.					intronic	.	.	chr3	52682329	AAAC	A	1.70	2.8	indels	19	988	6	214	alt_allele_in_normal;str_contraction	19:7,12	6:3,3	no
+FOXO3	others	.	c.1141dupG,c.1141dupG	p.D380fs,p.D380fs	exon2,exon3	NM_001455,NM_201559	exonic	frameshift insertion	.	chr6	108985176	T	TG	1.80	2.34	indels	80	3141	13	556	alt_allele_in_normal	80:44,36	13:7,6	no
+FOXO3	others	.	c.1141dupG,c.1141dupG	p.D380fs,p.D380fs	exon2,exon3	NM_001455,NM_201559	exonic	frameshift insertion	.	chr6	108985176	T	TG	4.05	2.22	indels	136	3360	13	586	PASS:Germline	136:57,79	13:5,8	no
+ETV5	others	.					intronic	.	.	chr3	185802071	TA	T	14.72	10	indels	29	197	4	40	PASS:Germline	29:9,20	4:2,2	no
+AHNAK2	others	.	c.A8581C	p.I2861L	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413207	T	G	5.80	7.44	TT	136	2970	34	457	alt_allele_in_normal;clustered_events;germline_risk	136:67,69	34:16,18	no
+AHNAK2	others	.	c.A8581C	p.I2861L	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413207	T	G	5.00	4.62	TT	151	3023	21	455	PASS:Germline	151:22,129	21:2,19	no
+KMT2C	others	COSM4162022	c.A1131T	p.P377P	exon8	NM_170606	exonic	synonymous SNV	.	chr7	151962176	T	A	18.72	20.22	TT	1451	7750	500	2473	PASS:Germline	1451:816,635	500:278,222	no
+DNAH8	others	.					intronic	.	.	chr6	38759299	G	GT	1.99	1.16	indels	21	1054	2	172	PASS:Germline	21:14,7	2:1,1	no
+DNAH8	others	.					intronic	.	.	chr6	38759299	G	GT	1.82	1.47	indels	15	826	2	135	LikelySomatic	15:8,7	2:1,1	no
+STAT5B	others	.					intronic	.	.	chr17	40369129	CCA	C	2.70	0	indels	21	742	0	116	str_contraction	21:12,9	0:0,0	yes
+RMI2	others	.					intronic	.	.	chr16	11444454	GA	G	94.08	98.79	indels	1113	1183	163	165	PASS:Germline	1113:850,263	163:129,34	no
+AHNAK2	others	.	c.A9425G	p.K3142R	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105412363	T	C	3.34	2.86	TT	170	5096	29	1013	PASS:Germline	170:85,85	29:14,15	no
+HERC2	others	.	c.C815T	p.T272M	exon8	NM_004667	exonic	nonsynonymous SNV	.	chr15	28518136	G	A	2.30	3.97	GG	35	1404	10	252	alt_allele_in_normal;clustered_events	35:16,19	10:2,8	no
+HERC2	others	.	c.C815T	p.T272M	exon8	NM_004667	exonic	nonsynonymous SNV	.	chr15	28518136	G	A	6.24	5.84	GG	91	1459	15	257	PASS:Germline	91:52,39	15:6,9	no
+ETV6	others	.					intronic	.	.	chr12	11938946	CA	C	1.26	1.21	indels	29	2302	8	661	PASS:Germline	29:11,18	8:4,4	no
+HLA-A	others	.					intronic	.	.	chr6	29911397	T	A	25.00	12	TT	51	204	3	25	PASS:Germline	51:21,30	3:1,2	no
+KMT2C	others	.					intronic	.	.	chr7	151970982	T	C	11.50	11.19	TT	352	3061	84	751	PASS:Germline	352:103,249	84:20,64	no
+STK33	others	.					intronic	.	.	chr11	8494843	T	TA	4.65	4.08	indels	18	387	4	98	PASS:Germline	18:2,16	4:1,3	no
+TMPRSS2	others	.					intronic	.	.	chr21	42855693	C	CTT	18.41	21.3	indels	199	1081	36	169	PASS:Germline	199:79,120	36:9,27	no
+AHNAK2	others	.	c.G6622A	p.A2208T	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415166	C	T	2.10	3.34	CC	52	2666	17	509	alt_allele_in_normal;clustered_events	52:22,30	17:6,11	no
+AHNAK2	others	.	c.G6622A	p.A2208T	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415166	C	T	10.00	6.26	CC	295	2951	33	527	PASS:Germline	295:222,73	33:24,9	no
+SCN5A	others	.	c.G4803A,c.G4695A,c.G4854A,c.G4857A,c.G4758A,c.G4857A	p.P1601P,p.P1565P,p.P1618P,p.P1619P,p.P1586P,p.P1619P	exon27,exon27,exon28,exon28,exon28,exon28	NM_001099405,NM_001160161,NM_000335,NM_001099404,NM_001160160,NM_198056	exonic	synonymous SNV	.	chr3	38593006	C	T	58.39	52.99	CT	887	1519	133	251	PASS:Germline	887:325,562	133:50,83	no
+KMT2C	others	.					intronic	.	.	chr7	151970777	G	A	10.99	12.82	GG	630	5735	198	1545	PASS:Germline	630:421,209	198:133,65	no
+TFG	others	COSN168971					intronic	.	.	chr3	100463651	TTG	T	6.00	4.03	indels	22	668	17	422	alt_allele_in_normal;str_contraction	22:4,18	17:7,10	no
+UGT1A3	others	.	c.T783C	p.F261F	exon1	NM_019093	exonic	synonymous SNV	.	chr2	234638555	T	C	4.20	6.95	TT	220	4026	66	950	alt_allele_in_normal;clustered_events	220:113,107	66:33,33	no
+UGT1A3	others	.	c.T783C	p.F261F	exon1	NM_019093	exonic	synonymous SNV	.	chr2	234638555	T	C	9.18	8.2	TT	393	4279	79	963	PASS:Germline	393:189,204	79:39,40	no
+AHNAK2	others	.	c.G11307C	p.V3769V	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105410481	C	G	21.11	23.55	CC	1004	4756	219	930	PASS:Germline	1004:347,657	219:72,147	no
+FANCD2	others	.					intronic	.	.	chr3	10088223	T	G	11.09	8.48	TT	200	1803	28	330	PASS:Germline	200:177,23	28:25,3	no
+FANCD2	others	.					intronic	.	.	chr3	10088223	T	G	14.49	14.81	TT	194	1339	36	242	Germline	194:151,43	36:25,11	no
+FAS	others	.					intronic	.	.	chr10	90770282	A	AT	1.51	0.27	indels	16	1060	1	364	PASS:Somatic	16:10,6	1:1,0	no
+AHNAK2	others	.	c.T3241C	p.L1081L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418547	A	G	34.04	33.57	AG	628	1845	94	280	PASS:Germline	628:134,494	94:16,78	no
+AFF3	others	.					intronic	.	.	chr2	100360512	T	C	1.05	0	TT	6	569	0	104	PASS:Somatic	6:5,1	0:0,0	no
+KIF5B	others	.					intronic	.	.	chr10	32327037	TA	T	20.39	10	indels	31	152	2	20	PASS:Germline	31:27,4	2:1,1	no
+KMT2C	others	COSM4161998	c.G2726A	p.R909K	exon16	NM_170606	exonic	nonsynonymous SNV	.	chr7	151932945	C	T	1.50	2.86	CC	57	4072	24	840	alt_allele_in_normal;clustered_events	57:35,22	24:14,10	no
+KMT2C	others	COSM4161998	c.G2726A	p.R909K	exon16	NM_170606	exonic	nonsynonymous SNV	.	chr7	151932945	C	T	4.40	2.97	CC	207	4709	25	842	PASS:Germline	207:49,158	25:3,22	no
+RAD50	others	COSM1433046,COSM1433045	c.2157delA	p.L719fs	exon13	NM_005732	exonic	frameshift deletion	.	chr5	131931451	TA	T	1.36	1.63	indels	27	1990	6	367	PASS:Germline	27:12,15	6:3,3	no
+RAD50	others	COSM1433046,COSM1433045	c.2157delA	p.L719fs	exon13	NM_005732	exonic	frameshift deletion	.	chr5	131931451	TA	T	1.44	1.43	indels	22	1532	4	279	LikelySomatic	22:7,15	4:1,3	no
+PARP4	others	.					intronic	.	.	chr13	25043158	A	G	2.70	1.18	AA	78	2885	6	508	PASS:Germline	78:40,38	6:3,3	no
+NOTCH2	others	COSM3773408	c.A137G,c.A137G	p.N46S,p.N46S	exon2,exon2	NM_001200001,NM_024408	exonic	nonsynonymous SNV	.	chr1	120572547	T	C	14.66	16.33	TT	735	5014	129	790	PASS:Germline	735:442,293	129:77,52	no
+NOTCH2	others	COSM3773408	c.A137G,c.A137G	p.N46S,p.N46S	exon2,exon2	NM_001200001,NM_024408	exonic	nonsynonymous SNV	.	chr1	120572547	T	C	15.89	17.66	TT	536	3373	92	520	Germline	536:236,300	92:38,54	no
+KMT2C	others	COSM4162006	c.T2645C	p.I882T	exon15	NM_170606	exonic	nonsynonymous SNV	.	chr7	151935799	A	G	15.15	18.36	AA	458	3024	130	708	PASS:Germline	458:269,189	130:72,58	no
+BCR	others	COSM1177927	c.G2889A,c.G3021A	p.P963P,p.P1007P	exon16,exon17	NM_021574,NM_004327	exonic	synonymous SNV	.	chr22	23651619	G	A	5.82	5.86	GG	113	1943	19	324	PASS:Germline	113:58,55	19:10,9	no
+AHNAK2	others	.	c.G3652A	p.A1218T	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105418136	C	T	33.41	31.7	CT	1390	4160	239	754	PASS:Germline	1390:942,448	239:159,80	no
+AHNAK2	others	.	c.G6529C	p.D2177H	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415259	C	G	35.14	37.74	CG	1477	4203	311	824	PASS:Germline	1477:792,685	311:154,157	no
+WRN	others	.					intronic	.	.	chr8	30954244	G	GT	13.13	8.21	indels	91	693	16	195	PASS:Germline	91:68,23	16:10,6	no
+HERC2	others	.					intronic	.	.	chr15	28517938	T	C	2.90	5.77	TT	9	378	3	52	alt_allele_in_normal;clustered_events;germline_risk	9:4,5	3:3,0	no
+NOTCH2	others	.					UTR5	.	NM_024408:c.-143G>T,NM_001200001:c.-143G>T	chr1	120612163	C	A	28.12	15.91	CA	106	377	7	44	PASS:Germline	106:56,50	7:3,4	no
+NOTCH2	others	.					UTR5	.	NM_024408:c.-143G>T,NM_001200001:c.-143G>T	chr1	120612163	C	A	26.69	16.67	CA	63	236	5	29	Germline	63:11,52	5:0,5	no
+CBL	others	.					intronic	.	.	chr11	119144791	CT	C	23.07	18.05	indels	173	750	24	133	PASS:Germline	173:29,144	24:8,16	no
+ETV6	others	.					intronic	.	.	chr12	11972265	C	T	57.71	47.47	CT	1520	2634	263	554	PASS:Germline	1520:722,798	263:122,141	no
+NSD1	others	.	c.G1749A,c.G942A	p.E583E,p.E314E	exon5,exon6	NM_022455,NM_172349	exonic	synonymous SNV	.	chr5	176637149	G	A	47.30	52.93	GA	1209	2556	271	512	PASS:Germline	1209:581,628	271:127,144	no
+NSD1	others	.	c.G1749A,c.G942A	p.E583E,p.E314E	exon5,exon6	NM_022455,NM_172349	exonic	synonymous SNV	.	chr5	176637149	G	A	47.65	52.11	GA	911	1912	198	379	Germline	911:259,652	198:53,145	no
+HLA-A	others	.	c.411_414TGAA,c.411_414TGAA	p.R138E(ref_AA:YR,start:137,end:138,mut_AA:YE),p.R138E(ref_AA:YR,start:137,end:138,mut_AA:YE)	exon3,exon3	NM_001242758,NM_002116	exonic	nonframeshift substitution	.	chr6	29911112	CCGG	TGAA	63.93	68.18	CCGGTGAA	234	366	45	65	Germline	234:71,163	45:12,33	no
+HNF1A	others	.					intronic	.	.	chr12	121438773	G	A	60.85	55.56	GA	143	235	25	45	PASS:Germline	143:123,20	25:23,2	no
+USP8	others	.	c.C1974A,c.C2292A,c.C2292A	p.N658K,p.N764K,p.N764K	exon12,exon15,exon15	NM_001283049,NM_001128610,NM_005154	exonic	nonsynonymous SNV	.	chr15	50784955	C	A	1.80	5.63	CC	53	2346	26	462	alt_allele_in_normal;clustered_events	53:31,22	26:7,19	no
+USP8	others	.	c.C1974A,c.C2292A,c.C2292A	p.N658K,p.N764K,p.N764K	exon12,exon15,exon15	NM_001283049,NM_001128610,NM_005154	exonic	nonsynonymous SNV	.	chr15	50784955	C	A	3.53	6.01	CC	85	2409	28	466	PASS:Germline	85:50,35	28:14,14	no
+KMT2C	others	COSM452728	c.G2379A	p.S793S	exon14	NM_170606	exonic	synonymous SNV	.	chr7	151945140	C	T	37.71	34.1	CT	2387	6330	845	2478	PASS:Germline	2387:837,1550	845:320,525	no
+DDR2	others	.					intronic	.	.	chr1	162749855	TTC	T	1.90	2.45	indels	19	874	4	163	alt_allele_in_normal;str_contraction	19:12,7	4:0,4	no
+DDR2	others	.					intronic	.	.	chr1	162749855	TTC	T	1.68	2.47	indels	15	892	4	162	PASS:Germline	15:8,7	4:2,2	no
+KMT2C	others	.	c.C2748T	p.I916I	exon16	NM_170606	exonic	synonymous SNV	.	chr7	151932923	G	A	1.90	5.27	GG	83	3566	38	721	alt_allele_in_normal;clustered_events	83:50,33	38:18,20	no
+KMT2C	others	.	c.C2748T	p.I916I	exon16	NM_170606	exonic	synonymous SNV	.	chr7	151932923	G	A	5.66	5.09	GG	248	4383	39	766	PASS:Germline	248:117,131	39:18,21	no
+ETV1	others	.					intronic	.	.	chr7	14028189	CA	C	46.67	17.39	indels	189	405	12	69	PASS:Germline	189:120,69	12:4,8	no
+AHNAK2	others	.	c.A6291G	p.K2097K	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415497	T	C	37.27	39.87	TC	1579	4237	303	760	PASS:Germline	1579:730,849	303:142,161	no
+FH	others	.					intronic	.	.	chr1	241663902	T	TGA	11.76	9.86	indels	34	289	7	71	PASS:Germline	34:10,24	7:3,4	no
+KMT2A	others	.					intronic	.	.	chr11	118351035	CT	C	1.59	2.6	indels	33	2073	10	384	PASS:Germline	33:19,14	10:5,5	no
+EML4	others	.					intronic	.	.	chr2	42552711	TTA	T	7.19	10.53	indels	12	167	4	38	PASS:Germline	12:3,9	4:2,2	no
+OBSCN	others	.	c.10116_10117TT,c.10116_10117TT,c.11403_11404TT	p.E3372_S3373>DC(ref_AA:ES,start:3372,end:3373,mut_AA:DC),p.E3372_S3373>DC(ref_AA:ES,start:3372,end:3373,mut_AA:DC),p.E3801_S3802>DC(ref_AA:ES,start:3801,end:3802,mut_AA:DC)	exon38,exon38,exon43	NM_001098623,NM_052843,NM_001271223	exonic	nonframeshift substitution	.	chr1	228476366	GA	TT	40.21	44.39	GATT	663	1649	91	204	Germline	663:216,447	91:30,61	no
+BRCA2	others	.					intronic	.	.	chr13	32905219	A	AT	3.84	8.16	indels	17	443	8	98	PASS:Germline	17:4,13	8:2,6	no
+PMS2	others	.					intronic	.	.	chr7	6022394	T	C	1.87	1.93	TT	43	2295	8	414	PASS:Germline	43:7,36	8:1,7	no
+AHNAK2	others	.	c.C8598T	p.P2866P	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105413190	G	A	8.48	9.24	GG	257	3032	39	422	PASS:Germline	257:69,188	39:10,29	no
+WRN	others	.					intronic	.	.	chr8	30998920	G	A	42.80	50.7	GA	586	1369	144	284	PASS:Germline	586:407,179	144:98,46	no
+CREBBP	others	.					intronic	.	.	chr16	3821077	A	AT	3.75	3.28	indels	19	506	2	61	PASS:Germline	19:2,17	2:0,2	no
+AHNAK2	others	.	c.C11327G	p.P3776R	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105410461	G	C	24.20	25.81	GG	1197	4947	255	988	PASS:Germline	1197:450,747	255:94,161	no
+CHUK	others	.					intronic	.	.	chr10	101985797	G	GA	2.17	1.56	indels	13	599	2	128	indelError:Unknown	13:2,11	2:1,1	no
+HLA-A	others	.					intronic	.	.	chr6	29910527	C	T	47.87	29.03	CT	101	211	9	31	PASS:Germline	101:57,44	9:4,5	no
+ACSL6	others	.					intronic	.	.	chr5	131322585	TTC	T	1.10	1.77	indels	7	695	2	113	alt_allele_in_normal;str_contraction;t_lod_fstar	7:4,3	2:2,0	no
+ERBB4	others	.					intronic	.	.	chr2	212488826	C	G	3.05	3.23	CC	17	557	5	154	LikelySomatic	17:13,4	5:1,4	no
+INHBA	others	.	c.786_788del	p.K263delK(ref_AA:KK,start:262,end:263,mut_AA:K)	exon3	NM_002192	exonic	nonframeshift deletion	.	chr7	41729740	TTTC	T	1.30	0	indels	6	356	0	47	str_contraction	6:4,2	0:0,0	yes
+INHBA	others	.	c.786_788del	p.K263delK(ref_AA:KK,start:262,end:263,mut_AA:K)	exon3	NM_002192	exonic	nonframeshift deletion	.	chr7	41729740	TTTC	T	1.20	0	indels	10	718	0	88	str_contraction	10:7,3	0:0,0	yes
+PBRM1	others	.					intronic	.	.	chr3	52675907	A	C	42.88	55.99	AC	711	1658	173	309	PASS:Germline	711:435,276	173:105,68	no
+HERC2	others	.	c.T7411C	p.S2471P	exon46	NM_004667	exonic	nonsynonymous SNV	.	chr15	28447562	A	G	22.12	19.43	AA	635	2871	96	494	PASS:Germline	635:288,347	96:44,52	no
+GADL1	others	.					intronic	.	.	chr3	30842346	AAGAG	A	8.80	0	indels	18	209	0	54	triallelic_site	18:4,11	0:0,0	yes
+NCOR1	others	.					UTR5	.	NM_006311:c.-29A>G,NM_001190440:c.-29A>G,NM_001190438:c.-29A>G	chr17	16097912	T	C	2.50	4.25	TT	61	2047	18	424	alt_allele_in_normal;clustered_events	61:30,31	18:10,8	no
+NCOR1	others	.					UTR5	.	NM_006311:c.-29A>G,NM_001190440:c.-29A>G,NM_001190438:c.-29A>G	chr17	16097912	T	C	6.14	6.82	TT	125	2037	29	425	PASS:Germline	125:69,56	29:16,13	no
+AHNAK2	others	.	c.G5550A	p.A1850A	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105416238	C	T	1.07	1.29	CC	48	4500	12	932	PASS:Germline	48:43,5	12:8,4	no
+AHNAK2	others	.	c.A11436G	p.S3812S	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105410352	T	C	24.66	24.75	TT	1264	5125	252	1018	PASS:Germline	1264:784,480	252:159,93	no
+PMS2	others	.	c.G2570C	p.G857A	exon15	NM_000535	exonic	nonsynonymous SNV	.	chr7	6013049	C	G	52.62	52.69	CG	1939	3685	323	613	PASS:Germline	1939:1081,858	323:183,140	no
+GID4	others	.	c.C441G	p.H147Q	exon2	NM_024052	exonic	nonsynonymous SNV	.	chr17	17948463	C	G	47.80	48.24	CG	979	2048	178	369	PASS:Germline	979:599,380	178:110,68	no
+HERC2	others	.	c.G849A	p.L283L	exon8	NM_004667	exonic	synonymous SNV	.	chr15	28518102	C	T	1.70	1.52	CC	24	1535	4	263	alt_allele_in_normal;clustered_events	24:13,11	4:1,3	no
+HERC2	others	.	c.G849A	p.L283L	exon8	NM_004667	exonic	synonymous SNV	.	chr15	28518102	C	T	6.42	4.46	CC	104	1621	12	269	PASS:Germline	104:56,48	12:5,7	no
+ABCG2	others	.					intronic	.	.	chr4	89036048	A	T	9.60	0	AA	66	685	0	130	PASS	66:31,35	0:0,0	yes
+ABCG2	others	.					intronic	.	.	chr4	89036048	A	T	9.64	0	AA	66	685	0	129	PASS:Somatic	66:51,15	0:0,0	no
+TTK	others	.					intronic	.	.	chr6	80715750	A	G	44.30	43.1	AG	233	526	50	116	PASS:Germline	233:88,145	50:21,29	no
+TGFBR2	others	COSM1180952,COSM1744957	c.374delA,c.449delA	p.E125fs,p.E150fs	exon3,exon4	NM_003242,NM_001024847	exonic	frameshift deletion	.	chr3	30691871	GA	G	3.13	3.17	indels	55	1759	15	473	PASS:Germline	55:25,30	15:6,9	no
+TGFBR2	others	COSM1180952,COSM1744957	c.374delA,c.449delA	p.E125fs,p.E150fs	exon3,exon4	NM_003242,NM_001024847	exonic	frameshift deletion	.	chr3	30691871	GA	G	2.95	3.73	indels	37	1253	12	321	LikelySomatic	37:6,31	12:3,9	no
+CARD11	others	.					intronic	.	.	chr7	2985361	GACACAC	G	3.70	12.23	indels	91	810	17	139	alt_allele_in_normal;clustered_events	91:5,10	17:0,1	no
+MED12	others	.	c.6240_6242del	p.Q2081delQ(ref_AA:RQ,start:2080,end:2081,mut_AA:R)	exon42	NM_005120	exonic	nonframeshift deletion	.	chrX	70360679	GGCA	G	2.10	3.45	indels	12	558	4	116	alt_allele_in_normal;str_contraction	12:9,3	4:4,0	no
+MED12	others	.	c.6240_6242del	p.Q2081delQ(ref_AA:RQ,start:2080,end:2081,mut_AA:R)	exon42	NM_005120	exonic	nonframeshift deletion	.	chrX	70360679	GGCA	G	4.30	4.35	indels	7	157	1	23	alt_allele_in_normal;clustered_events;germline_risk;str_contraction	7:6,1	1:1,0	no
+GNAQ	others	.					UTR5	.	NM_002072:c.-61T>C	chr9	80646212	A	G	8.80	5.41	AA	21	235	2	37	alt_allele_in_normal;clustered_events	21:4,17	2:2,0	no
+HMGA1	others	.					UTR3	.	NM_002131:c.*87T>C,NM_145903:c.*87T>C,NM_145899:c.*87T>C,NM_145901:c.*87T>C,NM_145902:c.*87T>C,NM_145905:c.*87T>C	chr6	34212748	T	C	9.50	0	TT	8	234	0	34	PASS	8:6,2	0:0,0	yes
+NOTCH2	others	.					intronic	.	.	chr1	120539331	C	T	39.84	42.68	CT	1053	2643	210	492	PASS:Germline	1053:532,521	210:104,106	no
+NOTCH2	others	.					intronic	.	.	chr1	120539331	C	T	40.07	40.91	CT	664	1657	126	307	Germline	664:136,528	126:20,106	no
+TRAK1	others	.	c.1841_1842insGGA,c.1889_1890insGGA,c.2063_2064insGGA	p.T614_E615insE(ref_AA:T,start:614,end:614,mut_AA:TE),p.T630_E631insE(ref_AA:T,start:630,end:630,mut_AA:TE),p.T688_E689insE(ref_AA:T,start:688,end:688,mut_AA:TE)	exon13,exon13,exon14	NM_001265609,NM_014965,NM_001265608	exonic	nonframeshift insertion	.	chr3	42251577	C	CGGA	27.14	24.47	indels	190	700	23	94	PASS:Germline	190:93,97	23:13,10	no
+HERC2	others	.					intronic	.	.	chr15	28518162	G	A	2.80	4.69	GG	39	1211	10	213	alt_allele_in_normal;clustered_events	39:17,22	10:2,8	no
+HERC2	others	.					intronic	.	.	chr15	28518162	G	A	5.57	6.1	GG	70	1257	13	213	PASS:Germline	70:31,39	13:4,9	no
+HLA-A	others	.	c.G666A,c.G666A	p.E222E,p.E222E	exon4,exon4	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29911945	G	A	7.12	7.29	GG	275	3865	43	590	PASS:Germline	275:145,130	43:23,20	no
+KMT2C	others	.					intronic	.	.	chr7	151971043	T	C	74.89	72.64	TC	1345	1796	308	424	PASS:Germline	1345:317,1028	308:71,237	no
+UGT1A3	others	.	c.G775C	p.G259R	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234638547	G	C	4.40	7.13	GG	222	4110	68	954	alt_allele_in_normal;clustered_events	222:115,107	68:33,35	no
+UGT1A3	others	.	c.G775C	p.G259R	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234638547	G	C	9.27	8.36	GG	401	4328	80	957	PASS:Germline	401:197,204	80:40,40	no
+AHNAK2	others	.	c.T9491C	p.V3164A	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105412297	A	G	1.89	2.45	AA	85	4489	22	898	PASS:Germline	85:51,34	22:13,9	no
+KMT2C	others	COSM4162018	c.C2315T	p.S772L	exon14	NM_170606	exonic	nonsynonymous SNV	.	chr7	151945204	G	A	54.45	48.07	GA	2223	4083	774	1610	PASS:Germline	2223:487,1736	774:163,611	no
+RB1	others	.					intronic	.	.	chr13	49034022	ATTCTTTC	A	85.80	84.62	indels	834	972	198	234	PASS:Germline	834:178,656	198:43,155	no
+FBXO11	others	.					intronic	.	.	chr2	48066511	T	TA	1.29	0	indels	6	466	0	77	PASS:Somatic	6:3,3	0:0,0	no
+FCGR2A	others	.	c.T821C,c.T818C	p.L274P,p.L273P	exon7,exon7	NM_001136219,NM_021642	exonic	nonsynonymous SNV	.	chr1	161487805	T	C	2.30	10.33	TT	40	2488	56	542	alt_allele_in_normal	40:16,24	56:32,24	no
+FCGR2A	others	.	c.T821C,c.T818C	p.L274P,p.L273P	exon7,exon7	NM_001136219,NM_021642	exonic	nonsynonymous SNV	.	chr1	161487805	T	C	11.03	10.51	TT	320	2900	58	552	PASS:Germline	320:113,207	58:19,39	no
+AKT2	others	.	c.C193A,c.C193A,c.C379A	p.P65T,p.P65T,p.P127T	exon4,exon5,exon5	NM_001243028,NM_001243027,NM_001626	exonic	nonsynonymous SNV	.	chr19	40748503	G	T	1.70	0	GG	6	359	0	32	t_lod_fstar	6:5,1	0:0,0	yes
+DEK	others	.	c.138_140del,c.138_140del	p.E47delE(ref_AA:EE,start:46,end:47,mut_AA:E),p.E47delE(ref_AA:EE,start:46,end:47,mut_AA:E)	exon2,exon2	NM_001134709,NM_003472	exonic	nonframeshift deletion	.	chr6	18264078	TTCC	T	1.10	0	indels	6	512	0	62	str_contraction	6:2,4	0:0,0	yes
+NOTCH2	others	COSM132738	c.C57G,c.C57G	p.C19W,p.C19W	exon1,exon1	NM_001200001,NM_024408	exonic	nonsynonymous SNV	.	chr1	120611964	G	C	41.09	47.06	GC	53	129	8	17	PASS:Germline	53:30,23	8:4,4	no
+NOTCH2	others	COSM132738	c.C57G,c.C57G	p.C19W,p.C19W	exon1,exon1	NM_001200001,NM_024408	exonic	nonsynonymous SNV	.	chr1	120611964	G	C	38.38	42.86	GC	38	99	6	13	Germline	38:14,24	6:2,4	no
+COL2A1	others	.					intronic	.	.	chr12	48376443	A	AC	88.53	85.53	indels	332	375	65	76	PASS:Germline	332:113,219	65:26,39	no
+KMT2C	others	.					intronic	.	.	chr7	151962062	A	G	1.70	3.57	AA	14	1083	12	336	alt_allele_in_normal	14:8,6	12:6,6	no
+CYP2D6,LOC101929829	others	.					downstream	.	.	chr22	42522498	G	A	6.34	9.3	GG	30	473	8	86	PASS:Germline	30:15,15	8:4,4	no
+NCOR1	others	.	c.C76A,c.C76A,c.C76A	p.Q26K,p.Q26K,p.Q26K	exon1,exon1,exon2	NM_001190438,NM_001190440,NM_006311	exonic	nonsynonymous SNV	.	chr17	16097808	G	T	1.03	1.79	GG	37	3580	13	726	PASS:Germline	37:30,7	13:10,3	no
+ETV5	others	.					intronic	.	.	chr3	185792648	CAAAAAAA	C	35.25	38.71	indels	43	122	12	31	PASS:Germline	43:38,5	12:11,1	no
+FANCD2	others	.					intronic	.	.	chr3	10088412	G	T	1.09	2.66	GG	18	1646	9	337	LikelySomatic	18:5,13	9:2,7	no
+AHNAK2	others	.	c.G10296C	p.V3432V	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105411492	C	G	1.01	1.42	CC	41	4073	11	776	PASS:Germline	41:20,21	11:5,6	no
+UGT1A5	others	.	c.C657T	p.A219A	exon1	NM_019078	exonic	synonymous SNV	.	chr2	234622294	C	T	44.52	39.24	CT	1865	4189	321	818	PASS:Germline	1865:944,921	321:163,158	no
+SDHA	others	.	c.G1252A,c.G1396A	p.A418T,p.A466T	exon9,exon10	NM_001294332,NM_004168	exonic	nonsynonymous SNV	.	chr5	236678	G	A	2.28	1.53	GG	75	3285	8	522	PASS:Germline	75:38,37	8:4,4	no
+RANBP2	others	.	c.C1308T	p.H436H	exon10	NM_006267	exonic	synonymous SNV	.	chr2	109367754	C	T	3.32	0.57	CC	53	1594	2	349	PASS:Germline	53:32,21	2:2,0	no
+CALR	others	.	c.T525C	p.I175I	exon5	NM_004343	exonic	synonymous SNV	.	chr19	13051089	T	C	44.95	47.98	TC	1567	3486	273	569	PASS:Germline	1567:743,824	273:136,137	no
+HLA-A	others	.	c.538_539CA,c.538_539CA	p.L180Q(ref_AA:L,start:180,end:180,mut_AA:Q),p.L180Q(ref_AA:L,start:180,end:180,mut_AA:Q)	exon3,exon3	NM_001242758,NM_002116	exonic	nonframeshift substitution	.	chr6	29911239	TT	CA	4.55	2.44	TTTT	15	330	1	40	LikelySomatic	15:4,11	1:0,1	no
+TP53,WRAP53	others	.					intronic	.	.	chr17	7590601	A	C	1.04	0	AA	8	767	0	113	PASS:Somatic	8:7,1	0:0,0	no
+TP53	others	.					intronic	.	.	chr17	7577678	CT	C	11.49	20.45	indels	61	531	18	88	PASS:Germline	61:7,54	18:5,13	no
+HLA-A	others	.					intronic	.	.	chr6	29911799	T	C	22.16	20.19	TT	279	1259	43	213	PASS:Germline	279:247,32	43:36,7	no
+AHNAK2	others	.	c.T3231C	p.L1077L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418557	A	G	25.08	24.45	AG	454	1810	67	274	PASS:Germline	454:75,379	67:7,60	no
+MAML2	others	.	c.1932_1934del	p.Q645delQ(ref_AA:QQ,start:644,end:645,mut_AA:Q)	exon2	NM_032427	exonic	nonframeshift deletion	.	chr11	95825260	TTGC	T	2.40	0	indels	7	351	0	37	clustered_events;str_contraction	7:4,3	0:0,0	yes
+EGFR	unknown_19del	.	c.2257delC	p.P753fs	exon19	NM_005228	exonic	frameshift deletion	.	chr7	55242486	TC	T	22.00	0	indels	632	2869	0	506	clustered_events	632:283,349	0:0,0	yes
+EGFR	unknown_19del	.	c.2257delC	p.P753fs	exon19	NM_005228	exonic	frameshift deletion	.	chr7	55242486	TC	T	14.85	0	indels	393	2647	0	500	PASS:Somatic	393:217,176	0:0,0	no
+KMT2C	others	COSM4162008	c.C2578T	p.P860S	exon15	NM_170606	exonic	nonsynonymous SNV	.	chr7	151935866	G	A	15.95	18.48	GG	455	2853	129	698	PASS:Germline	455:215,240	129:61,68	no
+AFF3	others	.	c.1856_1862G,c.1781_1787G	p.T619_A621>S(ref_AA:TSA,start:619,end:621,mut_AA:S),p.T594_A596>S(ref_AA:TSA,start:594,end:596,mut_AA:S)	exon14,exon14	NM_001025108,NM_002285	exonic	nonframeshift substitution	.	chr2	100210336	GCTGAGG	C	45.03	47.62	indels	68	151	10	20	Germline	68:32,36	10:4,6	no
+KMT2A	others	.					intronic	.	.	chr11	118369265	TA	T	16.95	13.27	indels	188	1109	28	211	PASS:Germline	188:71,117	28:8,20	no
+KMT2C	others	.					intronic	.	.	chr7	151944908	C	A	6.94	6.94	CC	167	2406	53	764	PASS:Germline	167:100,67	53:30,23	no
+HIF1A	others	.					intronic	.	.	chr14	62211578	CGTGT	C	46.73	47.57	indels	279	597	49	103	PASS:Germline	279:52,227	49:9,40	no
+KMT2C	others	COSM4162014	c.G2534A	p.G845E	exon15	NM_170606	exonic	nonsynonymous SNV	.	chr7	151935910	C	T	15.77	15.25	CC	344	2182	81	531	PASS:Germline	344:89,255	81:19,62	no
+TTK	others	.					intronic	.	.	chr6	80720488	CATT	TAAAGA	100.00	89.53	indels	28	28	77	85	Germline	28:23,5	77:61,16	no
+AHNAK2	others	.	c.T11508C	p.D3836D	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105410280	A	G	3.60	5.62	AA	168	3597	35	623	alt_allele_in_normal;clustered_events	168:94,74	35:21,14	no
+AHNAK2	others	.	c.T11508C	p.D3836D	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105410280	A	G	8.55	9.02	AA	323	3779	59	654	PASS:Germline	323:199,124	59:38,21	no
+EP300	others	.					intronic	.	.	chr22	41545024	GT	G	10.54	9.16	indels	151	1433	23	251	PASS:Germline	151:105,46	23:14,9	no
+RAD51B	others	.					intronic	.	.	chr14	68331675	A	T	100.00	100	TT	465	465	88	88	PASS:Germline	465:168,297	88:27,61	no
+AHNAK2	others	.	c.A5465G	p.K1822R	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105416323	T	C	5.16	5.02	TT	258	4996	51	1016	PASS:Germline	258:128,130	51:26,25	no
+NCOR1	others	.	c.G14T,c.G14T,c.G14T	p.G5V,p.G5V,p.G5V	exon1,exon1,exon2	NM_001190438,NM_001190440,NM_006311	exonic	nonsynonymous SNV	.	chr17	16097870	C	A	1.90	2.87	CC	62	2991	18	627	alt_allele_in_normal;clustered_events	62:30,32	18:10,8	no
+NCOR1	others	.	c.G14T,c.G14T,c.G14T	p.G5V,p.G5V,p.G5V	exon1,exon1,exon2	NM_001190438,NM_001190440,NM_006311	exonic	nonsynonymous SNV	.	chr17	16097870	C	A	4.14	4.61	CC	129	3116	30	651	PASS:Germline	129:71,58	30:16,14	no
+ETV1	others	.					intronic	.	.	chr7	14028220	G	GAA	16.70	13.64	indels	66	134	3	22	t_lod_fstar	66:3,2	3:0,0	yes
+HLA-A	others	.					intronic	.	.	chr6	29913197	T	C	47.03	41.35	TC	2054	4367	313	757	PASS:Germline	2054:928,1126	313:146,167	no
+HLA-A	others	.					intronic	.	.	chr6	29913197	T	C	49.03	43.68	TC	1565	3192	242	553	Germline	1565:376,1189	242:61,181	no
+NPM1	others	.					intronic	.	.	chr5	170818290	AT	A	2.27	2.47	indels	43	1893	9	364	PASS:Germline	43:28,15	9:6,3	no
+NPM1	others	.					intronic	.	.	chr5	170818290	AT	A	2.52	2.35	indels	36	1431	6	254	LikelySomatic	36:21,15	6:3,3	no
+HERC2	others	.	c.G7554A	p.T2518T	exon47	NM_004667	exonic	synonymous SNV	.	chr15	28447322	C	T	12.74	12.06	CC	432	3391	76	630	PASS:Germline	432:265,167	76:46,30	no
+XPC	others	.	c.G1698A	p.M566I	exon9	NM_004628	exonic	nonsynonymous SNV	.	chr3	14199685	C	T	45.37	47.61	CT	1303	2872	269	565	PASS:Germline	1303:609,694	269:136,133	no
+XPC	others	.	c.G1698A	p.M566I	exon9	NM_004628	exonic	nonsynonymous SNV	.	chr3	14199685	C	T	46.02	47.78	CT	937	2036	183	382	Germline	937:231,706	183:47,136	no
+TSC2	others	.					intronic	.	.	chr16	2129454	C	T	60.43	36.67	CT	226	374	11	30	PASS:Germline	226:77,149	11:6,5	no
+KMT2C	others	.					intronic	.	.	chr7	151882775	A	T	11.50	6.02	AA	63	548	8	133	PASS:Germline	63:11,52	8:1,7	no
+FGFR1OP	others	.					intronic	.	.	chr6	167446061	A	C	54.37	46.99	AC	578	1063	78	166	PASS:Germline	578:344,234	78:47,31	no
+SLC22A16	others	.	c.A1310T	p.Q437L	exon5	NM_033125	exonic	nonsynonymous SNV	.	chr6	110759924	T	A	44.66	48.88	TA	1343	3007	239	489	PASS:Germline	1343:821,522	239:141,98	no
+BCR	others	.					intronic	.	.	chr22	23619698	CCTG	C	1.60	0	indels	20	1338	0	154	str_contraction	20:4,16	0:0,0	yes
+BCR	others	.					intronic	.	.	chr22	23619698	CCTG	C	1.50	0	indels	17	1235	0	143	str_contraction	17:2,15	0:0,0	yes
+BCR	others	.					intronic	.	.	chr22	23619698	CCTG	C	1.09	1.09	indels	17	1561	2	184	indelError:Unknown	17:10,7	2:1,1	no
+PMS2	others	.	c.G708T	p.L236F	exon7	NM_000535	exonic	nonsynonymous SNV	.	chr7	6037052	C	A	1.04	0	CC	11	1056	0	169	PASS:Somatic	11:2,9	0:0,0	no
+KMT2C	others	.					intronic	.	.	chr7	151882622	TAG	T	25.60	24.64	indels	215	840	51	207	PASS:Germline	215:130,85	51:29,22	no
+NCOA3	others	.	c.3750_3751del,c.3726_3727del,c.3741_3742del,c.3753_3754del	p.Q1251fs(ref_AA:QQ,start:1250,end:1251,mut_AA:Q),p.Q1243fs(ref_AA:QQ,start:1242,end:1243,mut_AA:Q),p.Q1248fs(ref_AA:QQ,start:1247,end:1248,mut_AA:Q),p.Q1252fs(ref_AA:QQ,start:1251,end:1252,mut_AA:Q)	exon20,exon20,exon20,exon20	NM_001174087,NM_001174088,NM_006534,NM_181659	exonic	frameshift deletion	.	chr20	46279826	AGC	A	1.90	1.2	indels	23	1033	2	167	alt_allele_in_normal;clustered_events	23:14,9	2:2,0	no
+NCOA3	others	.	c.3750_3751del,c.3726_3727del,c.3741_3742del,c.3753_3754del	p.Q1251fs(ref_AA:QQ,start:1250,end:1251,mut_AA:Q),p.Q1243fs(ref_AA:QQ,start:1242,end:1243,mut_AA:Q),p.Q1248fs(ref_AA:QQ,start:1247,end:1248,mut_AA:Q),p.Q1252fs(ref_AA:QQ,start:1251,end:1252,mut_AA:Q)	exon20,exon20,exon20,exon20	NM_001174087,NM_001174088,NM_006534,NM_181659	exonic	frameshift deletion	.	chr20	46279826	AGC	A	2.80	1.67	indels	20	721	2	120	alt_allele_in_normal;clustered_events	20:14,6	2:2,0	no
+BCR	others	.					intronic	.	.	chr22	23602255	C	T	51.61	44.98	CT	1523	2951	197	438	PASS:Germline	1523:893,630	197:115,82	no
+EWSR1	others	.					intronic	.	.	chr22	29678749	CT	C	8.11	5.73	indels	83	1023	9	157	PASS:Germline	83:15,68	9:1,8	no
+FGFR1OP	others	.					intronic	.	.	chr6	167416662	AT	A	7.52	4.17	indels	10	133	2	48	PASS:Germline	10:8,2	2:2,0	no
+ALK	others	.					intronic	.	.	chr2	29420595	TCA	T	1.10	0.97	indels	19	1852	4	413	alt_allele_in_normal;clustered_events;str_contraction	19:12,7	4:4,0	no
+RB1	others	.	c.C2277A	p.V759V	exon22	NM_000321	exonic	synonymous SNV	.	chr13	49039199	C	A	1.02	0	CC	6	586	0	150	PASS:Somatic	6:3,3	0:0,0	no
+KMT2C	others	.					intronic	.	.	chr7	151971006	C	T	3.90	6.17	CC	63	1629	32	519	alt_allele_in_normal;clustered_events	63:27,36	32:20,12	no
+KMT2C	others	.					intronic	.	.	chr7	151971006	C	T	11.02	10.75	CC	270	2450	60	558	PASS:Germline	270:63,207	60:19,41	no
+KMT2C	others	.					intronic	.	.	chr7	151936013	C	A	4.90	8.82	CC	25	546	12	136	alt_allele_in_normal;clustered_events	25:14,11	12:6,6	no
+LRP1B	others	.					UTR5	.	NM_018557:c.-57_-59delCCG	chr2	142888354	CCGG	C	3.00	10	indels	6	228	3	30	alt_allele_in_normal;germline_risk;str_contraction	6:2,4	3:3,0	no
+SDHC	others	.					intronic	.	.	chr1	161309335	AT	A	4.08	6.25	indels	35	857	6	96	PASS:Germline	35:16,19	6:4,2	no
+SDHC	others	.					intronic	.	.	chr1	161309335	AT	A	3.89	7.46	indels	23	591	5	66	Germline	23:3,20	5:2,3	no
+KDR	others	.					intronic	.	.	chr4	55955737	AT	A	1.20	1.82	indels	13	1080	4	220	PASS:Germline	13:4,9	4:2,2	no
+KDR	others	.					intronic	.	.	chr4	55955737	AT	A	1.28	1.73	indels	11	858	3	172	LikelySomatic	11:2,9	3:0,3	no
+NCOA3	others	COSM1483713	c.3738_3746del,c.3714_3722del,c.3729_3737del,c.3741_3749del	p.Q1247_Q1249delQQQ(ref_AA:MQQQ,start:1246,end:1249,mut_AA:M),p.Q1239_Q1241delQQQ(ref_AA:MQQQ,start:1238,end:1241,mut_AA:M),p.Q1244_Q1246delQQQ(ref_AA:MQQQ,start:1243,end:1246,mut_AA:M),p.Q1248_Q1250delQQQ(ref_AA:MQQQ,start:1247,end:1250,mut_AA:M)	exon20,exon20,exon20,exon20	NM_001174087,NM_001174088,NM_006534,NM_181659	exonic	nonframeshift deletion	.	chr20	46279814	TGCAGCAGCA	T	26.94	41.18	indels	361	1340	91	221	PASS:Germline	361:218,143	91:53,38	no
+SMARCA4	others	.					intronic	.	.	chr19	11129473	TCCTC	T	1.20	0	indels	9	590	0	81	str_contraction	9:2,7	0:0,0	yes
+ETV4	others	.					intronic	.	.	chr17	41620650	T	C	2.80	0	TT	8	255	0	35	clustered_events	8:1,7	0:0,0	yes
+ETV4	others	.					intronic	.	.	chr17	41620650	T	C	1.90	1.75	TT	9	365	1	57	clustered_events;multi_event_alt_allele_in_normal	9:1,8	1:0,1	no
+ARID1B	others	.					intronic	.	.	chr6	157495951	AT	A	18.53	17.05	indels	210	1133	30	176	PASS:Germline	210:149,61	30:19,11	no
+ETV5	others	.					intronic	.	.	chr3	185795149	T	C	56.44	53.72	TC	609	1079	101	188	PASS:Germline	609:345,264	101:54,47	no
+ETV5	others	.					intronic	.	.	chr3	185795149	T	C	57.16	53.62	TC	455	796	74	137	Germline	455:183,272	74:23,51	no
+STAT3	others	.					intronic	.	.	chr17	40468975	GA	G	9.09	1.64	indels	37	407	1	61	PASS:Somatic	37:18,19	1:1,0	no
+FANCD2	others	.					intronic	.	.	chr3	10106623	C	T	4.80	5.15	CC	61	1857	19	369	alt_allele_in_normal;clustered_events	61:29,32	19:12,7	no
+FANCD2	others	.					intronic	.	.	chr3	10106623	C	T	6.30	4.12	CC	122	1935	15	364	PASS:Germline	122:23,99	15:2,13	no
+NCOR1	others	.					UTR5	.	NM_006311:c.-27_-28delCA,NM_001190440:c.-27_-28delCA,NM_001190438:c.-27_-28delCA	chr17	16097909	CTG	C	1.10	2.16	indels	27	1976	9	416	alt_allele_in_normal;clustered_events;str_contraction	27:13,14	9:6,3	no
+NCOR1	others	.					UTR5	.	NM_006311:c.-27_-28delCA,NM_001190440:c.-27_-28delCA,NM_001190438:c.-27_-28delCA	chr17	16097909	CTG	C	3.05	3.56	indels	67	2198	16	450	PASS:Germline	67:33,34	16:8,8	no
+HLA-A	others	.					intronic	.	.	chr6	29911803	G	A	33.85	27.07	GA	463	1368	62	229	PASS:Germline	463:368,95	62:47,15	no
+KMT2C	others	COSM328977,COSM328978,COSM100082	c.8390delA	p.K2797fs	exon38	NM_170606	exonic	frameshift deletion	.	chr7	151874147	CT	C	4.10	3.08	indels	74	1699	12	389	alt_allele_in_normal	74:24,46	12:5,5	no
+KMT2C	others	COSM328977,COSM328978,COSM100082	c.8390delA	p.K2797fs	exon38	NM_170606	exonic	frameshift deletion	.	chr7	151874147	CT	C	3.63	2.2	indels	69	1901	9	410	PASS:Germline	69:32,37	9:5,4	no
+FANCD2	others	.					intronic	.	.	chr3	10106366	T	C	3.40	1.56	TT	36	1616	5	320	alt_allele_in_normal;clustered_events	36:14,22	5:3,2	no
+FANCD2	others	.					intronic	.	.	chr3	10106366	T	C	4.78	2.78	TT	55	1150	6	215	LikelySomatic	55:49,6	6:6,0	no
+KMT2C	others	.					intronic	.	.	chr7	151926945	G	A	29.50	26.04	GA	457	1549	113	434	PASS:Germline	457:399,58	113:103,10	no
+AHNAK2	others	.	c.T12270C	p.P4090P	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105409518	A	G	1.04	0.72	AA	46	4409	6	832	PASS:Germline	46:24,22	6:3,3	no
+EWSR1	others	.					intronic	.	.	chr22	29679521	A	G	50.39	15.38	AG	64	127	2	13	PASS:Germline	64:20,44	2:1,1	no
+HNF1A	others	.					intronic	.	.	chr12	121434225	C	G	34.66	42.37	CG	559	1613	125	295	PASS:Germline	559:236,323	125:55,70	no
+HLA-A	others	.					intronic	.	.	chr6	29911396	A	G	25.25	11.54	AG	51	202	3	26	PASS:Germline	51:21,30	3:1,2	no
+CSF3R	others	.	c.C642A,c.C642A,c.C642A	p.S214S,p.S214S,p.S214S	exon6,exon6,exon6	NM_000760,NM_156039,NM_172313	exonic	synonymous SNV	.	chr1	36939067	G	T	1.06	0	GG	9	846	0	105	PASS:Somatic	9:4,5	0:0,0	no
+UGT1A3	others	.	c.T679G	p.F227V	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234638451	T	G	2.81	1.76	TT	125	4443	16	911	PASS:Germline	125:96,29	16:12,4	no
+UGT1A3	others	.	c.T679G	p.F227V	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234638451	T	G	3.22	2.41	TT	99	3077	15	621	LikelySomatic	99:64,35	15:9,6	no
+ALK	others	.					intronic	.	.	chr2	29451557	GAGGCAGGGTGCTGGCTCGAAAGCCAGCACCCTGCCTCTGGCTGGTCC	G	3.30	1.85	indels	21	517	2	108	alt_allele_in_normal	21:5,16	2:2,0	no
+ALK	others	.					intronic	.	.	chr2	29451557	GAGGCAGGGTGCTGGCTCGAAAGCCAGCACCCTGCCTCTGGCTGGTCC	G	4.78	2.41	indels	20	418	2	82	LikelySomatic	20:7,13	2:1,1	no
+LRP1B	others	COSM1613440					intronic	.	.	chr2	141294285	GA	G	11.70	9.52	indels	73	624	12	126	PASS:Germline	73:28,45	12:5,7	no
+NCOR1	others	.					intronic	.	.	chr17	16097956	A	G	3.32	2.75	AA	40	1205	7	255	PASS:Germline	40:15,25	7:1,6	no
+KMT2C	others	COSM1131645	c.C2710T	p.R904X	exon16	NM_170606	exonic	stopgain	.	chr7	151932961	G	A	1.70	6.39	GG	78	4214	52	814	alt_allele_in_normal;clustered_events	78:41,37	52:29,23	no
+KMT2C	others	COSM1131645	c.C2710T	p.R904X	exon16	NM_170606	exonic	stopgain	.	chr7	151932961	G	A	7.72	7.32	GG	366	4743	59	806	PASS:Germline	366:80,286	59:16,43	no
+SDHA	others	.	c.G1250A,c.G1394A	p.R417Q,p.R465Q	exon9,exon10	NM_001294332,NM_004168	exonic	nonsynonymous SNV	.	chr5	236676	G	A	2.16	1.36	GG	71	3291	7	514	PASS:Germline	71:35,36	7:3,4	no
+RAD50	others	.					intronic	.	.	chr5	131924363	AT	A	1.84	3.59	indels	13	706	7	195	PASS:Germline	13:10,3	7:5,2	no
+NPM1	others	.					intronic	.	.	chr5	170815060	T	G	1.12	7.46	TT	6	538	5	67	PASS:Germline	6:1,5	5:0,5	no
+TERT	others	.					intronic	.	.	chr5	1260515	GCA	G	4.80	8.81	indels	63	1315	17	193	alt_allele_in_normal;str_contraction;triallelic_site	63:27,35	17:8,7	no
+SDHA	others	.	c.C1223T,c.C1367T	p.S408L,p.S456L	exon9,exon10	NM_001294332,NM_004168	exonic	nonsynonymous SNV	.	chr5	236649	C	T	1.90	1.57	CC	63	3314	8	509	PASS:Germline	63:32,31	8:4,4	no
+HLA-A	others	.					intronic	.	.	chr6	29911844	T	A	6.60	6.24	TT	179	2589	27	433	alt_allele_in_normal;clustered_events	179:94,85	27:14,13	no
+HLA-A	others	.					intronic	.	.	chr6	29911844	T	A	7.49	6.32	TT	205	2738	28	443	PASS:Germline	205:135,70	28:19,9	no
+ADGRA2	others	.	c.T1421G	p.L474W	exon10	NM_032777	exonic	nonsynonymous SNV	.	chr8	37691330	T	G	45.69	43.46	TG	847	1854	176	405	PASS:Germline	847:356,491	176:76,100	no
+HERC2	others	.					intronic	.	.	chr15	28517998	C	G	1.10	1.89	CC	8	996	3	159	alt_allele_in_normal;clustered_events	8:4,4	3:3,0	no
+HERC2	others	.					intronic	.	.	chr15	28517998	C	G	1.39	1.9	CC	14	1007	3	158	PASS:Germline	14:10,4	3:2,1	no
+BCR	others	.	c.3142_3143insCCGG,c.3274_3275insCCGG	p.G1049fs(ref_AA:S,start:1048,end:1048,mut_AA:SG),p.G1093fs(ref_AA:S,start:1092,end:1092,mut_AA:SG)	exon18,exon19	NM_021574,NM_004327	exonic	frameshift insertion	.	chr22	23653975	T	TCCGG	22.87	20.73	indels	360	1574	40	193	PASS:Germline	360:72,288	40:11,29	no
+HERC2	others	.					intronic	.	.	chr15	28566630	C	T	1.77	2.65	CC	13	733	3	113	PASS:Germline	13:4,9	3:1,2	no
+DICER1	others	.					intronic	.	.	chr14	95566095	ACACACACACACAC	A	14.70	13.25	indels	67	400	11	83	alt_allele_in_normal;t_lod_fstar	67:30,20	11:2,5	no
+BCR	others	.					intronic	.	.	chr22	23635769	C	A	49.75	47.94	CA	1276	2565	198	413	PASS:Germline	1276:614,662	198:97,101	no
+MYH9	others	.					intronic	.	.	chr22	36721212	GGA	G	2.20	0	indels	19	859	0	82	str_contraction	19:7,12	0:0,0	yes
+MYH9	others	.					intronic	.	.	chr22	36721212	GGA	G	1.72	0	indels	18	1049	0	101	PASS:Somatic	18:6,12	0:0,0	no
+ETV6	others	.					intronic	.	.	chr12	12011325	A	AAT	28.45	33.7	indels	202	710	61	181	PASS:Germline	202:106,96	61:41,20	no
+PPP6C	others	.					UTR5	.	NM_001123355:c.-27_-29delCGC,NM_002721:c.-27_-29delCGC,NM_001123369:c.-27_-29delCGC	chr9	127952023	AGCG	A	3.50	1.64	indels	6	214	1	61	str_contraction	6:1,5	1:1,0	no
+HERC2	others	.	c.G816A	p.T272T	exon8	NM_004667	exonic	synonymous SNV	.	chr15	28518135	C	T	2.30	3.94	CC	35	1412	10	254	alt_allele_in_normal;clustered_events	35:16,19	10:2,8	no
+HERC2	others	.	c.G816A	p.T272T	exon8	NM_004667	exonic	synonymous SNV	.	chr15	28518135	C	T	6.16	6.18	CC	90	1460	16	259	PASS:Germline	90:51,39	16:7,9	no
+ERBB4	others	.					intronic	.	.	chr2	212488828	G	GTC	28.25	23.86	indels	191	676	42	176	PASS:Germline	191:90,101	42:20,22	no
+ERBB4	others	.					intronic	.	.	chr2	212488828	G	GTC	28.12	31.33	indels	153	544	47	149	Germline	153:45,108	47:12,35	no
+CHD4	others	COSM1476846,COSM1476848,COSM1476847	c.334_336del,c.355_357del	p.K112delK(ref_AA:K,start:112,end:112,mut_AA:),p.K119delK(ref_AA:K,start:119,end:119,mut_AA:)	exon3,exon4	NM_001297553,NM_001273	exonic	nonframeshift deletion	.	chr12	6711206	GCTT	G	1.70	1.07	indels	15	1002	2	187	alt_allele_in_normal;clustered_events;str_contraction	15:6,9	2:0,2	no
+ABL2	others	.	c.C2924G,c.C2615G,c.C2570G,c.C2942G,c.C2987G,c.C2633G,c.C2678G	p.P975R,p.P872R,p.P857R,p.P981R,p.P996R,p.P878R,p.P893R	exon11,exon12,exon12,exon12,exon12,exon13,exon13	NM_001168236,NM_001168238,NM_001168239,NM_005158,NM_007314,NM_001136000,NM_001168237	exonic	nonsynonymous SNV	.	chr1	179077415	G	C	38.58	44.85	GC	824	2136	122	272	PASS:Germline	824:542,282	122:81,41	no
+ABL2	others	.	c.C2924G,c.C2615G,c.C2570G,c.C2942G,c.C2987G,c.C2633G,c.C2678G	p.P975R,p.P872R,p.P857R,p.P981R,p.P996R,p.P878R,p.P893R	exon11,exon12,exon12,exon12,exon12,exon13,exon13	NM_001168236,NM_001168238,NM_001168239,NM_005158,NM_007314,NM_001136000,NM_001168237	exonic	nonsynonymous SNV	.	chr1	179077415	G	C	41.33	47.17	GC	677	1638	100	211	Germline	677:312,365	100:49,51	no
+GATA3	others	.					intronic	.	.	chr10	8111345	CT	C	10.15	7.69	indels	34	335	4	52	PASS:Germline	34:30,4	4:4,0	no
+BCR	others	.					intronic	.	.	chr22	23587992	T	TA	10.68	8.02	indels	175	1638	21	262	PASS:Germline	175:83,92	21:10,11	no
+FANCD2	others	.	c.C1275T,c.C1275T	p.Y425Y,p.Y425Y	exon15,exon15	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10088404	C	T	21.14	24.95	CC	486	2299	123	493	PASS:Germline	486:186,300	123:45,78	no
+SF3B1	others	.					intronic	.	.	chr2	198257673	TA	T	2.33	1.46	indels	23	986	3	205	PASS:Germline	23:19,4	3:2,1	no
+SF3B1	others	.					intronic	.	.	chr2	198257673	TA	T	2.72	1.27	indels	21	771	2	157	LikelySomatic	21:17,4	2:1,1	no
+USP8	others	.	c.G2074C,c.G2392C,c.G2392C	p.A692P,p.A798P,p.A798P	exon12,exon15,exon15	NM_001283049,NM_001128610,NM_005154	exonic	nonsynonymous SNV	.	chr15	50785055	G	C	1.49	4.43	GG	33	2216	18	406	PASS:Germline	33:15,18	18:8,10	no
+SPOP	others	.					intronic	.	.	chr17	47696764	G	GA	2.88	2.68	indels	42	1459	6	224	PASS:Germline	42:17,25	6:3,3	no
+ROS1	others	.					intronic	.	.	chr6	117655489	T	C	10.53	0	TT	6	57	0	45	PASS:Somatic	6:5,1	0:0,0	no
+NCOR1	others	.	c.G207C,c.G534C,c.G534C	p.K69N,p.K178N,p.K178N	exon2,exon4,exon5	NM_001190438,NM_001190440,NM_006311	exonic	nonsynonymous SNV	.	chr17	16068377	C	G	43.10	36.12	CG	922	2139	203	562	PASS:Germline	922:555,367	203:118,85	no
+PARP4	others	COSM3931804	c.C2019T	p.F673F	exon16	NM_006437	exonic	synonymous SNV	.	chr13	25044059	G	A	2.03	1.46	GG	50	2458	7	479	PASS:Germline	50:26,24	7:3,4	no
+NFATC2	others	.	c.G2668T,c.G2071T,c.G2071T,c.G2728T	p.E890X,p.E691X,p.E691X,p.E910X	exon10,exon10,exon10,exon10	NM_001258292,NM_001258295,NM_001258297,NM_173091	exonic	stopgain	.	chr20	50007983	C	A	1.18	0	CC	8	676	0	83	PASS:Somatic	8:1,7	0:0,0	no
+BCR	others	.					intronic	.	.	chr22	23533648	A	AAC	1.96	3.5	indels	18	920	5	143	PASS:Germline	18:9,9	5:3,2	no
+AHNAK2	others	.	c.A11337G	p.K3779K	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105410451	T	C	29.05	30.17	TC	1552	5342	328	1087	PASS:Germline	1552:661,891	328:135,193	no
+PARP4	others	.					intronic	.	.	chr13	25043138	T	C	2.83	0.91	TT	72	2545	4	440	PASS:Germline	72:37,35	4:2,2	no
+UGT1A3	others	COSM328558	c.C673T	p.H225Y	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234638445	C	T	1.66	1.65	CC	73	4406	15	907	PASS:Germline	73:61,12	15:11,4	no
+UGT1A3	others	COSM328558	c.C673T	p.H225Y	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234638445	C	T	2.14	1.77	CC	65	3040	11	621	LikelySomatic	65:52,13	11:7,4	no
+KMT2C	others	.					intronic	.	.	chr7	151933034	G	A	1.60	2.5	GG	49	3328	14	560	alt_allele_in_normal;clustered_events	49:33,16	14:7,7	no
+KMT2C	others	.					intronic	.	.	chr7	151933034	G	A	3.30	1.43	GG	115	3484	8	558	PASS:Germline	115:30,85	8:2,6	no
+SDHA	others	.					UTR3	.	NM_004168:c.*14G>A,NM_001294332:c.*14G>A	chr5	256549	G	A	9.99	9.76	GG	342	3422	54	553	PASS:Germline	342:60,282	54:12,42	no
+OSBPL10	others	.	c.A1419T,c.A1611T	p.P473P,p.P537P	exon7,exon8	NM_001174060,NM_017784	exonic	synonymous SNV	.	chr3	31725241	T	A	51.91	44.41	TA	2200	4238	322	725	PASS:Germline	2200:1037,1163	322:143,179	no
+OSBPL10	others	.	c.A1419T,c.A1611T	p.P473P,p.P537P	exon7,exon8	NM_001174060,NM_017784	exonic	synonymous SNV	.	chr3	31725241	T	A	52.60	44.51	TA	1601	3044	231	518	Germline	1601:400,1201	231:48,183	no
+UGT1A5	others	.	c.T783C	p.F261F	exon1	NM_019078	exonic	synonymous SNV	.	chr2	234622420	T	C	41.39	35.72	TC	1382	3339	239	669	PASS:Germline	1382:674,708	239:115,124	no
+SDHA	others	.					UTR3	.	NM_004168:c.*38A>G,NM_001294332:c.*38A>G	chr5	256573	A	G	8.26	7.36	AA	213	2580	31	421	PASS:Germline	213:26,187	31:4,27	no
+FANCD2	others	.					intronic	.	.	chr3	10106345	C	T	1.23	0.75	CC	17	1383	2	265	PASS:Germline	17:10,7	2:1,1	no
+FANCD2	others	.					intronic	.	.	chr3	10106345	C	T	1.94	1.1	CC	19	980	2	180	LikelySomatic	19:10,9	2:1,1	no
+NFKB2	others	.					intronic	.	.	chr10	104160640	T	G	1.47	2.15	TT	6	409	2	93	PASS:Germline	6:2,4	2:0,2	no
+REL	others	.					intronic	.	.	chr2	61145498	AT	A	13.81	11.67	indels	100	724	21	180	PASS:Germline	100:65,35	21:13,8	no
+SDHA	others	.	c.C1164T,c.C1308T	p.Y388Y,p.Y436Y	exon9,exon10	NM_001294332,NM_004168	exonic	synonymous SNV	.	chr5	236590	C	T	49.31	55.81	CT	966	1959	168	301	PASS:Germline	966:632,334	168:109,59	no
+SDHA	others	.	c.C1164T,c.C1308T	p.Y388Y,p.Y436Y	exon9,exon10	NM_001294332,NM_004168	exonic	synonymous SNV	.	chr5	236590	C	T	49.55	53.64	CT	709	1431	118	219	Germline	709:361,348	118:56,62	no
+HLA-A	others	.					intronic	.	.	chr6	29911827	G	A	7.10	6.03	GG	155	2137	21	348	alt_allele_in_normal;clustered_events	155:81,74	21:11,10	no
+HLA-A	others	.					intronic	.	.	chr6	29911827	G	A	8.32	6.37	GG	190	2283	23	361	PASS:Germline	190:125,65	23:16,7	no
+CREB1	others	.					intronic	.	.	chr2	208442483	A	AT	1.54	3.97	indels	7	455	5	126	PASS:Germline	7:1,6	5:0,5	no
+AHNAK2	others	.	c.A8748G	p.I2916M	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413040	T	C	11.64	13.34	TT	428	3676	83	622	PASS:Germline	428:288,140	83:50,33	no
+ETV1	others	.					intronic	.	.	chr7	14003156	CA	C	52.71	47.37	indels	68	129	18	38	PASS:Germline	68:50,18	18:15,3	no
+ATM	others	.					intronic	.	.	chr11	108188266	AT	A	7.10	6.87	indels	93	1309	18	262	PASS:Germline	93:31,62	18:9,9	no
+FANCD2	others	.					intronic	.	.	chr3	10091252	A	C	15.84	20.37	AA	213	1345	55	270	PASS:Germline	213:62,151	55:13,42	no
+KMT2C	others	COSM4162000	c.G2706A	p.S902S	exon16	NM_170606	exonic	synonymous SNV	.	chr7	151932965	C	T	1.10	2.06	CC	47	4314	17	826	alt_allele_in_normal;clustered_events	47:27,20	17:10,7	no
+KMT2C	others	COSM4162000	c.G2706A	p.S902S	exon16	NM_170606	exonic	synonymous SNV	.	chr7	151932965	C	T	3.91	2.21	CC	190	4858	18	816	PASS:Germline	190:51,139	18:3,15	no
+VTI1A	others	.					intronic	.	.	chr10	114293328	CT	C	6.03	5.13	indels	22	365	6	117	PASS:Germline	22:12,10	6:2,4	no
+APC	others	.					intronic	.	.	chr5	112154524	G	GT	7.33	7.84	indels	22	300	4	51	PASS:Germline	22:19,3	4:3,1	no
+APC	others	.					intronic	.	.	chr5	112154524	G	GT	6.27	6.52	indels	17	271	3	45	Germline	17:15,2	3:1,2	no
+FANCD2	others	.	c.T1440C,c.T1440C	p.H480H,p.H480H	exon17,exon17	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10091084	T	C	10.26	9.01	TT	227	2212	43	477	PASS:Germline	227:154,73	43:33,10	no
+FANCD2	others	.	c.T1440C,c.T1440C	p.H480H,p.H480H	exon17,exon17	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10091084	T	C	12.07	11.25	TT	177	1467	36	319	Germline	177:97,80	36:24,12	no
+AHNAK2	others	COSM2027147	c.T5533A	p.S1845T	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105416255	A	T	4.03	4.51	AA	197	4887	45	998	PASS:Germline	197:105,92	45:23,22	no
+GMPS	others	.					intronic	.	.	chr3	155649472	T	A	28.16	29.82	TA	118	419	17	56	Germline	118:100,18	17:14,3	no
+TRRAP	others	.					intronic	.	.	chr7	98495297	TTG	T	12.61	0	indels	105	833	0	102	PASS:Somatic	105:57,48	0:0,0	no
+AXIN1	others	.	c.T818G,c.T818G	p.L273R,p.L273R	exon2,exon2	NM_003502,NM_181050	exonic	nonsynonymous SNV	.	chr16	396208	A	C	36.51	45.73	AC	716	1961	107	234	PASS:Germline	716:434,282	107:69,38	no
+BCR	others	.					intronic	.	.	chr22	23653813	T	G	39.91	40.94	TG	864	2165	131	320	PASS:Germline	864:526,338	131:78,53	no
+AHNAK2	others	.	c.G3397A	p.V1133I	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105418391	C	T	95.54	94.83	TT	3834	4013	697	735	PASS:Germline	3834:1720,2114	697:308,389	no
+KMT2A	others	.					intronic	.	.	chr11	118353037	G	GT	17.48	14.71	indels	246	1407	30	204	PASS:Germline	246:148,98	30:22,8	no
+HERC2	others	.	c.C821G	p.A274G	exon8	NM_004667	exonic	nonsynonymous SNV	.	chr15	28518130	G	C	2.20	3.54	GG	35	1451	9	254	alt_allele_in_normal;clustered_events	35:16,19	9:2,7	no
+HERC2	others	.	c.C821G	p.A274G	exon8	NM_004667	exonic	nonsynonymous SNV	.	chr15	28518130	G	C	6.01	6.11	GG	91	1515	16	262	PASS:Germline	91:52,39	16:7,9	no
+FLT4	others	.					intronic	.	.	chr5	180039650	A	C	1.72	3.81	AA	10	583	4	105	PASS:Germline	10:9,1	4:4,0	no
+LRP1B	others	.					intronic	.	.	chr2	141208248	G	GA	1.47	0	indels	6	409	0	115	PASS:Somatic	6:1,5	0:0,0	no
+KMT2C	others	COSM4162012	c.A2556T	p.T852T	exon15	NM_170606	exonic	synonymous SNV	.	chr7	151935888	T	A	14.81	16.59	TT	388	2619	106	639	PASS:Germline	388:167,221	106:42,64	no
+PLEC	others	.	c.G371T,c.G347T,c.G824T,c.G317T,c.G413T,c.G425T,c.G413T,c.G494T	p.W124L,p.W116L,p.W275L,p.W106L,p.W138L,p.W142L,p.W138L,p.W165L	exon5,exon5,exon5,exon5,exon5,exon5,exon5,exon6	NM_201378,NM_201379,NM_201380,NM_201381,NM_201382,NM_201383,NM_201384,NM_000445	exonic	nonsynonymous SNV	.	chr8	145011169	C	A	1.07	0	CC	6	562	0	94	PASS:Somatic	6:3,3	0:0,0	no
+ETV6	others	.					intronic	.	.	chr12	11980092	G	GT	1.75	1.09	indels	32	1826	4	367	PASS:Germline	32:20,12	4:4,0	no
+HLA-A	others	.					intronic	.	.	chr6	29910429	C	G	51.58	37.5	CG	147	285	21	56	PASS:Germline	147:42,105	21:5,16	no
+FCGR3A	others	.	c.G352A,c.G349A,c.G244A,c.G244A,c.G241A	p.D118N,p.D117N,p.D82N,p.D82N,p.D81N	exon3,exon3,exon4,exon4,exon4	NM_000569,NM_001127592,NM_001127593,NM_001127595,NM_001127596	exonic	nonsynonymous SNV	.	chr1	161518286	C	T	15.87	15.54	CC	911	5742	117	753	PASS:Germline	911:393,518	117:54,63	no
+CREBBP	others	.					intronic	.	.	chr16	3823680	G	GA	3.77	2.56	indels	31	822	2	78	PASS:Germline	31:24,7	2:2,0	no
+FANCC	others	.	c.G973A,c.G973A,c.G973A	p.A325T,p.A325T,p.A325T	exon10,exon10,exon10	NM_000136,NM_001243743,NM_001243744	exonic	nonsynonymous SNV	.	chr9	97887391	C	T	43.67	47.19	CT	1400	3206	285	604	PASS:Germline	1400:823,577	285:169,116	no
+SBDS	others	.	c.G127T	p.V43L	exon1	NM_016038	exonic	nonsynonymous SNV	.	chr7	66460278	C	A	1.35	0	CC	27	1996	0	356	PASS:Somatic	27:14,13	0:0,0	no
+KMT2C	others	.					intronic	.	.	chr7	151970705	A	C	10.09	9.37	AA	213	2112	49	523	PASS:Germline	213:188,25	49:45,4	no
+ELL	others	.					intronic	.	.	chr19	18583696	TA	T	22.55	18.52	indels	99	439	10	54	PASS:Germline	99:89,10	10:10,0	no
+LOC101929829	others	.					ncRNA_intronic	.	.	chr22	42524975	C	T	1.50	3.23	CC	6	408	2	62	alt_allele_in_normal;clustered_events	6:3,3	2:0,2	no
+LOC101929829	others	.					ncRNA_intronic	.	.	chr22	42524975	C	T	1.70	3.23	CC	7	412	2	62	PASS:Germline	7:1,6	2:1,1	no
+ZFHX3	others	COSM973528	c.2479_2481del,c.5221_5223del	p.Q827delQ(ref_AA:Q,start:827,end:827,mut_AA:),p.Q1741delQ(ref_AA:Q,start:1741,end:1741,mut_AA:)	exon8,exon9	NM_001164766,NM_006885	exonic	nonframeshift deletion	.	chr16	72831357	CTTG	C	2.95	6.05	indels	43	1457	17	281	PASS:Germline	43:22,21	17:8,9	no
+NCOR1	others	.	c.C241T,c.C568T,c.C568T	p.R81X,p.R190X,p.R190X	exon2,exon4,exon5	NM_001190438,NM_001190440,NM_006311	exonic	stopgain	.	chr17	16068343	G	A	43.52	32.84	GA	652	1498	133	405	PASS:Germline	652:460,192	133:97,36	no
+SOD2	others	.					intronic	.	.	chr6	160106070	TA	T	3.32	2.57	indels	66	1985	8	311	PASS:Germline	66:22,44	8:1,7	no
+HERC2	others	.					intronic	.	.	chr15	28518029	G	C	2.20	3.88	GG	29	1352	8	206	alt_allele_in_normal;clustered_events	29:15,14	8:4,4	no
+HERC2	others	.					intronic	.	.	chr15	28518029	G	C	2.08	1.98	GG	28	1346	4	202	PASS:Germline	28:15,13	4:2,2	no
+WHSC1	others	COSM1163361	c.4021dupC,c.4021dupC,c.4021dupC,c.4021dupC	p.K1340fs,p.K1340fs,p.K1340fs,p.K1340fs	exon22,exon22,exon23,exon24	NM_001042424,NM_133335,NM_133331,NM_133330	exonic	frameshift insertion	.	chr4	1980558	G	GC	1.20	0	indels	12	1000	0	167	PASS:Somatic	12:3,9	0:0,0	no
+NOTCH2	others	COSM1736165	c.G112A,c.G112A	p.E38K,p.E38K	exon2,exon2	NM_001200001,NM_024408	exonic	nonsynonymous SNV	.	chr1	120572572	C	T	15.07	17.11	CC	797	5289	141	824	PASS:Germline	797:460,337	141:84,57	no
+NOTCH2	others	COSM1736165	c.G112A,c.G112A	p.E38K,p.E38K	exon2,exon2	NM_001200001,NM_024408	exonic	nonsynonymous SNV	.	chr1	120572572	C	T	16.43	19.07	CC	574	3493	103	539	Germline	574:223,351	103:44,59	no
+APC	others	.					intronic	.	.	chr5	112154544	C	CG	30.35	48.84	indels	61	201	21	43	PASS:Germline	61:30,31	21:12,9	no
+APC	others	.					intronic	.	.	chr5	112154544	C	CG	30.15	37.04	indels	82	272	20	53	Germline	82:36,46	20:7,13	no
+KMT2A	others	.					intronic	.	.	chr11	118373018	AAT	A	3.30	6.03	indels	21	684	7	116	alt_allele_in_normal;str_contraction;triallelic_site	21:9,12	7:5,2	no
+NF1	others	.					intronic	.	.	chr17	29575849	C	CT	6.26	8.09	indels	63	1006	11	136	PASS:Germline	63:37,26	11:6,5	no
+FANCI	others	.					intronic	.	.	chr15	89833549	C	G	48.00	44.24	CG	696	1450	119	269	PASS:Germline	696:226,470	119:37,82	no
+KMT2C	others	.	c.G3168A	p.W1056X	exon20	NM_170606	exonic	stopgain	.	chr7	151921255	C	T	1.15	1.57	CC	30	2610	8	509	PASS:Germline	30:15,15	8:4,4	no
+CDC73	others	.					intronic	.	.	chr1	193111228	TGA	T	7.47	10.88	indels	93	1245	36	331	PASS:Germline	93:33,60	36:14,22	no
+AHNAK2	others	.	c.G8602A	p.A2868T	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413186	C	T	8.67	8.96	CC	259	2988	37	413	PASS:Germline	259:70,189	37:8,29	no
+AHNAK2	others	.	c.T9650C	p.L3217P	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105412138	A	G	11.26	9.75	AA	318	2823	46	472	PASS:Germline	318:113,205	46:17,29	no
+FANCD2	others	.	c.T1179C,c.T1179C	p.T393T,p.T393T	exon15,exon15	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10088308	T	C	27.42	29.45	TC	882	3217	192	652	PASS:Germline	882:544,338	192:118,74	no
+FANCD2	others	.	c.T1179C,c.T1179C	p.T393T,p.T393T	exon15,exon15	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10088308	T	C	28.36	31.73	TC	635	2239	145	456	Germline	635:218,417	145:44,101	no
+PAX5	others	.					intronic	.	.	chr9	36923303	ATC	A	1.10	1.35	indels	23	1365	3	222	alt_allele_in_normal;str_contraction	23:10,9	3:1,2	no
+PAX5	others	.					intronic	.	.	chr9	36923303	ATC	A	1.38	0.9	indels	19	1374	2	223	PASS:Germline	19:9,10	2:1,1	no
+SOS1	others	COSM1641914					intronic	.	.	chr2	39233678	GA	G	1.77	1.98	indels	7	396	2	101	PASS:Germline	7:3,4	2:1,1	no
+PARP4	others	COSM3360050	c.C2010T	p.F670F	exon16	NM_006437	exonic	synonymous SNV	.	chr13	25044068	G	A	2.06	1.27	GG	49	2382	6	471	PASS:Germline	49:25,24	6:3,3	no
+DNMT1	others	.	c.C948T,c.C996T	p.D316D,p.D332D	exon12,exon13	NM_001379,NM_001130823	exonic	synonymous SNV	.	chr19	10273355	G	A	55.10	46.24	GA	740	1343	86	186	PASS:Germline	740:493,247	86:56,30	no
+FANCD2	others	.					intronic	.	.	chr3	10089738	A	G	34.26	35.05	AG	908	2650	177	505	PASS:Germline	908:317,591	177:68,109	no
+PTPRK	others	.	c.A289G,c.A289G,c.A289G,c.A289G,c.A289G	p.T97A,p.T97A,p.T97A,p.T97A,p.T97A	exon3,exon3,exon3,exon3,exon3	NM_001135648,NM_001291981,NM_001291982,NM_001291984,NM_002844	exonic	nonsynonymous SNV	.	chr6	128643390	T	C	53.87	48.74	TC	209	388	310	636	PASS:Germline	209:102,107	310:155,155	no
+CRLF2	others	.					intronic	.	.	chrX	1317599	TAC	T	15.37	11.54	indels	178	1158	21	182	PASS:Germline	178:38,140	21:9,12	no
+CHUK	others	.					intronic	.	.	chr10	101961753	G	T	1.01	0	GG	7	694	0	140	PASS:Somatic	7:4,3	0:0,0	no
+HERC2	others	COSM236299	c.836delG	p.G279fs	exon8	NM_004667	exonic	frameshift deletion	.	chr15	28518114	TC	T	2.00	2.66	indels	25	1536	7	263	alt_allele_in_normal;clustered_events	25:13,12	7:1,6	no
+HERC2	others	COSM236299	c.836delG	p.G279fs	exon8	NM_004667	exonic	frameshift deletion	.	chr15	28518114	TC	T	6.00	5.7	indels	97	1617	15	263	PASS:Germline	97:54,43	15:7,8	no
+TMPRSS2	others	.					intronic	.	.	chr21	42855490	G	T	2.16	0	GG	8	371	0	60	PASS:Somatic	8:7,1	0:0,0	no
+KMT2C	others	.					intronic	.	.	chr7	151971015	G	A	3.60	3.98	GG	60	1532	20	503	alt_allele_in_normal;clustered_events	60:26,34	20:12,8	no
+KMT2C	others	.					intronic	.	.	chr7	151971015	G	A	7.82	6.45	GG	179	2290	34	527	PASS:Germline	179:56,123	34:10,24	no
+FAT4	others	.	c.G5937T,c.G5937T,c.G5937T	p.L1979F,p.L1979F,p.L1979F	exon5,exon5,exon5	NM_001291285,NM_001291303,NM_024582	exonic	nonsynonymous SNV	.	chr4	126336055	G	T	1.01	0	GG	7	694	0	295	PASS:Somatic	7:3,4	0:0,0	no
+NOTCH2	others	.					intronic	.	.	chr1	120539544	A	T	3.50	2.14	AA	30	1167	4	187	alt_allele_in_normal;clustered_events	30:14,16	4:2,2	no
+HERC2	others	.					intronic	.	.	chr15	28518228	A	G	3.80	4.17	AA	25	664	5	120	alt_allele_in_normal;clustered_events	25:9,16	5:1,4	no
+BRCA2	others	.					intronic	.	.	chr13	32907535	C	CT	6.68	5.24	indels	61	913	13	248	PASS:Germline	61:18,43	13:3,10	no
+CASP8	others	.					intronic	.	.	chr2	202137288	T	TA	39.17	46.94	indels	226	577	46	98	PASS:Germline	226:193,33	46:38,8	no
+NTRK1	others	.					intronic	.	.	chr1	156842855	T	G	3.96	0	TT	8	202	0	26	StrongSomatic	8:6,2	0:0,0	yes
+KMT2C	others	COSM4161994	c.A2917G	p.R973G	exon18	NM_170606	exonic	nonsynonymous SNV	.	chr7	151927067	T	C	12.41	13.83	TT	679	5472	258	1866	PASS:Germline	679:305,374	258:122,136	no
+KMT2C	others	.	c.C3274T	p.R1092X	exon20	NM_170606	exonic	stopgain	.	chr7	151921149	G	A	3.81	3.48	GG	98	2569	20	575	PASS:Germline	98:40,58	20:8,12	no
+FANCD2	others	.	c.1278_1278del,c.1278_1278del	p.V427fs(ref_AA:L,start:426,end:426,mut_AA:L),p.V427fs(ref_AA:L,start:426,end:426,mut_AA:L)	exon15,exon15	NM_001018115,NM_033084	exonic	frameshift deletion	.	chr3	10088406	TAGTA	T	23.15	25.61	indels	534	2307	125	488	PASS:Germline	534:191,343	125:47,78	no
+HERC2	others	.	c.C6997T	p.L2333F	exon44	NM_004667	exonic	nonsynonymous SNV	.	chr15	28456220	G	A	3.80	1.17	GG	37	1522	3	257	alt_allele_in_normal	37:14,23	3:1,2	no
+ALK	others	.					intronic	.	.	chr2	29519588	AGT	A	6.80	0	indels	23	337	0	48	str_contraction	23:16,7	0:0,0	yes
+BUB1B	others	.					intronic	.	.	chr15	40494691	G	GT	1.08	1.73	indels	8	739	3	173	PASS:Germline	8:7,1	3:2,1	no
+ETV1	others	.					intronic	.	.	chr7	14028169	T	C	2.02	2.04	TT	9	445	2	98	PASS:Germline	9:2,7	2:0,2	no
+KMT2C	others	.	c.C2613T	p.P871P	exon15	NM_170606	exonic	synonymous SNV	.	chr7	151935831	G	A	3.30	5.34	GG	81	2732	42	786	alt_allele_in_normal	81:39,42	42:22,20	no
+KMT2C	others	.	c.C2613T	p.P871P	exon15	NM_170606	exonic	synonymous SNV	.	chr7	151935831	G	A	4.21	5.09	GG	133	3157	40	786	PASS:Germline	133:53,80	40:15,25	no
+HERC2	others	.	c.C18G	p.F6L	exon2	NM_004667	exonic	nonsynonymous SNV	.	chr15	28566562	G	C	1.58	2.09	GG	21	1330	4	191	PASS:Germline	21:4,17	4:1,3	no
+AHNAK2	others	.	c.T3654C	p.A1218A	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418134	A	G	33.08	31.49	AG	1363	4120	233	740	PASS:Germline	1363:927,436	233:152,81	no
+OBSCN	others	.	c.2721_2722CA,c.2721_2722CA,c.2997_2998CA	p.A908T(ref_AA:SA,start:907,end:908,mut_AA:ST),p.A908T(ref_AA:SA,start:907,end:908,mut_AA:ST),p.A1000T(ref_AA:SA,start:999,end:1000,mut_AA:ST)	exon9,exon9,exon10	NM_001098623,NM_052843,NM_001271223	exonic	nonframeshift substitution	.	chr1	228412227	TG	CA	55.64	47.85	TGCA	760	1366	78	162	Germline	760:279,481	78:26,52	no
+RICTOR	others	.					intronic	.	.	chr5	38958956	TA	T	2.93	2.99	indels	10	341	2	67	PASS:Germline	10:3,7	2:0,2	no
+NOTCH2	others	.					UTR5	.	NM_024408:c.-21_-20insCGGCGGAGG,NM_001200001:c.-21_-20insCGGCGGAGG	chr1	120612040	T	TCCTCCGCCG	36.72	33.33	indels	47	128	7	20	Germline	47:13,34	7:1,6	no
+PARP4	others	.	c.C3509T	p.T1170I	exon29	NM_006437	exonic	nonsynonymous SNV	.	chr13	25016762	G	A	6.17	10.23	GG	35	567	9	88	PASS:Germline	35:22,13	9:6,3	no
+TEK	others	.	c.C2707T,c.C3022T,c.C3151T	p.L903L,p.L1008L,p.L1051L	exon19,exon20,exon21	NM_001290078,NM_001290077,NM_000459	exonic	synonymous SNV	.	chr9	27220094	C	T	40.07	41.6	CT	861	2149	146	351	PASS:Germline	861:425,436	146:71,75	no
+GPC3	others	.					intronic	.	.	chrX	132888207	TA	T	15.25	24.39	indels	18	118	10	41	PASS:Germline	18:5,13	10:3,7	no
+HNF1A	others	.					intronic	.	.	chr12	121434630	C	CTCAT	66.70	1.66	indels	13	1094	4	241	alt_allele_in_normal;germline_risk	13:1,8	4:2,1	no
+BTK	others	.					intronic	.	.	chrX	100615021	T	TAG	92.96	91.46	indels	436	469	75	82	PASS:Germline	436:292,144	75:51,24	no
+SRSF2	others	COSM3796131,COSM3796130	c.G500A,c.G500A	p.R167Q,p.R167Q	exon2,exon2	NM_001195427,NM_003016	exonic	nonsynonymous SNV	.	chr17	74732409	C	T	1.10	0	CC	25	2005	0	266	clustered_events	25:9,16	0:0,0	yes
+SRSF2	others	COSM3796131,COSM3796130	c.G500A,c.G500A	p.R167Q,p.R167Q	exon2,exon2	NM_001195427,NM_003016	exonic	nonsynonymous SNV	.	chr17	74732409	C	T	1.15	0	CC	23	2007	0	271	PASS:Somatic	23:10,13	0:0,0	no
+HMGA2	others	.					intronic	.	.	chr12	66221758	AT	A	1.66	0.97	indels	26	1569	7	718	PASS:Germline	26:14,12	7:5,2	no
+ZRSR2	others	.					intronic	.	.	chrX	15822072	GA	G	7.41	12.5	indels	6	81	2	16	PASS:Germline	6:4,2	2:1,1	no
+KMT2C	others	COSM1635196	c.A2304G	p.S768S	exon14	NM_170606	exonic	synonymous SNV	.	chr7	151945215	T	C	14.56	13.25	TT	537	3687	191	1442	PASS:Germline	537:71,466	191:26,165	no
+FUBP1	others	.					intronic	.	.	chr1	78435701	TA	T	9.13	7.69	indels	71	778	17	221	PASS:Germline	71:29,42	17:9,8	no
+FUBP1	others	.					intronic	.	.	chr1	78435701	TA	T	9.26	8.61	indels	50	540	13	150	Germline	50:5,45	13:5,8	no
+HERC2	others	.					intronic	.	.	chr15	28518179	A	G	3.30	5.21	AA	43	1054	10	192	alt_allele_in_normal;clustered_events	43:18,25	10:2,8	no
+HERC2	others	.					intronic	.	.	chr15	28518179	A	G	6.34	4.74	AA	70	1104	9	190	PASS:Germline	70:27,43	9:2,7	no
+FBXW7	others	.					intronic	.	.	chr4	153268227	CA	C	9.29	10.49	indels	17	183	15	143	PASS:Germline	17:3,14	15:4,11	no
+NCOR1	others	.	c.G222A,c.G549A,c.G549A	p.Q74Q,p.Q183Q,p.Q183Q	exon2,exon4,exon5	NM_001190438,NM_001190440,NM_006311	exonic	synonymous SNV	.	chr17	16068362	C	T	44.85	36.08	CT	857	1911	184	510	PASS:Germline	857:544,313	184:115,69	no
+HLA-A	others	.					intronic	.	.	chr6	29912796	G	A	40.70	35.22	GA	895	2199	112	318	PASS:Germline	895:549,346	112:72,40	no
+HLA-A	others	.					intronic	.	.	chr6	29912796	G	A	42.11	37.27	GA	654	1553	82	219	Germline	654:290,364	82:39,43	no
+DNAH9	others	.					intronic	.	.	chr17	11697015	G	GA	3.47	1.94	indels	18	519	2	103	PASS:Germline	18:7,11	2:0,2	no
+HMGA2	others	.					intronic	.	.	chr12	66235853	C	T	1.19	1.22	CC	6	504	2	164	indelError:Unknown	6:3,3	2:1,1	no
+BCR	others	.					intronic	.	.	chr22	23654968	G	C	1.41	3.12	GG	25	1775	9	288	PASS:Germline	25:16,9	9:6,3	no
+ETV6	others	.					intronic	.	.	chr12	11944690	A	ATGT	94.98	95.45	indels	568	598	84	88	PASS:Germline	568:313,255	84:46,38	no
+SPEN	others	.					intronic	.	.	chr1	16248728	C	CT	3.44	2.5	indels	36	1045	4	160	PASS:Germline	36:22,14	4:2,2	no
+SPEN	others	.					intronic	.	.	chr1	16248728	C	CT	3.94	3.31	indels	31	787	4	120	LikelySomatic	31:15,16	4:2,2	no
+RB1	others	.					intronic	.	.	chr13	48939204	AT	A	2.35	3.25	indels	10	426	4	123	PASS:Germline	10:2,8	4:0,4	no
+AHNAK2	others	.	c.C2317G	p.L773V	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105419471	G	C	3.70	4.31	GG	74	3003	23	534	alt_allele_in_normal;clustered_events	74:31,43	23:8,15	no
+KMT2C	others	.					intronic	.	.	chr7	151932876	G	T	1.50	3.31	GG	35	2404	17	514	alt_allele_in_normal;clustered_events	35:16,19	17:7,10	no
+KMT2C	others	.					intronic	.	.	chr7	151932876	G	T	13.32	11.53	GG	408	3064	64	555	PASS:Germline	408:194,214	64:28,36	no
+AHNAK2	others	.	c.A6097G	p.T2033A	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415691	T	C	3.70	8.79	TT	131	3074	48	546	alt_allele_in_normal;clustered_events	131:72,59	48:25,23	no
+AHNAK2	others	.	c.A6097G	p.T2033A	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415691	T	C	8.23	8.91	TT	265	3221	49	550	PASS:Germline	265:110,155	49:20,29	no
+COLQ	others	.					intronic	.	.	chr3	15539976	CCA	C	4.30	0	indels	8	364	0	43	str_contraction	8:4,4	0:0,0	yes
+AHNAK2	others	.	c.G8611A	p.E2871K	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413177	C	T	9.48	10.02	CC	289	3048	43	429	PASS:Germline	289:84,205	43:12,31	no
+HLA-A	others	.	c.C162T,c.C162T	p.D54D,p.D54D	exon2,exon2	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29910622	C	T	1.73	2.86	CC	8	463	2	70	PASS:Germline	8:4,4	2:1,1	no
+AHNAK2	others	.	c.C3267G	p.F1089L	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105418521	G	C	41.56	36.6	GC	854	2055	127	347	PASS:Germline	854:602,252	127:94,33	no
+NRG1	others	.					intronic	.	.	chr8	32599491	AT	A	3.85	2.6	indels	24	624	7	269	PASS:Germline	24:15,9	7:2,5	no
+FOXO3	others	.	c.C1056G,c.C1056G	p.A352A,p.A352A	exon2,exon3	NM_001455,NM_201559	exonic	synonymous SNV	.	chr6	108985092	C	G	1.78	1.1	CC	65	3647	7	636	PASS:Germline	65:44,21	7:5,2	no
+COL1A1	others	.					intronic	.	.	chr17	48266050	T	C	51.78	45.79	TC	699	1350	87	190	PASS:Germline	699:339,360	87:46,41	no
+BCR	others	.					intronic	.	.	chr22	23635997	A	C	1.45	1.17	AA	25	1727	4	343	PASS:Germline	25:22,3	4:4,0	no
+IL6ST	others	.					intronic	.	.	chr5	55243420	TA	T	16.40	6.67	indels	41	250	3	45	PASS:Germline	41:22,19	3:3,0	no
+FANCD2	others	.					intronic	.	.	chr3	10088242	G	A	15.79	14.54	GG	330	2090	58	399	PASS:Germline	330:271,59	58:50,8	no
+FANCD2	others	.					intronic	.	.	chr3	10088242	G	A	18.72	19.4	GG	296	1581	58	298	Germline	296:211,85	58:39,19	no
+FANCD2	others	.					intronic	.	.	chr3	10089772	C	G	27.50	28.06	CG	468	1702	101	360	PASS:Germline	468:109,359	101:29,72	no
+LIFR	others	.					intronic	.	.	chr5	38528951	GACACAC	G	3.40	7.14	indels	51	560	6	84	alt_allele_in_normal;t_lod_fstar	51:3,7	6:1,1	no
+ZFHX3	others	.	c.C2946T,c.C5688T	p.A982A,p.A1896A	exon8,exon9	NM_001164766,NM_006885	exonic	synonymous SNV	.	chr16	72830893	G	A	40.28	54.03	GA	371	921	67	124	PASS:Germline	371:156,215	67:28,39	no
+AHNAK2	others	.	c.T6402G	p.H2134Q	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415386	A	C	7.03	7.4	AA	287	4084	52	703	PASS:Germline	287:208,79	52:40,12	no
+APC	others	.					intronic	.	.	chr5	112154531	G	T	100.00	100	TT	102	102	9	9	PASS:Germline	102:77,25	9:7,2	no
+APC	others	.					intronic	.	.	chr5	112154531	G	T	62.41	45.1	GT	176	282	23	50	Germline	176:104,72	23:4,19	no
+ARID1A	others	.					UTR3	.	NM_006015:c.*17delC,NM_139135:c.*17delC	chr1	27107263	TC	T	1.99	1.14	indels	39	1961	4	350	PASS:Germline	39:14,25	4:2,2	no
+CHD4	others	.					intronic	.	.	chr12	6690182	C	CA	43.20	32.67	indels	381	882	49	150	PASS:Germline	381:279,102	49:35,14	no
+KMT2C	others	COSM1179671	c.C925T	p.P309S	exon7	NM_170606	exonic	nonsynonymous SNV	.	chr7	151970877	G	A	3.90	6.34	GG	185	5068	115	1815	alt_allele_in_normal	185:82,103	115:60,55	no
+KMT2C	others	COSM1179671	c.C925T	p.P309S	exon7	NM_170606	exonic	nonsynonymous SNV	.	chr7	151970877	G	A	7.17	6.79	GG	462	6441	125	1840	PASS:Germline	462:209,253	125:52,73	no
+HERC2	others	.					intronic	.	.	chr15	28518016	G	A	2.10	3.14	GG	23	1230	6	191	alt_allele_in_normal;clustered_events	23:11,12	6:4,2	no
+HERC2	others	.					intronic	.	.	chr15	28518016	G	A	2.12	2.14	GG	26	1229	4	187	PASS:Germline	26:15,11	4:2,2	no
+KMT2C	others	.	c.G1017C	p.K339N	exon8	NM_170606	exonic	nonsynonymous SNV	.	chr7	151962290	C	G	10.92	10.16	CC	403	3689	116	1142	PASS:Germline	403:94,309	116:31,85	no
+BCR	others	.	c.C3248T,c.C3380T	p.T1083M,p.T1127M	exon19,exon20	NM_021574,NM_004327	exonic	nonsynonymous SNV	.	chr22	23655131	C	T	2.38	1.29	CC	70	2942	6	466	PASS:Germline	70:37,33	6:3,3	no
+TCF7L2	others	.					UTR5	.	NM_001198525:c.-8del-,NM_001198530:c.-8del-,NM_001198529:c.-8del-,NM_001198528:c.-8del-,NM_001198527:c.-8del-,NM_001198526:c.-8del-,NM_001198531:c.-8del-,NM_001146285:c.-8del-,NM_001146286:c.-8del-,NM_001146284:c.-8del-,NM_001146283:c.-8del-,NM_001146274:c.-8del-,NM_030756:c.-8del-	chr10	114710507	GA	G	2.57	3.12	indels	34	1322	8	256	PASS:Germline	34:23,11	8:5,3	no
+AHNAK2	others	.	c.C9459T	p.F3153F	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105412329	G	A	3.32	3.18	GG	160	4823	30	943	PASS:Germline	160:81,79	30:15,15	no
+TRRAP	others	.	c.A8043G,c.A8097G	p.T2681T,p.T2699T	exon53,exon54	NM_003496,NM_001244580	exonic	synonymous SNV	.	chr7	98574264	A	G	52.45	46.8	AG	1453	2770	241	515	PASS:Germline	1453:783,670	241:130,111	no
+SDHA	others	.	c.A1742T,c.A1886T	p.Y581F,p.Y629F	exon13,exon14	NM_001294332,NM_004168	exonic	nonsynonymous SNV	.	chr5	254599	A	T	34.88	35.77	AT	293	840	49	137	PASS:Germline	293:118,175	49:16,33	no
+SDHA	others	.	c.A1742T,c.A1886T	p.Y581F,p.Y629F	exon13,exon14	NM_001294332,NM_004168	exonic	nonsynonymous SNV	.	chr5	254599	A	T	36.13	38.95	AT	215	595	37	94	Germline	215:32,183	37:2,35	no
+BRAF	others	.					intronic	.	.	chr7	140482263	CA	C	21.90	24.05	indels	53	242	19	79	PASS:Germline	53:17,36	19:7,12	no
+LOC100294362	others	.					ncRNA_intronic	.	.	chr17	78345567	TAC	T	4.30	3.57	indels	8	217	1	28	alt_allele_in_normal;str_contraction	8:6,2	1:0,1	no
+NPM1	others	.					intronic	.	.	chr5	170837513	CT	C	8.43	9.68	indels	30	356	6	62	PASS:Germline	30:16,14	6:4,2	no
+SDHA	others	.					intronic	.	.	chr5	236734	G	C	2.53	1.96	GG	59	2334	7	358	PASS:Germline	59:30,29	7:3,4	no
+KMT2C	others	.					intronic	.	.	chr7	151935962	A	C	5.80	9.85	AA	53	1135	27	274	alt_allele_in_normal;clustered_events	53:30,23	27:16,11	no
+KMT2C	others	.					intronic	.	.	chr7	151935962	A	C	12.38	8.12	AA	163	1317	22	271	PASS:Germline	163:30,133	22:3,19	no
+KMT2C	others	.					intronic	.	.	chr7	151882768	T	C	4.30	3.9	TT	29	630	6	154	alt_allele_in_normal	29:14,15	6:4,2	no
+KMT2C	others	.					intronic	.	.	chr7	151882768	T	C	4.37	3.33	TT	28	641	5	150	PASS:Germline	28:7,21	5:1,4	no
+AHNAK2	others	.	c.G6546A	p.K2182K	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415242	C	T	17.07	16.1	CC	721	4224	133	826	PASS:Germline	721:381,340	133:69,64	no
+CTNNB1	others	.					intronic	.	.	chr3	41268676	GAT	G	2.00	1.8	indels	9	492	6	334	alt_allele_in_normal;str_contraction	9:2,7	6:4,2	no
+CTNNB1	others	.					intronic	.	.	chr3	41268676	GAT	G	2.10	1.45	indels	11	524	5	344	PASS:Germline	11:6,5	5:3,2	no
+CTNNB1	others	.					intronic	.	.	chr3	41268676	GAT	G	1.81	2.31	indels	7	387	6	259	LikelySomatic	7:2,5	6:4,2	no
+KMT2C	others	.					intronic	.	.	chr7	151875100	TA	T	6.10	5.56	indels	13	213	2	36	PASS:Germline	13:8,5	2:2,0	no
+MSH6	others	.					intronic	.	.	chr2	48018293	TTG	T	6.90	4.55	indels	139	1920	18	396	alt_allele_in_normal;clustered_events;str_contraction;triallelic_site	139:60,68	18:9,8	no
+MSH6	others	.					intronic	.	.	chr2	48018293	TTG	T	7.00	4.65	indels	151	2106	20	430	alt_allele_in_normal;clustered_events;str_contraction;triallelic_site	151:66,73	20:11,8	no
+MYCN	others	.					UTR3	.	NM_001293233:c.*1376delT,NM_001293228:c.*46delT,NM_005378:c.*46delT,NM_001293231:c.*46delT	chr2	16086264	AT	A	2.11	1.43	indels	31	1466	4	280	PASS:Germline	31:9,22	4:2,2	no
+DEK	others	.					intronic	.	.	chr6	18258300	A	G	52.64	44.07	AG	209	397	26	59	PASS:Germline	209:64,145	26:7,19	no
+DEK	others	.					intronic	.	.	chr6	18258300	A	G	52.98	50.88	AG	178	336	29	56	Germline	178:22,156	29:3,26	no
+TIPARP	others	.					intronic	.	.	chr3	156411797	G	GT	1.02	1.7	indels	6	586	4	235	PASS:Germline	6:4,2	4:4,0	no
+EWSR1	others	.					intronic	.	.	chr22	29675121	AGT	A	2.60	2.97	indels	55	2295	12	404	alt_allele_in_normal;clustered_events;str_contraction	55:25,30	12:7,5	no
+EWSR1	others	.					intronic	.	.	chr22	29675121	AGT	A	2.15	2.61	indels	52	2424	11	422	PASS:Germline	52:25,27	11:3,8	no
+ETV4	others	.					intronic	.	.	chr17	41620662	T	A	3.40	0	TT	9	251	0	33	clustered_events	9:3,6	0:0,0	yes
+ETV4	others	.					intronic	.	.	chr17	41620662	T	A	1.50	2.13	TT	11	659	2	94	alt_allele_in_normal;clustered_events	11:3,8	2:2,0	no
+AHNAK2	others	.	c.A3528T	p.S1176S	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418260	T	A	30.54	30.12	TA	1715	5615	344	1142	PASS:Germline	1715:683,1032	344:144,200	no
+CHEK2	others	.					intronic	.	.	chr22	29090160	G	C	2.44	0.69	GG	45	1843	2	290	PASS:Germline	45:21,24	2:1,1	no
+FANCD2	others	.					intronic	.	.	chr3	10094206	AT	A	9.83	5.73	indels	95	966	9	157	PASS:Germline	95:20,75	9:3,6	no
+WHSC1	others	.					intronic	.	.	chr4	1919852	CT	C	2.74	1.95	indels	24	876	3	153	LikelySomatic	24:20,4	3:1,2	no
+MYOD1	others	.	c.G630T	p.M210I	exon1	NM_002478	exonic	nonsynonymous SNV	.	chr11	17741959	G	T	1.30	0	GG	6	403	0	69	t_lod_fstar	6:5,1	0:0,0	yes
+NSD1	others	.					intronic	.	.	chr5	176694479	AAT	A	2.10	0.54	indels	19	1013	1	186	str_contraction;triallelic_site	19:14,5	1:0,1	no
+STAT5B	others	.	c.C690T	p.A230A	exon7	NM_012448	exonic	synonymous SNV	.	chr17	40371473	G	A	27.55	36.36	GA	81	294	8	22	PASS:Germline	81:35,46	8:4,4	no
+COL12A1	others	.					intronic	.	.	chr6	75825678	T	C	57.51	46.62	TC	249	433	124	266	PASS:Germline	249:139,110	124:63,61	no
+COL12A1	others	.					intronic	.	.	chr6	75825678	T	C	59.17	46.73	TC	213	360	100	213	Germline	213:99,114	100:36,64	no
+HLA-A	others	.	c.G595A,c.G595A	p.G199R,p.G199R	exon3,exon3	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911296	G	A	12.60	8.57	GG	48	381	3	35	PASS:Germline	48:30,18	3:2,1	no
+HLA-A	others	.	c.G595A,c.G595A	p.G199R,p.G199R	exon3,exon3	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911296	G	A	16.61	13.33	GG	51	307	4	29	Germline	51:12,39	4:1,3	no
+EWSR1	others	.					intronic	.	.	chr22	29683680	A	G	47.77	47.74	AG	1256	2629	190	398	PASS:Germline	1256:591,665	190:88,102	no
+ABL1	others	COSM1645213,COSM1645212,COSM1645211	c.1813_1815del,c.1870_1872del	p.K605delK(ref_AA:K,start:605,end:605,mut_AA:),p.K624delK(ref_AA:K,start:624,end:624,mut_AA:)	exon11,exon11	NM_005157,NM_007313	exonic	nonframeshift deletion	.	chr9	133759489	CAAG	C	1.70	2.21	indels	29	1713	5	226	alt_allele_in_normal;str_contraction	29:10,19	5:1,4	no
+ABL1	others	COSM1645213,COSM1645212,COSM1645211	c.1813_1815del,c.1870_1872del	p.K605delK(ref_AA:K,start:605,end:605,mut_AA:),p.K624delK(ref_AA:K,start:624,end:624,mut_AA:)	exon11,exon11	NM_005157,NM_007313	exonic	nonframeshift deletion	.	chr9	133759489	CAAG	C	1.53	1.72	indels	29	1891	4	233	PASS:Germline	29:16,13	4:3,1	no
+RB1	others	.					intronic	.	.	chr13	48954282	CT	C	8.52	3.06	indels	30	352	3	98	PASS:Somatic	30:18,12	3:2,1	no
+PARP4	others	COSM3931801	c.T2081G	p.L694R	exon17	NM_006437	exonic	nonsynonymous SNV	.	chr13	25043214	A	C	1.01	0.9	AA	30	2971	5	558	PASS:Germline	30:12,18	5:2,3	no
+FANCD2	others	.	c.G1137T,c.G1137T	p.V379V,p.V379V	exon15,exon15	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10088266	G	T	21.53	21.49	GG	566	2629	107	498	PASS:Germline	566:400,166	107:81,26	no
+FANCD2	others	.	c.G1137T,c.G1137T	p.V379V,p.V379V	exon15,exon15	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10088266	G	T	23.26	25.68	GG	448	1926	95	369	Germline	448:232,216	95:52,43	no
+DNMT1	others	.					intronic	.	.	chr19	10288072	GA	G	2.65	3.03	indels	12	453	2	66	PASS:Germline	12:6,6	2:0,2	no
+FANCD2	others	.	c.C2141T,c.C2141T	p.P714L,p.P714L	exon23,exon23	NM_001018115,NM_033084	exonic	nonsynonymous SNV	.	chr3	10106532	C	T	38.04	37.23	CT	1003	2637	175	470	PASS:Germline	1003:475,528	175:86,89	no
+FANCD2	others	.	c.C2141T,c.C2141T	p.P714L,p.P714L	exon23,exon23	NM_001018115,NM_033084	exonic	nonsynonymous SNV	.	chr3	10106532	C	T	40.71	39.06	CT	743	1825	125	319	Germline	743:198,545	125:33,92	no
+HLA-A	others	.	c.G618T,c.G618T	p.T206T,p.T206T	exon3,exon3	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29911319	G	T	18.24	10	GG	62	340	3	30	PASS:Germline	62:35,27	3:2,1	no
+HLA-A	others	.	c.G618T,c.G618T	p.T206T,p.T206T	exon3,exon3	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29911319	G	T	21.09	16.67	GG	58	275	4	23	Germline	58:7,51	4:1,3	no
+KMT2C	others	COSM4162004	c.C2646A	p.I882I	exon15	NM_170606	exonic	synonymous SNV	.	chr7	151935798	G	T	15.40	18.59	GG	465	3019	129	694	PASS:Germline	465:274,191	129:71,58	no
+DIS3	others	.					intronic	.	.	chr13	73349321	CA	C	1.29	0	indels	6	466	0	154	PASS:Somatic	6:5,1	0:0,0	no
+AHNAK2	others	.	c.C6516T	p.I2172I	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415272	G	A	37.08	39.57	GA	1666	4493	347	877	PASS:Germline	1666:880,786	347:177,170	no
+AHNAK2	others	.	c.G8779A	p.G2927S	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413009	C	T	5.61	5.83	CC	212	3780	36	618	PASS:Germline	212:167,45	36:29,7	no
+NOTCH2	others	.					intronic	.	.	chr1	120539543	C	A	3.50	2.15	CC	30	1148	4	186	alt_allele_in_normal;clustered_events	30:14,16	4:2,2	no
+HERC2	others	.					intronic	.	.	chr15	28517946	G	A	2.60	4.62	GG	9	415	3	65	alt_allele_in_normal;clustered_events;germline_risk	9:4,5	3:3,0	no
+STAG2	others	.					intronic	.	.	chrX	123204978	CT	C	8.52	16.95	indels	15	176	10	59	PASS:Germline	15:10,5	10:6,4	no
+KMT2D	others	COSM1361991,COSM1361990	c.11580_11582del	p.Q3861delQ(ref_AA:QQ,start:3860,end:3861,mut_AA:Q)	exon39	NM_003482	exonic	nonframeshift deletion	.	chr12	49426905	TTGC	T	1.90	0	indels	8	314	0	69	str_contraction	8:2,6	0:0,0	yes
+KMT2D	others	COSM1361991,COSM1361990	c.11580_11582del	p.Q3861delQ(ref_AA:QQ,start:3860,end:3861,mut_AA:Q)	exon39	NM_003482	exonic	nonframeshift deletion	.	chr12	49426905	TTGC	T	2.10	0	indels	8	289	0	62	str_contraction	8:2,6	0:0,0	yes
+MAX	others	.					UTR3	.	NM_197957:c.*47_*48insA,NM_001271069:c.*47_*48insA	chr14	65472874	C	CT	31.96	43.43	indels	201	629	43	99	PASS:Germline	201:170,31	43:32,11	no
+KMT2C	others	.					intronic	.	.	chr7	151935730	T	C	9.42	8.53	TT	171	1815	33	387	PASS:Germline	171:133,38	33:24,9	no
+HERC2	others	.	c.C825T	p.T275T	exon8	NM_004667	exonic	synonymous SNV	.	chr15	28518126	G	A	2.50	3.24	GG	30	1483	8	247	alt_allele_in_normal;clustered_events	30:15,15	8:2,6	no
+HERC2	others	.	c.C825T	p.T275T	exon8	NM_004667	exonic	synonymous SNV	.	chr15	28518126	G	A	5.89	6.25	GG	92	1562	16	256	PASS:Germline	92:52,40	16:7,9	no
+BCR	others	.					intronic	.	.	chr22	23590624	AT	A	4.95	2.01	indels	66	1333	4	199	PASS:Somatic	66:40,26	4:2,2	no
+TMPRSS2	others	.					intronic	.	.	chr21	42842717	T	A	1.33	1.92	TT	8	600	2	104	PASS:Germline	8:5,3	2:1,1	no
+FANCD2	others	.					intronic	.	.	chr3	10085624	G	T	26.65	24.9	GT	328	1231	63	253	PASS:Germline	328:139,189	63:30,33	no
+DIS3	others	.	c.C2606G,c.C2696G	p.T869R,p.T899R	exon20,exon20	NM_001128226,NM_014953	exonic	nonsynonymous SNV	.	chr13	73334764	G	C	42.14	44.27	GC	303	719	116	262	PASS:Germline	303:94,209	116:34,82	no
+UBR5	others	.					intronic	.	.	chr8	103373513	G	GA	35.87	40	indels	80	223	22	55	PASS:Germline	80:9,71	22:3,19	no
+TACC3	others	.	c.G2427T	p.S809S	exon15	NM_006342	exonic	synonymous SNV	.	chr4	1746535	G	T	1.55	0	GG	6	387	0	64	PASS:Somatic	6:3,3	0:0,0	no
+ETV6	others	.					intronic	.	.	chr12	11922376	G	GA	3.50	8.37	indels	37	1058	17	203	PASS:Germline	37:29,8	17:12,5	no
+USP8	others	.	c.C1969T,c.C2287T,c.C2287T	p.R657W,p.R763W,p.R763W	exon12,exon15,exon15	NM_001283049,NM_001128610,NM_005154	exonic	nonsynonymous SNV	.	chr15	50784950	C	T	1.90	4.98	CC	37	2248	22	442	alt_allele_in_normal;clustered_events	37:21,16	22:4,18	no
+USP8	others	.	c.C1969T,c.C2287T,c.C2287T	p.R657W,p.R763W,p.R763W	exon12,exon15,exon15	NM_001283049,NM_001128610,NM_005154	exonic	nonsynonymous SNV	.	chr15	50784950	C	T	3.10	5.22	CC	71	2289	23	441	PASS:Germline	71:44,27	23:13,10	no
+AHNAK2	others	.	c.C6211T	p.L2071L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415577	G	A	22.53	26.42	GG	727	3227	144	545	PASS:Germline	727:235,492	144:50,94	no
+IRS2	others	.	c.3821_3823del	p.P1274delP(ref_AA:PL,start:1274,end:1275,mut_AA:L)	exon1	NM_003749	exonic	nonframeshift deletion	.	chr13	110434577	AGCG	A	1.40	0	indels	6	496	0	47	str_contraction	6:3,3	0:0,0	yes
+PARP4	others	.	c.T3116C	p.I1039T	exon26	NM_006437	exonic	nonsynonymous SNV	.	chr13	25021323	A	G	24.71	24.69	AA	524	2121	98	397	PASS:Germline	524:205,319	98:41,57	no
+AHNAK2	others	.	c.G11286C	p.V3762V	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105410502	C	G	14.55	14.69	CC	638	4386	120	817	PASS:Germline	638:166,472	120:27,93	no
+HLA-A	others	.	c.C117T,c.C117T	p.P39P,p.P39P	exon2,exon2	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29910577	C	T	1.80	0	CC	10	397	0	55	clustered_events;homologous_mapping_event	10:2,8	0:0,0	yes
+HERC2	others	.	c.A1008G	p.P336P	exon9	NM_004667	exonic	synonymous SNV	.	chr15	28517436	T	C	25.44	24.13	TC	620	2437	83	344	PASS:Germline	620:259,361	83:35,48	no
+AHNAK2	others	.	c.C6435T	p.D2145D	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415353	G	A	2.34	2.46	GG	99	4231	20	813	PASS:Germline	99:88,11	20:17,3	no
+KMT2C	others	.					intronic	.	.	chr7	151882735	G	A	21.64	16.88	GG	203	938	40	237	PASS:Germline	203:76,127	40:14,26	no
+FANCD2	others	.	c.A1214G,c.A1214G	p.N405S,p.N405S	exon15,exon15	NM_001018115,NM_033084	exonic	nonsynonymous SNV	.	chr3	10088343	A	G	30.39	31.86	AG	1001	3294	217	681	PASS:Germline	1001:559,442	217:123,94	no
+FANCD2	others	.	c.A1214G,c.A1214G	p.N405S,p.N405S	exon15,exon15	NM_001018115,NM_033084	exonic	nonsynonymous SNV	.	chr3	10088343	A	G	30.10	33.26	AG	690	2292	158	474	Germline	690:172,518	158:41,117	no
+ARNT	others	.					intronic	.	.	chr1	150804401	G	GA	25.59	23.42	indels	185	723	37	158	PASS:Germline	185:61,124	37:12,25	no
+EGFR	others	.					intronic	.	.	chr7	55088252	T	TACACACAC	48.31	40	indels	415	859	48	120	PASS:Germline	415:296,119	48:42,6	no
+MRE11A	others	.	c.C1808A,c.C1892A	p.P603H,p.P631H	exon16,exon17	NM_005590,NM_005591	exonic	nonsynonymous SNV	.	chr11	94170377	G	T	1.40	0	GG	8	443	0	93	t_lod_fstar	8:6,2	0:0,0	yes
+MRE11A	others	.	c.C1808A,c.C1892A	p.P603H,p.P631H	exon16,exon17	NM_005590,NM_005591	exonic	nonsynonymous SNV	.	chr11	94170377	G	T	1.81	0	GG	8	441	0	92	PASS:Somatic	8:4,4	0:0,0	no
+PTPN11	others	.					intronic	.	.	chr12	112891292	TTTTA	T	1.90	0.97	indels	11	540	1	103	str_contraction	11:3,8	1:0,1	no
+NFKB2	others	.					intronic	.	.	chr10	104157206	T	G	4.46	0	TT	10	224	0	48	PASS:Somatic	10:1,9	0:0,0	no
+TMPRSS2	others	.					intronic	.	.	chr21	42857008	CGTGTGTGT	C	30.28	44.19	indels	284	938	57	129	PASS:Germline	284:138,146	57:25,32	no
+RQCD1	others	.					intronic	.	.	chr2	219447910	GAA	G	1.70	4.72	indels	9	550	5	106	alt_allele_in_normal;t_lod_fstar	9:4,5	5:1,4	no
+AHNAK2	others	.	c.C6403T	p.L2135L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415385	G	A	6.91	7.2	GG	283	4095	51	708	PASS:Germline	283:206,77	51:40,11	no
+AHNAK2	others	.	c.C9391T	p.L3131L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105412397	G	A	3.28	2.94	GG	157	4783	28	952	PASS:Germline	157:77,80	28:14,14	no
+ROS1	others	.	c.C6264T	p.S2088S	exon40	NM_002944	exonic	synonymous SNV	.	chr6	117631414	G	A	1.38	0	GG	6	434	0	290	PASS:Somatic	6:2,4	0:0,0	no
+FUBP1	others	.					intronic	.	.	chr1	78432506	T	TA	27.82	33.06	indels	138	496	41	124	PASS:Germline	138:63,75	41:22,19	no
+ZRSR2	others	.	c.G621A	p.T207T	exon8	NM_005089	exonic	synonymous SNV	.	chrX	15833863	G	A	2.85	1.34	GG	78	2733	6	448	PASS:Germline	78:39,39	6:3,3	no
+BCR	others	.					intronic	.	.	chr22	23527900	TTC	T	5.10	7.41	indels	10	196	2	27	PASS:Germline	10:6,4	2:0,2	no
+NCOR1	others	.	c.C120T,c.C447T,c.C447T	p.F40F,p.F149F,p.F149F	exon2,exon4,exon5	NM_001190438,NM_001190440,NM_006311	exonic	synonymous SNV	.	chr17	16068464	G	A	5.50	8.08	GG	99	1973	47	582	alt_allele_in_normal	99:41,58	47:34,13	no
+NCOR1	others	.	c.C120T,c.C447T,c.C447T	p.F40F,p.F149F,p.F149F	exon2,exon4,exon5	NM_001190438,NM_001190440,NM_006311	exonic	synonymous SNV	.	chr17	16068464	G	A	11.48	7.9	GG	251	2186	46	582	PASS:Germline	251:82,169	46:13,33	no
+TCEA1	others	.					intronic	.	.	chr8	54906323	T	TTTCA	7.90	0	indels	147	1925	0	340	clustered_events	147:57,90	0:0,0	yes
+TCEA1	others	.					intronic	.	.	chr8	54906323	T	TTTCA	6.87	0	indels	135	1966	0	351	PASS:Somatic	135:50,85	0:0,0	no
+APC	others	.					intronic	.	.	chr5	112154528	TTTG	T	3.17	4.17	indels	9	284	2	48	PASS:Germline	9:8,1	2:1,1	no
+AHNAK2	others	.	c.T11280C	p.P3760P	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105410508	A	G	6.38	5.59	AA	250	3921	40	715	PASS:Germline	250:29,221	40:4,36	no
+AHNAK2	others	.	c.C4575T	p.A1525A	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105417213	G	A	1.29	1.06	GG	55	4250	8	755	PASS:Germline	55:27,28	8:4,4	no
+KDR	others	.					intronic	.	.	chr4	55976947	T	TA	34.26	38.6	indels	432	1261	66	171	PASS:Germline	432:138,294	66:25,41	no
+NPM1	others	.					intronic	.	.	chr5	170815074	A	G	5.60	2.44	AA	28	388	1	41	t_lod_fstar	28:13,15	1:0,1	no
+KMT2C	others	COSM1179107	c.G851A	p.R284Q	exon7	NM_170606	exonic	nonsynonymous SNV	.	chr7	151970951	C	T	8.80	5.51	CC	194	2504	51	926	alt_allele_in_normal;clustered_events	194:89,105	51:23,28	no
+KMT2C	others	COSM1179107	c.G851A	p.R284Q	exon7	NM_170606	exonic	nonsynonymous SNV	.	chr7	151970951	C	T	10.68	9.32	CC	397	3718	88	944	PASS:Germline	397:106,291	88:26,62	no
+MUC1	others	.					intronic	.	.	chr1	155160353	G	A	58.10	40.46	GA	1219	2098	140	346	PASS:Germline	1219:666,553	140:68,72	no
+MUC1	others	.					intronic	.	.	chr1	155160353	G	A	58.28	41.6	GA	883	1515	99	237	Germline	883:301,582	99:25,74	no
+FGD5	others	.	c.2821_2822AT	p.E941M(ref_AA:E,start:941,end:941,mut_AA:M)	exon5	NM_152536	exonic	nonframeshift substitution	.	chr3	14939088	GA	AT	40.91	44.52	GAAT	358	875	65	145	Germline	358:129,229	65:29,36	no
+AHNAK2	others	.	c.G3253C	p.E1085Q	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105418535	C	G	45.78	41.69	CG	889	1942	123	295	PASS:Germline	889:225,664	123:31,92	no
+SOS1	others	.					intronic	.	.	chr2	39240584	TA	T	7.48	4.79	indels	19	254	8	167	PASS:Germline	19:11,8	8:4,4	no
+SOS1	others	.					intronic	.	.	chr2	39240584	TA	T	5.97	4.1	indels	12	201	5	121	LikelySomatic	12:4,8	5:1,4	no
+SDHA	others	.	c.C1717T,c.C1861T	p.H573Y,p.H621Y	exon13,exon14	NM_001294332,NM_004168	exonic	nonsynonymous SNV	.	chr5	254574	C	T	1.14	0	CC	12	1056	0	176	PASS:Somatic	12:6,6	0:0,0	no
+ATR	others	.					intronic	.	.	chr3	142259706	CA	C	15.32	18.13	indels	36	235	31	171	PASS:Germline	36:30,6	31:24,7	no
+LOC101929829	others	.					ncRNA_intronic	.	.	chr22	42524130	C	T	52.62	57.45	CT	211	401	27	47	PASS:Germline	211:141,70	27:15,12	no
+HLA-A	others	.					intronic	.	.	chr6	29913135	G	C	47.52	42.45	GC	2413	5078	346	815	PASS:Germline	2413:1108,1305	346:167,179	no
+HLA-A	others	.					intronic	.	.	chr6	29913135	G	C	47.85	42.55	GC	1701	3555	240	563	Germline	1701:407,1294	240:60,180	no
+KMT2C	others	COSM86082	c.C2418G	p.S806S	exon14	NM_170606	exonic	synonymous SNV	.	chr7	151945101	G	C	1.60	4.57	GG	117	6508	122	2669	alt_allele_in_normal	117:71,46	122:59,63	no
+KMT2C	others	COSM86082	c.C2418G	p.S806S	exon14	NM_170606	exonic	synonymous SNV	.	chr7	151945101	G	C	6.65	5.79	GG	489	7350	157	2713	PASS:Germline	489:258,231	157:89,68	no
+FOXO3	others	COSM1132064	c.T1017C,c.T1017C	p.D339D,p.D339D	exon2,exon3	NM_001455,NM_201559	exonic	synonymous SNV	.	chr6	108985053	T	C	1.50	1	TT	52	3465	6	599	PASS:Germline	52:39,13	6:4,2	no
+ETV6	others	.					intronic	.	.	chr12	11918653	G	GA	2.71	3.12	indels	51	1884	13	417	PASS:Germline	51:26,25	13:6,7	no
+FANCD2	others	.					intronic	.	.	chr3	10088444	A	G	26.91	28.87	AG	443	1646	97	336	PASS:Germline	443:121,322	97:29,68	no
+ZNF804A	others	.					intronic	.	.	chr2	185463815	CCT	C	3.00	2.81	indels	75	2609	14	498	alt_allele_in_normal;str_contraction	75:33,42	14:7,7	no
+ZNF804A	others	.					intronic	.	.	chr2	185463815	CCT	C	2.41	2.39	indels	70	2906	13	543	PASS:Germline	70:33,37	13:5,8	no
+IDH1	others	.					intronic	.	.	chr2	209113048	G	GA	2.80	1.02	indels	26	927	2	196	LikelySomatic	26:12,14	2:2,0	no
+ALK	others	.	c.C2148T	p.S716S	exon12	NM_004304	exonic	synonymous SNV	.	chr2	29474027	G	A	49.42	57.5	GA	213	431	46	80	PASS:Germline	213:117,96	46:25,21	no
+ALK	others	.	c.C2148T	p.S716S	exon12	NM_004304	exonic	synonymous SNV	.	chr2	29474027	G	A	49.35	53.45	GA	152	308	31	57	Germline	152:49,103	31:9,22	no
+HLA-A	others	.	c.G691A,c.G691A	p.G231S,p.G231S	exon4,exon4	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911970	G	A	7.61	7.79	GG	245	3221	38	488	PASS:Germline	245:116,129	38:17,21	no
+HERC2	others	.					intronic	.	.	chr15	28518028	G	A	2.20	3.9	GG	29	1346	8	205	alt_allele_in_normal;clustered_events	29:15,14	8:4,4	no
+HERC2	others	.					intronic	.	.	chr15	28518028	G	A	2.09	1.54	GG	28	1338	3	195	PASS:Germline	28:16,12	3:2,1	no
+AHNAK2	others	.	c.A6355G	p.M2119V	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415433	T	C	23.24	24.44	TT	1033	4444	187	765	PASS:Germline	1033:587,446	187:109,78	no
+KMT2C	others	.	c.A2591G	p.E864G	exon15	NM_170606	exonic	nonsynonymous SNV	.	chr7	151935853	T	C	9.58	8.81	TT	289	3017	63	715	PASS:Germline	289:58,231	63:11,52	no
+HLA-A	others	.					intronic	.	.	chr6	29912398	A	G	40.93	41.18	AG	97	237	7	17	PASS:Germline	97:30,67	7:3,4	no
+ABI1	others	.					UTR3	.	NM_001178125:c.*11_*12insT,NM_001178124:c.*11_*12insT,NM_001178123:c.*11_*12insT,NM_001178122:c.*11_*12insT,NM_001178121:c.*11_*12insT,NM_001178120:c.*11_*12insT,NM_001178119:c.*11_*12insT,NM_001178116:c.*11_*12insT,NM_005470:c.*11_*12insT,NM_001012752:c.*11_*12insT,NM_001012751:c.*11_*12insT,NM_001012750:c.*11_*12insT	chr10	27037487	G	GA	3.77	3.98	indels	26	689	9	226	PASS:Germline	26:17,9	9:5,4	no
+CSF1R	others	.					UTR3	.	NM_005211:c.*36_*35delinsTC,NM_001288705:c.*36_*35delinsTC	chr5	149433596	TG	GA	95.88	94.03	GAGA	791	825	126	133	Germline	791:227,564	126:39,87	no
+XPC	others	COSM128738	c.101_103del	p.E34delE(ref_AA:ED,start:34,end:35,mut_AA:D)	exon1	NM_004628	exonic	nonframeshift deletion	.	chr3	14219965	CCCT	C	1.90	1.43	indels	6	403	1	70	str_contraction	6:1,5	1:1,0	no
+BCR	others	.					intronic	.	.	chr22	23651696	T	C	3.86	3.46	TT	83	2153	12	347	PASS:Germline	83:46,37	12:7,5	no
+HERC2	others	.					intronic	.	.	chr15	28518286	T	G	5.60	0	TT	11	194	0	28	clustered_events;homologous_mapping_event	11:4,7	0:0,0	yes
+ARID1A	others	COSM298325	c.3978_3980del,c.3978_3980del	p.Q1327delQ(ref_AA:PQ,start:1326,end:1327,mut_AA:P),p.Q1327delQ(ref_AA:PQ,start:1326,end:1327,mut_AA:P)	exon16,exon16	NM_006015,NM_139135	exonic	nonframeshift deletion	.	chr1	27100181	CGCA	C	3.10	1.91	indels	43	1473	4	209	alt_allele_in_normal;clustered_events;str_contraction	43:25,18	4:1,3	no
+ARID1A	others	COSM298325	c.3978_3980del,c.3978_3980del	p.Q1327delQ(ref_AA:PQ,start:1326,end:1327,mut_AA:P),p.Q1327delQ(ref_AA:PQ,start:1326,end:1327,mut_AA:P)	exon16,exon16	NM_006015,NM_139135	exonic	nonframeshift deletion	.	chr1	27100181	CGCA	C	2.23	2.03	indels	38	1707	5	246	indelError:Unknown	38:22,16	5:3,2	no
+STAT5B	others	COSM1383343	c.1102delC	p.Q368fs	exon9	NM_012448	exonic	frameshift deletion	.	chr17	40370235	TG	T	1.11	2.46	indels	19	1712	5	203	PASS:Germline	19:8,11	5:3,2	no
+TSC1	others	.	c.G2479A,c.G2632A,c.G2629A	p.E827K,p.E878K,p.E877K	exon20,exon21,exon21	NM_001162427,NM_000368,NM_001162426	exonic	nonsynonymous SNV	.	chr9	135772991	C	T	1.69	0	CC	12	709	0	127	PASS:Somatic	12:2,10	0:0,0	no
+SUZ12	others	.					intronic	.	.	chr17	30302736	AT	A	2.30	3.91	indels	21	914	7	179	PASS:Germline	21:6,15	7:4,3	no
+TERT	others	.	c.G733T,c.G733T	p.E245X,p.E245X	exon2,exon2	NM_001193376,NM_198253	exonic	stopgain	.	chr5	1294268	C	A	1.21	0	CC	6	497	0	96	PASS:Somatic	6:3,3	0:0,0	no
+RAD21	others	.					intronic	.	.	chr8	117864952	T	TA	10.11	3.08	indels	46	455	2	65	PASS:Somatic	46:16,30	2:1,1	no
+UBR5	others	.					intronic	.	.	chr8	103297697	CA	C	1.99	1.18	indels	26	1306	3	254	PASS:Germline	26:15,11	3:2,1	no
+FOXO3	others	.	c.C1367A,c.C1367A	p.P456Q,p.P456Q	exon2,exon3	NM_001455,NM_201559	exonic	nonsynonymous SNV	.	chr6	108985403	C	A	7.96	5.2	CC	443	5566	44	846	PASS:Germline	443:300,143	44:33,11	no
+AHNAK2	others	.	c.T6531C	p.D2177D	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415257	A	G	35.06	37.96	AG	1473	4201	312	822	PASS:Germline	1473:786,687	312:155,157	no
+ARID2	others	.					intronic	.	.	chr12	46211714	G	GT	1.53	3.5	indels	9	587	5	143	PASS:Germline	9:2,7	5:2,3	no
+FCGR2A	others	.					splicing	.	NM_001136219:exon6:c.780+1G>A,NM_021642:exon6:c.777+1G>A	chr1	161483723	G	A	8.40	9.46	GG	256	2785	37	391	alt_allele_in_normal;clustered_events	256:111,145	37:17,20	no
+FCGR2A	others	.					splicing	.	NM_001136219:exon6:c.780+1G>A,NM_021642:exon6:c.777+1G>A	chr1	161483723	G	A	14.41	9.97	GG	429	2978	39	391	PASS:Germline	429:182,247	39:16,23	no
+LEF1	others	.					intronic	.	.	chr4	108991962	A	G	53.75	48.24	AG	466	867	82	170	PASS:Germline	466:137,329	82:23,59	no
+USP8	others	.					intronic	.	.	chr15	50754453	CT	C	4.10	2.6	indels	35	854	4	154	PASS:Germline	35:22,13	4:4,0	no
+HERC2	others	.					intronic	.	.	chr15	28518019	C	CT	2.20	3.09	indels	25	1256	6	194	alt_allele_in_normal;clustered_events	25:13,12	6:4,2	no
+HERC2	others	.					intronic	.	.	chr15	28518019	C	CT	1.90	1.56	indels	24	1262	3	192	PASS:Germline	24:13,11	3:1,2	no
+ATM	others	.					intronic	.	.	chr11	108141955	CT	C	16.35	15.17	indels	155	948	22	145	PASS:Germline	155:98,57	22:14,8	no
+MED12	others	.	c.C6208T	p.Q2070X	exon42	NM_005120	exonic	stopgain	.	chrX	70360648	C	T	32.30	0	CT	122	398	0	61	PASS	122:60,62	0:0,0	yes
+MED12	others	.	c.C6208T	p.Q2070X	exon42	NM_005120	exonic	stopgain	.	chrX	70360648	C	T	34.60	0	CT	112	348	0	55	clustered_events;homologous_mapping_event	112:44,68	0:0,0	yes
+UGT1A3	others	.	c.A667C	p.I223L	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234638439	A	C	1.30	1.22	AA	57	4384	11	903	PASS:Germline	57:50,7	11:9,2	no
+UGT1A3	others	.	c.A667C	p.I223L	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234638439	A	C	1.74	1.76	AA	53	3038	11	624	LikelyLOH	53:42,11	11:7,4	no
+NCOR1	others	.					intronic	.	.	chr17	16097966	A	G	1.20	2.94	AA	11	964	6	204	alt_allele_in_normal;clustered_events	11:9,2	6:5,1	no
+NCOR1	others	.					intronic	.	.	chr17	16097966	A	G	1.23	2.42	AA	12	972	5	207	PASS:Germline	12:5,7	5:1,4	no
+DNAH9	others	.	c.G7455A	p.S2485S	exon38	NM_001372	exonic	synonymous SNV	.	chr17	11672549	G	A	2.40	0	GG	33	1245	0	231	PASS	33:23,10	0:0,0	yes
+DNAH9	others	.	c.G7455A	p.S2485S	exon38	NM_001372	exonic	synonymous SNV	.	chr17	11672549	G	A	2.48	0	GG	31	1251	0	229	PASS:Somatic	31:13,18	0:0,0	no
+SF3B2	others	.	c.A336C	p.P112P	exon4	NM_006842	exonic	synonymous SNV	.	chr11	65822624	A	C	2.16	0	AA	8	371	0	51	PASS:Somatic	8:7,1	0:0,0	no
+FGFR2	others	.	c.C210T,c.C210T,c.C210T,c.C210T,c.C210T	p.I70I,p.I70I,p.I70I,p.I70I,p.I70I	exon2,exon2,exon3,exon3,exon3	NM_001144913,NM_001144914,NM_000141,NM_001144917,NM_022970	exonic	synonymous SNV	.	chr10	123325118	G	A	2.10	0.12	GG	87	4162	1	823	PASS	87:39,48	1:0,1	no
+FGFR2	others	.	c.C210T,c.C210T,c.C210T,c.C210T,c.C210T	p.I70I,p.I70I,p.I70I,p.I70I,p.I70I	exon2,exon2,exon3,exon3,exon3	NM_001144913,NM_001144914,NM_000141,NM_001144917,NM_022970	exonic	synonymous SNV	.	chr10	123325118	G	A	2.05	0.12	GG	86	4203	1	827	PASS:Somatic	86:42,44	1:0,1	no
+PMS2	others	.					intronic	.	.	chr7	6022343	G	A	1.10	1.62	GG	11	1075	3	185	alt_allele_in_normal;clustered_events	11:6,5	3:1,2	no
+KMT2C	others	.					intronic	.	.	chr7	151926935	G	A	37.23	36.8	GA	500	1343	131	356	PASS:Germline	500:454,46	131:121,10	no
+AHNAK2	others	.	c.A8572G	p.T2858A	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413216	T	C	3.10	3.68	TT	57	2980	18	489	alt_allele_in_normal;clustered_events	57:25,32	18:9,9	no
+CARD11	others	.					intronic	.	.	chr7	2985389	GAC	G	6.20	3.65	indels	79	1200	7	192	alt_allele_in_normal;clustered_events;str_contraction;triallelic_site	79:42,30	7:0,7	no
+CARD11	others	.					intronic	.	.	chr7	2985389	GAC	G	3.32	2.58	indels	40	1204	5	194	PASS:Germline	40:23,17	5:3,2	no
+FLT3	others	.					intronic	.	.	chr13	28589279	C	G	39.18	44.29	CG	342	873	93	210	PASS:Germline	342:246,96	93:68,25	no
+HLA-A	others	.	c.C605T,c.C605T	p.T202M,p.T202M	exon3,exon3	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911306	C	T	16.43	8.82	CC	58	353	3	34	PASS:Germline	58:34,24	3:2,1	no
+HLA-A	others	.	c.C605T,c.C605T	p.T202M,p.T202M	exon3,exon3	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911306	C	T	19.44	13.79	CC	56	288	4	28	Germline	56:7,49	4:1,3	no
+AHNAK2	others	.	c.G13648C	p.E4550Q	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105408140	C	G	2.29	0.44	CC	59	2578	2	450	PASS:Germline	59:30,29	2:1,1	no
+AHNAK2	others	.	c.A8646G	p.P2882P	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105413142	T	C	21.04	21.4	TT	728	3460	116	542	PASS:Germline	728:308,420	116:51,65	no
+NOTCH2	others	.					intronic	.	.	chr1	120539530	G	C	4.10	2.65	GG	30	953	4	151	alt_allele_in_normal;clustered_events	30:14,16	4:2,2	no
+ETV1	others	.					intronic	.	.	chr7	14028177	A	C	3.20	4.71	AA	14	437	4	85	PASS:Germline	14:3,11	4:0,4	no
+FANCD2	others	.					intronic	.	.	chr3	10090968	T	A	1.85	0.96	TT	8	432	1	103	LikelySomatic	8:5,3	1:1,0	no
+MITF	others	.					intronic	.	.	chr3	69990513	C	T	54.47	46.46	CT	256	470	164	353	PASS:Germline	256:89,167	164:66,98	no
+KMT2C	others	COSM4162002	c.C2656T	p.R886C	exon16	NM_170606	exonic	nonsynonymous SNV	.	chr7	151933015	G	A	2.20	4.04	GG	89	3889	28	693	alt_allele_in_normal;clustered_events	89:48,41	28:17,11	no
+KMT2C	others	COSM4162002	c.C2656T	p.R886C	exon16	NM_170606	exonic	nonsynonymous SNV	.	chr7	151933015	G	A	5.67	4.61	GG	238	4199	32	694	PASS:Germline	238:69,169	32:10,22	no
+AHNAK2	others	.	c.G6181C	p.V2061L	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415607	C	G	11.07	11.59	CC	317	2864	57	492	PASS:Germline	317:61,256	57:10,47	no
+HLA-A	others	.	c.362_363GG,c.362_363GG	p.I121R(ref_AA:I,start:121,end:121,mut_AA:R),p.I121R(ref_AA:I,start:121,end:121,mut_AA:R)	exon3,exon3	NM_001242758,NM_002116	exonic	nonframeshift substitution	.	chr6	29911063	TA	GG	23.80	14.81	TATA	79	332	8	53	Germline	79:42,37	8:3,5	no
+PLCG1	others	.					intronic	.	.	chr20	39797213	C	G	47.00	42.49	CG	588	1251	82	193	PASS:Germline	588:360,228	82:44,38	no
+ATM	others	.					intronic	.	.	chr11	108163323	G	GT	1.10	1.88	indels	15	1368	6	319	PASS:Germline	15:12,3	6:5,1	no
+BCR	others	.					intronic	.	.	chr22	23633009	C	CT	1.73	0	indels	19	1096	0	126	PASS:Somatic	19:8,11	0:0,0	no
+FANCD2	others	.					intronic	.	.	chr3	10091049	C	T	4.60	9.51	CC	47	1174	37	389	alt_allele_in_normal	47:21,26	37:17,20	no
+FANCD2	others	.					intronic	.	.	chr3	10091049	C	T	11.16	9.09	CC	194	1739	35	385	PASS:Germline	194:127,67	35:25,10	no
+FANCD2	others	.					intronic	.	.	chr3	10091049	C	T	11.60	10.19	CC	141	1216	27	264	Germline	141:64,77	27:17,10	no
+ATM	others	.					intronic	.	.	chr11	108195976	GTT	G	20.00	39.02	indels	68	132	16	41	alt_allele_in_normal;germline_risk;t_lod_fstar	68:1,1	16:1,0	no
+IRF4	others	.					intronic	.	.	chr6	397079	T	C	1.77	1.98	TT	23	1299	4	201	LikelySomatic	23:20,3	4:3,1	no
+UGT1A1,UGT1A10,UGT1A3,UGT1A4,UGT1A5,UGT1A6,UGT1A7,UGT1A8,UGT1A9	others	.					intronic	.	.	chr2	234678126	C	T	1.04	0.72	CC	8	771	1	138	LikelySomatic	8:2,6	1:0,1	no
+ITK	others	.	c.G1759A	p.V587I	exon16	NM_005546	exonic	nonsynonymous SNV	.	chr5	156675985	G	A	46.01	46.65	GA	1039	2258	313	671	PASS:Germline	1039:479,560	313:136,177	no
+ITK	others	.	c.G1759A	p.V587I	exon16	NM_005546	exonic	nonsynonymous SNV	.	chr5	156675985	G	A	46.62	46.88	GA	724	1553	210	447	Germline	724:135,589	210:25,185	no
+ROS1	others	.					intronic	.	.	chr6	117681436	G	GACAC	60.39	58.93	indels	279	462	66	112	PASS:Germline	279:164,115	66:45,21	no
+RET	others	.					intronic	.	.	chr10	43608735	C	T	8.00	0	CC	166	2113	0	481	PASS	166:78,88	0:0,0	yes
+RET	others	.					intronic	.	.	chr10	43608735	C	T	7.64	0	CC	162	2121	0	476	PASS:Somatic	162:81,81	0:0,0	no
+BCR	others	.					intronic	.	.	chr22	23544908	T	TTGTGTGTGTG	9.62	12.77	indels	51	530	12	94	PASS:Germline	51:18,33	12:7,5	no
+KMT2C	others	.					intronic	.	.	chr7	151919649	T	C	3.79	2.33	TT	48	1266	7	301	PASS:Germline	48:24,24	7:3,4	no
+NCOA3	others	.	c.3753_3762del,c.3729_3738del,c.3744_3753del,c.3756_3765del	p.Q1251fs(ref_AA:QQQQ,start:1251,end:1254,mut_AA:H),p.Q1243fs(ref_AA:QQQQ,start:1243,end:1246,mut_AA:H),p.Q1248fs(ref_AA:QQQQ,start:1248,end:1251,mut_AA:H),p.Q1252fs(ref_AA:QQQQ,start:1252,end:1255,mut_AA:H)	exon20,exon20,exon20,exon20	NM_001174087,NM_001174088,NM_006534,NM_181659	exonic	frameshift deletion	.	chr20	46279829	AGCAGCAACAG	A	1.80	1.14	indels	23	1078	2	175	alt_allele_in_normal;clustered_events	23:14,9	2:2,0	no
+NCOA3	others	.	c.3753_3762del,c.3729_3738del,c.3744_3753del,c.3756_3765del	p.Q1251fs(ref_AA:QQQQ,start:1251,end:1254,mut_AA:H),p.Q1243fs(ref_AA:QQQQ,start:1243,end:1246,mut_AA:H),p.Q1248fs(ref_AA:QQQQ,start:1248,end:1251,mut_AA:H),p.Q1252fs(ref_AA:QQQQ,start:1252,end:1255,mut_AA:H)	exon20,exon20,exon20,exon20	NM_001174087,NM_001174088,NM_006534,NM_181659	exonic	frameshift deletion	.	chr20	46279829	AGCAGCAACAG	A	2.30	1.4	indels	20	880	2	143	alt_allele_in_normal;clustered_events	20:14,6	2:2,0	no
+NKX2-1-AS1	others	.					ncRNA_intronic	.	.	chr14	36988928	AAG	A	4.10	3.77	indels	10	300	2	53	alt_allele_in_normal;str_contraction	10:4,6	2:1,1	no
+HERC2	others	.	c.C905T	p.T302M	exon8	NM_004667	exonic	nonsynonymous SNV	.	chr15	28518046	G	A	2.50	4.95	GG	35	1464	11	222	alt_allele_in_normal;clustered_events	35:19,16	11:5,6	no
+HERC2	others	.	c.C905T	p.T302M	exon8	NM_004667	exonic	nonsynonymous SNV	.	chr15	28518046	G	A	5.11	4.61	GG	76	1488	10	217	PASS:Germline	76:44,32	10:6,4	no
+PMS2	others	.					intronic	.	.	chr7	6022628	G	C	16.99	11.21	GG	236	1389	24	214	PASS:Germline	236:55,181	24:7,17	no
+H3F3A	others	COSM3930660	c.C344G	p.A115G	exon4	NM_002107	exonic	nonsynonymous SNV	.	chr1	226259113	C	G	10.70	11.96	CC	231	2159	44	368	PASS:Germline	231:171,60	44:32,12	no
+H3F3A	others	COSM3930660	c.C344G	p.A115G	exon4	NM_002107	exonic	nonsynonymous SNV	.	chr1	226259113	C	G	11.92	12.96	CC	171	1434	32	246	Germline	171:107,64	32:18,14	no
+NCOR1	others	.	c.G121A,c.G448A,c.G448A	p.G41R,p.G150R,p.G150R	exon2,exon4,exon5	NM_001190438,NM_001190440,NM_006311	exonic	nonsynonymous SNV	.	chr17	16068463	C	T	16.58	14.68	CC	363	2189	86	586	PASS:Germline	363:142,221	86:31,55	no
+AHNAK2	others	.	c.G9227A	p.R3076H	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105412561	C	T	99.71	97.13	TT	1724	1729	237	244	PASS:Germline	1724:765,959	237:97,140	no
+KDM6A	others	.					intronic	.	.	chrX	44920541	A	AT	1.52	0	indels	10	658	0	87	PASS:Somatic	10:9,1	0:0,0	no
+NOTCH3	others	.					intronic	.	.	chr19	15281453	G	C	6.50	0	GG	13	148	0	15	PASS	13:8,5	0:0,0	yes
+ETV5	others	.					intronic	.	.	chr3	185802038	C	A	1.40	0	CC	8	571	0	138	PASS:Somatic	8:1,7	0:0,0	no
+AHNAK2	others	.	c.A11405G	p.K3802R	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105410383	T	C	26.02	27.98	TC	1390	5343	312	1115	PASS:Germline	1390:774,616	312:174,138	no
+LOC100131635	others	.					ncRNA_intronic	.	.	chr3	187442662	G	GCTCCACCTCCTTCCCTGCC	21.56	31.97	indels	174	807	39	122	PASS:Germline	174:120,54	39:21,18	no
+FGFR3	others	.					intronic	.	.	chr4	1805573	TCTG	T	1.10	0	indels	8	760	0	138	str_contraction	8:2,6	0:0,0	yes
+COL1A1	others	.					intronic	.	.	chr17	48266160	CAG	C	5.10	5.68	indels	65	1361	13	229	alt_allele_in_normal;str_contraction	65:36,29	13:5,8	no
+COL1A1	others	.					intronic	.	.	chr17	48266160	CAG	C	3.72	4.78	indels	57	1534	12	251	PASS:Germline	57:29,28	12:5,7	no
+ARID1B	others	.					intronic	.	.	chr6	157256588	G	GT	1.09	0.69	indels	27	2478	3	432	PASS:Germline	27:16,11	3:2,1	no
+ROCK1	others	.					intronic	.	.	chr18	18619416	G	GA	3.93	2.56	indels	33	839	4	156	PASS:Germline	33:23,10	4:2,2	no
+AR	others	.	c.171_173del	p.Q58delQ(ref_AA:LQ,start:57,end:58,mut_AA:L)	exon1	NM_000044	exonic	nonframeshift deletion	.	chrX	66765158	TGCA	T	17.89	9.38	indels	44	246	3	32	PASS:Germline	44:11,33	3:0,3	no
+STK33	others	.					intronic	.	.	chr11	8494831	CA	C	2.88	2.38	indels	12	417	3	126	indelError:Unknown	12:4,8	3:0,3	no
+SDHA	others	.	c.T1752C,c.T1896C	p.V584V,p.V632V	exon13,exon14	NM_001294332,NM_004168	exonic	synonymous SNV	.	chr5	254609	T	C	1.42	0	TT	11	773	0	115	PASS:Somatic	11:6,5	0:0,0	no
+AHNAK2	others	.	c.T6689C	p.V2230A	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415099	A	G	4.07	2.31	AA	111	2729	10	433	PASS:Germline	111:88,23	10:10,0	no
+CBLB	others	.					intronic	.	.	chr3	105421320	GA	G	24.02	33.33	indels	61	254	13	39	PASS:Germline	61:52,9	13:12,1	no
+CREBBP	others	.					intronic	.	.	chr16	3828847	C	CT	1.68	1.94	indels	41	2442	5	258	PASS:Germline	41:10,31	5:2,3	no
+CUX1	others	.					intronic	.	.	chr7	101924173	A	C	1.53	3.26	AA	9	588	3	92	PASS:Germline	9:8,1	3:3,0	no
+CYLD	others	.					intronic	.	.	chr16	50816436	GGT	G	6.10	8.08	indels	74	1082	16	198	alt_allele_in_normal;str_contraction	74:41,31	16:8,8	no
+CYLD	others	.					intronic	.	.	chr16	50816436	GGT	G	5.71	6.48	indels	74	1297	16	247	PASS:Germline	74:28,46	16:7,9	no
+AHNAK2	others	.	c.G3042C	p.G1014G	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418746	C	G	1.36	0.15	CC	53	3886	1	671	PASS:Somatic	53:15,38	1:1,0	no
+HERC2	others	.					intronic	.	.	chr15	28474999	A	G	5.80	5.82	AA	113	1948	21	361	PASS:Germline	113:52,61	21:10,11	no
+AHNAK2	others	.	c.C11325T	p.A3775A	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105410463	G	A	24.64	26.31	GG	1205	4890	257	977	PASS:Germline	1205:450,755	257:93,164	no
+ETV6	others	.					intronic	.	.	chr12	11926242	CAT	C	5.50	5.06	indels	27	514	4	79	alt_allele_in_normal;str_contraction	27:15,12	4:3,1	no
+HERC2	others	.					intronic	.	.	chr15	28518184	A	G	3.50	4.76	AA	42	1006	9	189	alt_allele_in_normal;clustered_events	42:18,24	9:1,8	no
+HERC2	others	.					intronic	.	.	chr15	28518184	A	G	6.40	4.79	AA	67	1047	9	188	PASS:Germline	67:25,42	9:2,7	no
+NOTCH2	others	.					UTR5	.	NM_024408:c.-134G>C,NM_001200001:c.-134G>C	chr1	120612154	C	G	27.49	14.63	CG	105	382	6	41	PASS:Germline	105:55,50	6:4,2	no
+NOTCH2	others	.					UTR5	.	NM_024408:c.-134G>C,NM_001200001:c.-134G>C	chr1	120612154	C	G	27.08	17.24	CG	65	240	5	28	Germline	65:13,52	5:1,4	no
+SDHA	others	.	c.G1830C,c.G1974C	p.P610P,p.P658P	exon14,exon15	NM_001294332,NM_004168	exonic	synonymous SNV	.	chr5	256514	G	C	14.92	14.33	GG	634	4249	104	726	PASS:Germline	634:260,374	104:42,62	no
+RAF1	others	.					intronic	.	.	chr3	12650848	A	T	42.77	40.52	AT	204	477	47	116	PASS:Germline	204:53,151	47:12,35	no
+RAF1	others	.					intronic	.	.	chr3	12650848	A	T	45.05	44.21	AT	182	404	42	94	Germline	182:18,164	42:2,40	no
+GNAQ	others	.	c.A175C	p.M59L	exon2	NM_002072	exonic	nonsynonymous SNV	.	chr9	80537223	T	G	1.13	0.93	TT	14	1244	4	430	PASS:Germline	14:5,9	4:2,2	no
+SDHA	others	.					intronic	.	.	chr5	256434	ACT	A	20.26	20.07	indels	623	3075	110	548	PASS:Germline	623:387,236	110:65,45	no
+FCGR3A	others	.	c.T634G,c.T631G,c.T526G,c.T526G,c.T523G	p.F212V,p.F211V,p.F176V,p.F176V,p.F175V	exon4,exon4,exon5,exon5,exon5	NM_000569,NM_001127592,NM_001127593,NM_001127595,NM_001127596	exonic	nonsynonymous SNV	.	chr1	161514542	A	C	38.20	52.63	AC	293	767	40	76	PASS:Germline	293:224,69	40:28,12	no
+FCGR3A	others	.	c.T634G,c.T631G,c.T526G,c.T526G,c.T523G	p.F212V,p.F211V,p.F176V,p.F176V,p.F175V	exon4,exon4,exon5,exon5,exon5	NM_000569,NM_001127592,NM_001127593,NM_001127595,NM_001127596	exonic	nonsynonymous SNV	.	chr1	161514542	A	C	39.27	51.52	AC	247	629	34	65	Germline	247:174,73	34:20,14	no
+AHNAK2	others	.	c.T6617C	p.L2206P	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415171	A	G	2.90	4.33	AA	64	2748	23	531	alt_allele_in_normal;clustered_events	64:27,37	23:9,14	no
+AHNAK2	others	.	c.T6617C	p.L2206P	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415171	A	G	10.30	6.06	AA	315	3057	33	545	PASS:Germline	315:234,81	33:24,9	no
+AHNAK2	others	.	c.A8607C	p.Q2869H	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413181	T	G	8.47	8.86	TT	259	3058	38	429	PASS:Germline	259:69,190	38:10,28	no
+KMT2C	others	COSM216053	c.C2961G	p.Y987X	exon18	NM_170606	exonic	stopgain	.	chr7	151927023	G	C	11.43	12.78	GG	552	4830	209	1635	PASS:Germline	552:335,217	209:127,82	no
+PARP4	others	.					intronic	.	.	chr13	24995459	TA	T	13.79	8.89	indels	48	348	4	45	PASS:Germline	48:15,33	4:2,2	no
+HERC2	others	.					intronic	.	.	chr15	28457540	G	C	36.01	37.85	GC	493	1369	81	214	PASS:Germline	493:383,110	81:63,18	no
+HNF1A	others	COSM1645167					intronic	.	.	chr12	121434630	C	CTCATTCAT	73.00	82.27	indels	776	1063	181	220	PASS:Germline	776:466,310	181:116,65	no
+KMT2C	others	COSM253767	c.T2959C	p.Y987H	exon18	NM_170606	exonic	nonsynonymous SNV	.	chr7	151927025	A	G	31.82	31.67	AG	1552	4877	528	1667	PASS:Germline	1552:913,639	528:315,213	no
+RAD21	others	.					intronic	.	.	chr8	117868531	TA	T	14.58	11.11	indels	14	96	5	45	PASS:Germline	14:7,7	5:4,1	no
+LOC100294362	others	.					ncRNA_intronic	.	.	chr17	78349502	CA	C	1.32	5.8	indels	22	1662	12	207	PASS:Germline	22:12,10	12:9,3	no
+BMPR1A	others	.					intronic	.	.	chr10	88650068	G	GT	1.50	0	indels	9	600	0	177	PASS:Somatic	9:2,7	0:0,0	no
+ETV5	others	.					intronic	.	.	chr3	185788987	GA	G	7.59	9.77	indels	204	2689	47	481	PASS:Germline	204:83,121	47:22,25	no
+RUNX1T1	others	.					intronic	.	.	chr8	92983159	A	AT	1.40	0	indels	15	1071	0	189	PASS:Somatic	15:5,10	0:0,0	no
+KMT2C	others	.					intronic	.	.	chr7	151932892	C	G	2.20	3.63	CC	49	2879	22	606	alt_allele_in_normal;clustered_events	49:26,23	22:6,16	no
+KMT2C	others	.					intronic	.	.	chr7	151932892	C	G	5.81	4.68	CC	205	3527	30	641	PASS:Germline	205:76,129	30:8,22	no
+AHNAK2	others	.	c.T10290C	p.P3430P	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105411498	A	G	1.02	1.48	AA	41	4015	11	742	PASS:Germline	41:20,21	11:5,6	no
+AHNAK2	others	COSM3689979	c.A11156G	p.E3719G	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105410632	T	C	1.15	1.01	TT	33	2874	5	494	PASS:Germline	33:10,23	5:2,3	no
+SOS1	others	.	c.G2739T	p.K913N	exon17	NM_005633	exonic	nonsynonymous SNV	.	chr2	39233605	C	A	1.03	0	CC	6	580	0	146	PASS:Somatic	6:3,3	0:0,0	no
+XPC	others	.	c.G1336T	p.E446X	exon9	NM_004628	exonic	stopgain	.	chr3	14200047	C	A	1.05	0	CC	9	856	0	131	PASS:Somatic	9:3,6	0:0,0	no
+HLA-A	others	.	c.412_414GAA,c.412_414GAA	p.R138E(ref_AA:R,start:138,end:138,mut_AA:E),p.R138E(ref_AA:R,start:138,end:138,mut_AA:E)	exon3,exon3	NM_001242758,NM_002116	exonic	nonframeshift substitution	.	chr6	29911113	CGG	GAA	3.01	1.64	CGGCGG	10	332	1	60	LikelySomatic	10:7,3	1:1,0	no
+NCOA4,TIMM23B	others	.					intronic	.	.	chr10	51581254	G	GT	1.13	1.23	indels	17	1507	4	325	PASS:Germline	17:10,7	4:3,1	no
+KMT2C	others	COSN168245					intronic	.	.	chr7	151927127	A	G	19.76	21.16	AA	748	3786	255	1205	PASS:Germline	748:231,517	255:77,178	no
+ROS1	others	.					intronic	.	.	chr6	117653646	G	C	68.12	69.57	GC	47	69	16	23	PASS:Germline	47:23,24	16:8,8	no
+TMPRSS2	others	.					intronic	.	.	chr21	42838093	G	GA	1.73	3.21	indels	25	1442	6	187	PASS:Germline	25:11,14	6:2,4	no
+AHNAK2	others	.	c.G3661A	p.E1221K	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105418127	C	T	32.65	31.34	CT	1303	3991	220	702	PASS:Germline	1303:917,386	220:153,67	no
+SDHA	others	.					UTR3	.	NM_004168:c.*43T>C,NM_001294332:c.*43T>C	chr5	256578	T	C	5.60	6.55	TT	90	2333	26	397	alt_allele_in_normal	90:36,54	26:18,8	no
+HLA-A	others	.	c.A652G,c.A652G	p.I218V,p.I218V	exon4,exon4	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911931	A	G	5.84	6.76	AA	234	4004	42	621	PASS:Germline	234:133,101	42:25,17	no
+NCOR1	others	.					intronic	.	.	chr17	16041578	T	TA	7.42	4.76	indels	27	364	2	42	PASS:Germline	27:4,23	2:0,2	no
+PARP4	others	.	c.G3642A	p.E1214E	exon30	NM_006437	exonic	synonymous SNV	.	chr13	25016008	C	T	27.18	37.25	CT	649	2388	149	400	PASS:Germline	649:322,327	149:74,75	no
+MTOR	others	.					intronic	.	.	chr1	11187618	A	AT	2.04	0	indels	10	489	0	49	StrongSomatic	10:9,1	0:0,0	yes
+RICTOR	others	.					intronic	.	.	chr5	38978758	TA	T	4.72	7.89	indels	29	615	6	76	PASS:Germline	29:12,17	6:2,4	no
+NF1	others	.					intronic	.	.	chr17	29508819	A	AT	41.35	36.45	indels	165	399	39	107	PASS:Germline	165:47,118	39:12,27	no
+AHNAK2	others	.	c.A3444C	p.E1148D	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105418344	T	G	99.89	99.09	GG	4504	4509	872	880	PASS:Germline	4504:2113,2391	872:398,474	no
+BCR	others	.					intronic	.	.	chr22	23589036	C	T	46.22	41.42	CT	1246	2696	193	466	PASS:Germline	1246:630,616	193:107,86	no
+BCR	others	.					intronic	.	.	chr22	23622521	C	T	50.71	52.55	CT	464	915	72	137	PASS:Germline	464:208,256	72:34,38	no
+BCR	others	.					intronic	.	.	chr22	23587790	G	GCTGCCAGCCTGGCAGAGGAGGAGAAAGTAGAGAAACCACCAGAACCAAC	20.20	0	indels	84	981	0	188	PASS	84:49,35	0:0,0	yes
+HERC2	others	.	c.G6377T	p.R2126L	exon41	NM_004667	exonic	nonsynonymous SNV	.	chr15	28459400	C	A	48.53	44.78	CA	181	373	30	67	PASS:Germline	181:47,134	30:12,18	no
+UGT1A5	others	.	c.C673T	p.H225Y	exon1	NM_019078	exonic	nonsynonymous SNV	.	chr2	234622310	C	T	43.50	39.33	CT	1820	4184	317	806	PASS:Germline	1820:939,881	317:169,148	no
+CHD4	others	.					intronic	.	.	chr12	6690348	G	GA	1.94	1.68	indels	40	2063	6	358	PASS:Germline	40:22,18	6:3,3	no
+HLA-A	others	.					intronic	.	.	chr6	29911836	C	T	6.80	5.79	CC	165	2419	23	397	alt_allele_in_normal;clustered_events	165:85,80	23:12,11	no
+HLA-A	others	.					intronic	.	.	chr6	29911836	C	T	7.88	5.81	CC	203	2577	24	413	PASS:Germline	203:134,69	24:16,8	no
+GPC3	others	COSM1625536					intronic	.	.	chrX	132838305	GA	G	8.96	16.67	indels	36	402	10	60	PASS:Germline	36:12,24	10:3,7	no
+AHNAK2	others	.	c.C5431T	p.L1811L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105416357	G	A	1.10	2.99	GG	60	4196	25	836	alt_allele_in_normal;clustered_events	60:31,29	25:15,10	no
+AHNAK2	others	.	c.C5431T	p.L1811L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105416357	G	A	4.05	4.71	GG	177	4369	40	850	PASS:Germline	177:86,91	40:20,20	no
+HLA-A	others	.	c.C622G,c.C622G	p.P208A,p.P208A	exon4,exon4	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911901	C	G	6.21	5.35	CC	254	4089	36	673	PASS:Germline	254:144,110	36:25,11	no
+FLT4	others	.					intronic	.	.	chr5	180047739	CGT	C	5.50	5.26	indels	22	397	3	57	alt_allele_in_normal;str_contraction	22:10,12	3:2,1	no
+FLT4	others	.					intronic	.	.	chr5	180047739	CGT	C	9.20	3.57	indels	15	170	1	28	alt_allele_in_normal;clustered_events;str_contraction	15:8,7	1:0,1	no
+FLT4	others	.					intronic	.	.	chr5	180047739	CGT	C	3.60	2.63	indels	18	500	2	76	PASS:Germline	18:6,12	2:0,2	no
+CDK8	others	.					intronic	.	.	chr13	26959325	AT	A	3.11	3.68	indels	28	900	6	163	PASS:Germline	28:22,6	6:3,3	no
+FGFR1OP	others	.					intronic	.	.	chr6	167447489	CT	C	6.87	8.76	indels	64	931	12	137	PASS:Germline	64:16,48	12:4,8	no
+TFG	others	.					intronic	.	.	chr3	100463650	CTT	C	1.93	1.24	indels	13	675	5	402	PASS:Germline	13:10,3	5:3,2	no
+TFG	others	.					intronic	.	.	chr3	100463650	CTT	C	2.12	2.37	indels	11	520	7	294	LikelySomatic	11:8,3	7:3,4	no
+BCR	others	.					intronic	.	.	chr22	23552609	G	GA	14.90	19.35	indels	66	443	12	62	PASS:Germline	66:54,12	12:11,1	no
+TMPRSS2	others	.					intronic	.	.	chr21	42863008	T	C	44.69	43.83	TC	484	1083	71	162	PASS:Germline	484:169,315	71:29,42	no
+DLEC1	others	.	c.C537T,c.C537T	p.L179L,p.L179L	exon2,exon2	NM_007335,NM_007337	exonic	synonymous SNV	.	chr3	38087159	C	T	44.81	49.79	CT	1027	2292	236	474	PASS:Germline	1027:424,603	236:105,131	no
+POLE	others	.					intronic	.	.	chr12	133237753	GA	G	11.34	12.23	indels	92	811	17	139	PASS:Germline	92:41,51	17:8,9	no
+KMT2C	others	.					intronic	.	.	chr7	151971052	TA	T	71.12	66.4	indels	1160	1631	253	381	PASS:Germline	1160:222,938	253:48,205	no
+NCOR1	others	.					intronic	.	.	chr17	15973417	GT	G	18.75	21.43	indels	213	1136	42	196	PASS:Germline	213:117,96	42:24,18	no
+EGFR	others	.					intronic	.	.	chr7	55269062	GTC	G	2.20	0.81	indels	32	1574	2	247	alt_allele_in_normal;str_contraction	32:15,17	2:2,0	no
+ATR	others	COSM1617015	c.2320dupA	p.I774fs	exon10	NM_001184	exonic	frameshift insertion	.	chr3	142274739	A	AT	2.23	1.6	indels	33	1481	5	313	PASS:Germline	33:18,15	5:2,3	no
+HLA-A	others	.	c.C651T,c.C651T	p.P217P,p.P217P	exon4,exon4	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29911930	C	T	5.90	7.11	CC	199	3636	45	633	alt_allele_in_normal;clustered_events;germline_risk	199:100,99	45:15,30	no
+HLA-A	others	.	c.C651T,c.C651T	p.P217P,p.P217P	exon4,exon4	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29911930	C	T	5.58	6.69	CC	228	4087	43	643	PASS:Germline	228:129,99	43:26,17	no
+AHNAK2	others	.	c.T11466C	p.I3822I	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105410322	A	G	10.39	11.91	AA	465	4474	104	873	PASS:Germline	465:363,102	104:85,19	no
+HLA-A	others	.	c.C868T,c.C868T	p.L290L,p.L290L	exon4,exon4	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29912147	C	T	33.46	33.87	CT	172	514	21	62	PASS:Germline	172:85,87	21:12,9	no
+RRM1	others	.	c.T405C	p.I135I	exon5	NM_001033	exonic	synonymous SNV	.	chr11	4130891	T	C	50.51	47.74	TC	397	786	74	155	PASS:Germline	397:232,165	74:46,28	no
+KIF5B	others	.					intronic	.	.	chr10	32324718	TTC	T	2.70	1.85	indels	11	353	1	54	str_contraction;triallelic_site	11:3,5	1:0,1	no
+KIF5B	others	.					intronic	.	.	chr10	32324718	TTC	T	1.90	2.44	indels	6	245	1	41	alt_allele_in_normal;str_contraction;t_lod_fstar;triallelic_site	6:1,3	1:0,1	no
+PIK3R1	others	.					UTR5	.	NM_181524:c.-51del-	chr5	67584512	AT	A	8.05	6.63	indels	68	845	11	166	PASS:Germline	68:40,28	11:5,6	no
+PIK3R1	others	.					UTR5	.	NM_181524:c.-51del-	chr5	67584512	AT	A	7.67	6.56	indels	52	678	8	121	Germline	52:22,30	8:2,6	no
+KMT2C	others	.					intronic	.	.	chr7	151944981	C	A	4.41	4.35	CC	238	5397	79	1818	PASS:Germline	238:131,107	79:39,40	no
+ARHGAP19-SLIT1	others	.					ncRNA_intronic	.	.	chr10	98928914	C	G	48.78	47.43	CG	579	1187	120	253	PASS:Germline	579:304,275	120:65,55	no
+BCR	others	.					intronic	.	.	chr22	23653850	G	C	41.04	45.03	GC	1047	2551	163	362	PASS:Germline	1047:544,503	163:80,83	no
+CCDC6	others	.					intronic	.	.	chr10	61574357	AAC	A	16.40	11.92	indels	90	612	41	344	alt_allele_in_normal;str_contraction;t_lod_fstar	90:46,44	41:17,23	no
+CCDC6	others	.					intronic	.	.	chr10	61574357	AAC	A	11.02	9.37	indels	90	817	37	395	PASS:Germline	90:44,46	37:21,16	no
+U2AF1	others	.					intronic	.	.	chr21	44514503	AT	A	1.59	1	indels	33	2072	3	300	PASS:Germline	33:22,11	3:2,1	no
+HERC2	others	.					intronic	.	.	chr15	28518217	C	G	3.90	5.3	CC	30	747	7	132	alt_allele_in_normal;clustered_events	30:11,19	7:1,6	no
+YWHAE	others	.					intronic	.	.	chr17	1251240	C	A	1.13	0	CC	7	617	0	64	PASS:Somatic	7:2,5	0:0,0	no
+AHNAK2	others	.	c.A6686G	p.E2229G	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415102	T	C	4.22	2.3	TT	115	2723	10	435	PASS:Germline	115:92,23	10:10,0	no
+TRANK1	others	.					intronic	.	.	chr3	36915519	GTA	G	3.40	5.06	indels	15	415	4	79	alt_allele_in_normal;str_contraction	15:7,8	4:1,3	no
+CREBBP	others	.					intronic	.	.	chr16	3781171	T	G	1.50	0	TT	6	400	0	30	PASS:Somatic	6:1,5	0:0,0	no
+AHNAK2	others	.	c.A6592G	p.T2198A	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415196	T	C	16.02	13.73	TT	553	3451	92	670	PASS:Germline	553:298,255	92:51,41	no
+ETV6	others	.					intronic	.	.	chr12	12013626	T	TC	31.62	50	indels	327	1034	95	190	PASS:Germline	327:153,174	95:41,54	no
+SDHA	others	.					UTR3	.	NM_004168:c.*13T>C,NM_001294332:c.*13T>C	chr5	256548	T	C	9.83	9.62	TT	340	3460	53	551	PASS:Germline	340:61,279	53:11,42	no
+IQSEC1	others	.					intronic	.	.	chr3	13114446	C	A	1.23	0	CC	7	570	0	91	PASS:Somatic	7:3,4	0:0,0	no
+AHNAK2	others	.	c.C5194T	p.P1732S	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105416594	G	A	48.64	44.25	GA	1233	2535	181	409	PASS:Germline	1233:643,590	181:96,85	no
+PIK3CA	others	.					intronic	.	.	chr3	178941853	CT	C	1.05	1.49	indels	6	573	4	268	PASS:Germline	6:4,2	4:2,2	no
+AHNAK2	others	.	c.C6375T	p.A2125A	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415413	G	A	16.30	16.76	GG	680	4172	117	698	PASS:Germline	680:426,254	117:78,39	no
+AHNAK2	others	.	c.C9528G	p.D3176E	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105412260	G	C	99.86	98.47	CC	3572	3577	708	719	PASS:Germline	3572:1859,1713	708:378,330	no
+NOTCH2	others	COSM423616	c.A703T,c.A703T	p.T235S,p.T235S	exon4,exon4	NM_001200001,NM_024408	exonic	nonsynonymous SNV	.	chr1	120539668	T	A	2.08	1.69	TT	39	1876	5	296	PASS:Germline	39:14,25	5:2,3	no
+CARD11	others	.					intronic	.	.	chr7	2966465	AGT	A	3.30	4.53	indels	66	2105	12	265	alt_allele_in_normal;str_contraction	66:33,33	12:5,7	no
+CARD11	others	.					intronic	.	.	chr7	2966465	AGT	A	2.42	4.21	indels	58	2394	13	309	PASS:Germline	58:26,32	13:5,8	no
+BUB1B	others	.					intronic	.	.	chr15	40476513	CT	C	7.16	5.19	indels	38	531	7	135	PASS:Germline	38:7,31	7:2,5	no
+CACNA1D	others	.					intronic	.	.	chr3	53685000	TG	T	1.04	2.72	indels	9	865	5	184	PASS:Germline	9:3,6	5:2,3	no
+AHNAK2	others	.	c.C3451T	p.L1151L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418337	G	A	11.95	12.39	GG	574	4805	117	944	PASS:Germline	574:113,461	117:18,99	no
+HERC2	others	.					intronic	.	.	chr15	28457555	C	T	37.66	38.4	CT	618	1641	101	263	PASS:Germline	618:458,160	101:74,27	no
+NOTCH2	others	COSM1600651	c.G61A,c.G61A	p.A21T,p.A21T	exon1,exon1	NM_001200001,NM_024408	exonic	nonsynonymous SNV	.	chr1	120611960	C	T	13.24	0	CC	18	136	0	17	PASS:Somatic	18:12,6	0:0,0	no
+NOTCH2	others	COSM1600651	c.G61A,c.G61A	p.A21T,p.A21T	exon1,exon1	NM_001200001,NM_024408	exonic	nonsynonymous SNV	.	chr1	120611960	C	T	14.29	0	CC	14	98	0	13	StrongSomatic	14:9,5	0:0,0	yes
+H3F3AP4	others	.					ncRNA_exonic	.	.	chr1	226259212	C	CA	21.85	25	indels	137	627	25	100	PASS:Germline	137:82,55	25:18,7	no
+MAP3K1	others	.	c.2822_2824del	p.T942delT(ref_AA:ST,start:941,end:942,mut_AA:S)	exon14	NM_005921	exonic	nonframeshift deletion	.	chr5	56177848	TCAA	T	82.51	85.25	indels	1203	1458	393	461	PASS:Germline	1203:627,576	393:199,194	no
+CYLD	others	.					intronic	.	.	chr16	50785875	GTA	G	4.60	2.5	indels	8	186	1	40	alt_allele_in_normal;str_contraction	8:5,3	1:0,1	no
+AHNAK2	others	.	c.C6377G	p.P2126R	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415411	G	C	16.00	15.79	GG	679	4243	114	722	PASS:Germline	679:428,251	114:78,36	no
+LRP1B	others	.	c.C9109T	p.L3037F	exon57	NM_018557	exonic	nonsynonymous SNV	.	chr2	141250188	G	A	5.60	0	GG	16	281	0	126	PASS	16:8,8	0:0,0	yes
+LRP1B	others	.	c.C9109T	p.L3037F	exon57	NM_018557	exonic	nonsynonymous SNV	.	chr2	141250188	G	A	5.32	0	GG	15	282	0	128	PASS:Somatic	15:7,8	0:0,0	no
+RAD50	others	.					intronic	.	.	chr5	131927550	AT	A	2.05	0	indels	6	293	0	82	PASS:Somatic	6:5,1	0:0,0	no
+RAD50	others	.					intronic	.	.	chr5	131927550	AT	A	2.44	0	indels	6	246	0	65	StrongSomatic	6:5,1	0:0,0	yes
+HMGA2	others	.					intronic	.	.	chr12	66235771	CT	C	67.06	41.67	indels	114	170	30	72	PASS:Germline	114:80,34	30:20,10	no
+REL	others	.					intronic	.	.	chr2	61143993	A	AT	1.32	1.44	indels	10	755	3	209	indelError:Unknown	10:7,3	3:1,2	no
+REL	others	.					intronic	.	.	chr2	61143993	A	AT	1.35	0	indels	8	594	0	164	StrongSomatic	8:5,3	0:0,0	yes
+HLA-A	others	.	c.G89A,c.G89A	p.R30K,p.R30K	exon2,exon2	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29910549	G	A	2.00	0	GG	10	326	0	43	clustered_events;homologous_mapping_event	10:2,8	0:0,0	yes
+HLA-A	others	.	c.G89A,c.G89A	p.R30K,p.R30K	exon2,exon2	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29910549	G	A	3.57	0	GG	12	336	0	45	PASS:Somatic	12:6,6	0:0,0	no
+NCOR1	others	.	c.C201T,c.C528T,c.C528T	p.L67L,p.L176L,p.L176L	exon2,exon4,exon5	NM_001190438,NM_001190440,NM_006311	exonic	synonymous SNV	.	chr17	16068383	G	A	45.07	38.32	GA	1006	2232	228	595	PASS:Germline	1006:583,423	228:129,99	no
+WRN	others	.					intronic	.	.	chr8	31000002	G	GA	1.07	0	indels	6	562	0	159	PASS:Somatic	6:3,3	0:0,0	no
+KMT2C	others	COSM396785	c.G2674A	p.G892R	exon16	NM_170606	exonic	nonsynonymous SNV	.	chr7	151932997	C	T	1.38	2.08	CC	64	4621	16	770	PASS:Germline	64:7,57	16:4,12	no
+CYP17A1	others	.					intronic	.	.	chr10	104591211	G	A	47.77	41.94	GA	417	873	78	186	PASS:Germline	417:272,145	78:53,25	no
+AHNAK2	others	.	c.G6678T	p.V2226V	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415110	C	A	4.71	2.21	CC	126	2677	10	452	PASS:Germline	126:99,27	10:10,0	no
+KMT2C	others	.					intronic	.	.	chr7	151962077	C	G	24.30	23.85	CC	485	1996	150	629	PASS:Germline	485:409,76	150:119,31	no
+ELL	others	.					intronic	.	.	chr19	18581890	GA	G	4.45	3.26	indels	32	719	3	92	PASS:Germline	32:10,22	3:1,2	no
+FANCD2	others	.	c.C1509T,c.C1509T	p.N503N,p.N503N	exon17,exon17	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10091153	C	T	8.40	13.12	CC	107	1905	66	503	alt_allele_in_normal	107:42,65	66:34,32	no
+FANCD2	others	.	c.C1509T,c.C1509T	p.N503N,p.N503N	exon17,exon17	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10091153	C	T	15.66	12.63	CC	369	2357	63	499	PASS:Germline	369:224,145	63:36,27	no
+FANCD2	others	.	c.C1509T,c.C1509T	p.N503N,p.N503N	exon17,exon17	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10091153	C	T	17.99	14.67	CC	278	1545	49	333	Germline	278:127,151	49:20,29	no
+AHNAK2	others	.	c.C8731A	p.L2911I	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413057	G	T	15.59	15.73	GG	596	3823	101	642	PASS:Germline	596:352,244	101:58,43	no
+HERC2	others	.	c.C4126T	p.R1376X	exon27	NM_004667	exonic	stopgain	.	chr15	28479308	G	A	6.03	4.03	GG	64	1062	5	124	PASS:Germline	64:20,44	5:1,4	no
+KMT2C	others	COSM4162024	c.A946T	p.T316S	exon7	NM_170606	exonic	nonsynonymous SNV	.	chr7	151970856	T	A	78.50	76	AA	5414	6897	1520	2000	PASS:Germline	5414:2615,2799	1520:712,808	no
+ADGRA2	others	.					intronic	.	.	chr8	37692923	G	A	46.44	39.62	GA	150	323	21	53	PASS:Germline	150:61,89	21:12,9	no
+AHNAK2	others	.	c.G5103C	p.L1701L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105416685	C	G	99.92	99.05	GG	3598	3601	628	634	PASS:Germline	3598:1917,1681	628:347,281	no
+PARP4	others	.	c.T3194C	p.V1065A	exon26	NM_006437	exonic	nonsynonymous SNV	.	chr13	25021245	A	G	81.78	84.12	GG	2549	3117	482	573	PASS:Germline	2549:1242,1307	482:230,252	no
+NTRK1	others	.					intronic	.	.	chr1	156842810	A	AGTGT	20.66	34.48	indels	81	392	10	29	PASS:Germline	81:31,50	10:3,7	no
+NTRK1	others	.					intronic	.	.	chr1	156842810	A	AGTGT	25.00	43.75	indels	82	328	14	31	Germline	82:19,63	14:3,11	no
+AKT2	others	.					intronic	.	.	chr19	40744803	G	A	46.24	41.18	GA	381	824	28	68	PASS:Germline	381:191,190	28:16,12	no
+KMT2C	others	COSM4006667	c.T3340C	p.C1114R	exon21	NM_170606	exonic	nonsynonymous SNV	.	chr7	151919751	A	G	2.10	3.86	AA	18	975	11	285	alt_allele_in_normal	18:11,7	11:4,7	no
+KMT2C	others	COSM4006667	c.T3340C	p.C1114R	exon21	NM_170606	exonic	nonsynonymous SNV	.	chr7	151919751	A	G	5.63	3.34	AA	58	1030	10	299	PASS:Germline	58:39,19	10:7,3	no
+NCOR1	others	.					intronic	.	.	chr17	15961098	CA	C	2.38	2.47	indels	25	1052	4	162	PASS:Germline	25:10,15	4:0,4	no
+ETV5	others	.					intronic	.	.	chr3	185787290	GT	G	8.88	4.95	indels	54	608	5	101	PASS:Germline	54:8,46	5:0,5	no
+NOTCH4	others	.	c.C2756T	p.P919L	exon18	NM_004557	exonic	nonsynonymous SNV	.	chr6	32178638	G	A	45.45	54.63	GA	330	726	59	108	PASS:Germline	330:130,200	59:27,32	no
+TRIP11	others	.					intronic	.	.	chr14	92441129	G	GA	5.82	7.33	indels	53	910	14	191	PASS:Germline	53:12,41	14:5,9	no
+LOC101929829	others	.					ncRNA_intronic	.	.	chr22	42524982	C	T	1.40	2.9	CC	6	494	2	69	alt_allele_in_normal;clustered_events	6:3,3	2:0,2	no
+LOC101929829	others	.					ncRNA_intronic	.	.	chr22	42524982	C	T	1.40	2.82	CC	7	500	2	71	PASS:Germline	7:1,6	2:1,1	no
+PTPRK	others	.					intronic	.	.	chr6	128561076	GCA	G	5.40	1.74	indels	24	463	2	115	alt_allele_in_normal;str_contraction	24:4,20	2:2,0	no
+HLA-A	others	.	c.G506A,c.G506A	p.R169H,p.R169H	exon3,exon3	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911207	G	A	50.98	36.49	GA	285	559	27	74	PASS:Germline	285:107,178	27:10,17	no
+HLA-A	others	.	c.G506A,c.G506A	p.R169H,p.R169H	exon3,exon3	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29911207	G	A	46.05	33.96	GA	175	380	18	52	Germline	175:27,148	18:2,16	no
+FCGR2A	others	.	c.G309A,c.G306A	p.T103T,p.T102T	exon3,exon3	NM_001136219,NM_021642	exonic	synonymous SNV	.	chr1	161476326	G	A	1.90	2.43	GG	88	4640	14	576	PASS:Germline	88:44,44	14:7,7	no
+NUP98	others	.					intronic	.	.	chr11	3756581	AAT	A	3.10	6	indels	11	345	3	50	alt_allele_in_normal;clustered_events;str_contraction	11:4,7	3:0,3	no
+TRANK1	others	.					intronic	.	.	chr3	36934343	CAT	C	7.30	2.08	indels	18	314	1	48	str_contraction	18:8,10	1:0,1	no
+KMT2C	others	COSM150428	c.A2958G	p.P986P	exon18	NM_170606	exonic	synonymous SNV	.	chr7	151927026	T	C	20.67	25.24	TT	1012	4896	422	1672	PASS:Germline	1012:591,421	422:241,181	no
+POT1	others	.	c.G1111T,c.G1504T	p.G371X,p.G502X	exon14,exon15	NM_001042594,NM_015450	exonic	stopgain	.	chr7	124475334	C	A	1.10	0	CC	6	546	0	172	PASS:Somatic	6:4,2	0:0,0	no
+ZRSR2	others	.					intronic	.	.	chrX	15822104	TA	T	11.51	0	indels	16	139	0	23	PASS:Somatic	16:9,7	0:0,0	no
+HLA-A	others	.					intronic	.	.	chr6	29910839	C	T	51.41	56.76	CT	128	249	21	37	PASS:Germline	128:55,73	21:7,14	no
+PHF6	others	.					intronic	.	.	chrX	133527688	G	GT	3.57	2.38	indels	15	420	2	84	PASS:Germline	15:3,12	2:1,1	no
+ETV6	others	.					intronic	.	.	chr12	11958912	T	C	1.06	0	TT	12	1130	0	527	PASS:Somatic	12:8,4	0:0,0	no
+HLA-A	others	.	c.413_414AC,c.413_414AC	p.R138H(ref_AA:R,start:138,end:138,mut_AA:H),p.R138H(ref_AA:R,start:138,end:138,mut_AA:H)	exon3,exon3	NM_001242758,NM_002116	exonic	nonframeshift substitution	.	chr6	29911114	GG	AC	32.53	31.15	GGAC	108	332	19	60	Germline	108:28,80	19:4,15	no
+BUB1B	others	.					intronic	.	.	chr15	40477242	C	CT	4.81	4.4	indels	48	998	8	182	PASS:Germline	48:25,23	8:5,3	no
+ETV6	others	.					intronic	.	.	chr12	12026397	C	T	55.13	43.21	CT	333	604	70	162	PASS:Germline	333:76,257	70:16,54	no
+HERC2	others	.					intronic	.	.	chr15	28517951	CAA	C	2.30	4.11	indels	9	483	3	73	alt_allele_in_normal;clustered_events	9:4,5	3:3,0	no
+FANCD2	others	.					intronic	.	.	chr3	10106144	C	T	28.27	22.07	CT	785	2777	149	675	PASS:Germline	785:287,498	149:58,91	no
+ERCC3	others	COSM1399211	c.789_791del,c.597_599del,c.597_599del	p.E264delE(ref_AA:EE,start:263,end:264,mut_AA:E),p.E200delE(ref_AA:EE,start:199,end:200,mut_AA:E),p.E200delE(ref_AA:EE,start:199,end:200,mut_AA:E)	exon6,exon6,exon6	NM_000122,NM_001303416,NM_001303418	exonic	nonframeshift deletion	.	chr2	128046943	CTCT	C	1.10	0.22	indels	26	2568	1	451	str_contraction	26:9,17	1:0,1	no
+ELK4	others	COSM1601574,COSM1601573					intronic	.	.	chr1	205589975	TA	T	3.90	5.56	indels	40	1025	8	144	PASS:Germline	40:9,31	8:1,7	no
+FCGR2A	others	.					intronic	.	.	chr1	161483784	A	T	1.30	2.54	AA	21	1866	6	236	alt_allele_in_normal;clustered_events	21:5,16	6:2,4	no
+CACNA1D	others	.					intronic	.	.	chr3	53839234	AC	A	2.20	0	indels	28	1393	0	275	PASS	28:15,13	0:0,0	yes
+CACNA1D	others	.					intronic	.	.	chr3	53839234	AC	A	1.98	0	indels	29	1468	0	296	PASS:Somatic	29:8,21	0:0,0	no
+PPP6C	others	.					intronic	.	.	chr9	127951072	CAAT	C	4.60	0	indels	8	172	0	26	str_contraction	8:6,2	0:0,0	yes
+AHNAK2	others	.	c.G6357C	p.M2119I	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415431	C	G	22.81	23.73	CC	1012	4436	178	750	PASS:Germline	1012:571,441	178:105,73	no
+CD3EAP	others	.					UTR3	.	NM_001297590:c.*398_*399insATTA,NM_012099:c.*398_*399insATTA	chr19	45913157	T	TATTA	28.00	0	indels	7	25	0	6	germline_risk	7:4,3	0:0,0	yes
+AHNAK2	others	COSM3361087	c.C5534T	p.S1845L	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105416254	G	A	4.02	4.55	GG	195	4856	45	989	PASS:Germline	195:105,90	45:23,22	no
+HLA-A	others	.					intronic	.	.	chr6	29912754	G	A	38.56	35.75	GA	593	1538	74	207	PASS:Germline	593:387,206	74:51,23	no
+HLA-A	others	.					intronic	.	.	chr6	29912754	G	A	40.23	38.16	GA	453	1126	58	151	Germline	453:232,221	58:32,26	no
+CALR	others	.					UTR3	.	NM_004343:c.*152A>C	chr19	13054879	A	C	8.20	2.63	AA	13	161	1	38	t_lod_fstar	13:5,8	1:0,1	no
+KMT2C	others	.					intronic	.	.	chr7	151919159	GA	G	3.17	2.7	indels	12	378	2	74	PASS:Germline	12:4,8	2:1,1	no
+ACSL6	others	.					intronic	.	.	chr5	131326521	CA	C	3.78	3.55	indels	31	820	5	141	PASS:Germline	31:4,27	5:0,5	no
+KMT2C	others	.	c.G2379T	p.S793S	exon14	NM_170606	exonic	synonymous SNV	.	chr7	151945140	C	A	1.60	2.94	CC	72	3955	60	2042	alt_allele_in_normal;clustered_events	72:43,29	60:28,32	no
+PARP4	others	.					intronic	.	.	chr13	25021144	GTCT	G	96.17	97.15	indels	1229	1278	239	246	PASS:Germline	1229:913,316	239:169,70	no
+KMT2C	others	COSM1582714					splicing	.	NM_170606:exon20:c.3323+1G>A	chr7	151921099	C	T	7.25	6.25	CC	110	1517	23	368	PASS:Germline	110:54,56	23:12,11	no
+UGT1A10,UGT1A3,UGT1A4,UGT1A5,UGT1A6,UGT1A7,UGT1A8,UGT1A9	others	.					intronic	.	.	chr2	234668879	CAT	C	2.30	2.76	(TA)7(TA)7	23	961	4	145	alt_allele_in_normal;str_contraction	23:12,11	4:2,2	no
+UGT1A10,UGT1A3,UGT1A4,UGT1A5,UGT1A6,UGT1A7,UGT1A8,UGT1A9	others	.					intronic	.	.	chr2	234668879	CAT	C	1.99	2.55	(TA)7(TA)7	21	1053	4	157	PASS:Germline	21:13,8	4:2,2	no
+UGT1A10,UGT1A3,UGT1A4,UGT1A5,UGT1A6,UGT1A7,UGT1A8,UGT1A9	others	.					intronic	.	.	chr2	234668879	CAT	C	2.50	2.7	(TA)7(TA)7	19	760	3	110	LikelySomatic	19:7,12	3:1,2	no
+SUZ12	others	COSM1720599	c.161_163del	p.S55delS(ref_AA:AS,start:54,end:55,mut_AA:A)	exon1	NM_015355	exonic	nonframeshift deletion	.	chr17	30264425	GCCT	G	1.20	1.14	indels	12	1033	2	175	alt_allele_in_normal;str_contraction	12:10,2	2:2,0	no
+SUZ12	others	COSM1720599	c.161_163del	p.S55delS(ref_AA:AS,start:54,end:55,mut_AA:A)	exon1	NM_015355	exonic	nonframeshift deletion	.	chr17	30264425	GCCT	G	1.21	1.2	indels	12	990	2	167	PASS:Germline	12:9,3	2:1,1	no
+FOXO3	others	.	c.G1445A,c.G1445A	p.S482N,p.S482N	exon2,exon3	NM_001455,NM_201559	exonic	nonsynonymous SNV	.	chr6	108985481	G	A	15.30	12.77	GG	1026	6708	123	963	PASS:Germline	1026:532,494	123:62,61	no
+SRC	others	.					intronic	.	.	chr20	36031561	G	C	50.65	48.72	GC	274	541	38	78	PASS:Germline	274:128,146	38:18,20	no
+AHNAK2	others	.	c.G6183T	p.V2061V	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415605	C	A	8.39	10.67	CC	242	2884	54	506	PASS:Germline	242:125,117	54:28,26	no
+PARP4	others	COSM231303	c.C3238T	p.L1080F	exon26	NM_006437	exonic	nonsynonymous SNV	.	chr13	25021201	G	A	10.26	8.23	GG	258	2514	39	474	PASS:Germline	258:190,68	39:31,8	no
+EPHA3	others	.					intronic	.	.	chr3	89448446	A	AT	1.22	0	indels	11	900	0	155	StrongSomatic	11:8,3	0:0,0	yes
+HERC2	others	.					intronic	.	.	chr15	28447460	CAT	C	5.80	6.73	indels	99	2294	28	416	alt_allele_in_normal;germline_risk	99:44,55	28:16,12	no
+BCR	others	.					intronic	.	.	chr22	23528910	AT	A	3.35	2.38	indels	48	1432	5	210	PASS:Germline	48:20,28	5:2,3	no
+AHNAK2	others	.	c.C13681A	p.L4561I	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105408107	G	T	2.18	0.63	GG	60	2752	3	479	PASS:Germline	60:30,30	3:2,1	no
+UGT1A3	others	.	c.T750C	p.S250S	exon1	NM_019093	exonic	synonymous SNV	.	chr2	234638522	T	C	4.20	7.55	TT	224	4081	68	901	alt_allele_in_normal;clustered_events	224:115,109	68:33,35	no
+UGT1A3	others	.	c.T750C	p.S250S	exon1	NM_019093	exonic	synonymous SNV	.	chr2	234638522	T	C	9.66	9.05	TT	416	4308	83	917	PASS:Germline	416:209,207	83:41,42	no
+FLT1	others	COSM1579063,COSM1579065,COSM1579064					intronic	.	.	chr13	28980036	TA	T	1.71	2.89	indels	27	1581	9	311	PASS:Germline	27:18,9	9:5,4	no
+KDM6A	others	.					intronic	.	.	chrX	44918221	AT	A	10.66	12.9	indels	21	197	12	93	PASS:Germline	21:15,6	12:7,5	no
+TCF3	others	.	c.G307A,c.G307A	p.G103S,p.G103S	exon5,exon6	NM_001136139,NM_003200	exonic	nonsynonymous SNV	.	chr19	1627417	C	T	53.86	48.39	CT	398	739	45	93	PASS:Germline	398:206,192	45:24,21	no
+TMPRSS2	others	.					intronic	.	.	chr21	42862134	TA	T	15.70	24.14	indels	73	465	14	58	PASS:Germline	73:63,10	14:12,2	no
+ATM	others	.					intronic	.	.	chr11	108206868	TA	T	23.48	13.51	indels	62	264	5	37	PASS:Germline	62:31,31	5:1,4	no
+BCR	others	.					intronic	.	.	chr22	23654635	A	G	1.83	0.6	AA	41	2235	2	333	PASS:Germline	41:21,20	2:1,1	no
+AHNAK2	others	.	c.C2319T	p.L773L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105419469	G	A	3.40	4.82	GG	93	3013	26	539	alt_allele_in_normal;clustered_events	93:37,56	26:9,17	no
+HSP90AB1	others	.					intronic	.	.	chr6	44216301	G	T	1.80	0	GG	8	480	0	67	PASS	8:3,5	0:0,0	yes
+TSC1	others	.					intronic	.	.	chr9	135773048	C	A	1.64	2.7	CC	8	487	2	74	PASS:Germline	8:7,1	2:2,0	no
+RANBP2	others	.	c.A1425G	p.A475A	exon10	NM_006267	exonic	synonymous SNV	.	chr2	109367871	A	G	5.22	8.56	AA	75	1438	25	292	PASS:Germline	75:31,44	25:12,13	no
+APC	others	.					intronic	.	.	chr5	112111309	TA	T	8.11	8.57	indels	15	185	3	35	PASS:Germline	15:6,9	3:1,2	no
+AHNAK2	others	.	c.C8645T	p.P2882L	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413143	G	A	21.19	21.6	GG	725	3422	116	537	PASS:Germline	725:308,417	116:50,66	no
+STK33	others	.					intronic	.	.	chr11	8486375	G	GA	8.59	6.87	indels	62	722	9	131	PASS:Germline	62:25,37	9:5,4	no
+ABI1	others	.					intronic	.	.	chr10	27054255	G	GA	2.77	5.26	indels	19	686	8	152	PASS:Germline	19:7,12	8:2,6	no
+ETV6	others	.					intronic	.	.	chr12	11936782	TTTTG	T	2.00	2.69	indels	27	1615	8	297	alt_allele_in_normal;str_contraction	27:13,14	8:4,4	no
+ETV6	others	.					intronic	.	.	chr12	11936782	TTTTG	T	1.90	2.87	indels	24	1369	7	244	alt_allele_in_normal;str_contraction	24:14,10	7:3,4	no
+FANCD2	others	.	c.G1401A,c.G1401A	p.T467T,p.T467T	exon16,exon16	NM_001018115,NM_033084	exonic	synonymous SNV	.	chr3	10089723	G	A	36.00	39.16	GA	1093	3036	224	572	PASS:Germline	1093:424,669	224:94,130	no
+KMT2C	others	COSM289942,COSM289943	c.2447dupA	p.Y816_I817delinsX	exon14	NM_170606	exonic	stopgain	.	chr7	151945071	G	GT	24.16	23.54	indels	1760	7285	623	2646	PASS:Germline	1760:901,859	623:335,288	no
+AXL	others	.					intronic	.	.	chr19	41759631	AC	A	16.10	16	indels	52	323	8	50	PASS:Germline	52:12,40	8:3,5	no
+NCOR1	others	.					intronic	.	.	chr17	16068506	T	C	46.36	38.42	TC	617	1331	141	367	PASS:Germline	617:179,438	141:43,98	no
+TCF7L2	others	.					intronic	.	.	chr10	114905732	T	C	13.20	3.97	TT	16	515	5	126	alt_allele_in_normal	16:10,6	5:3,2	no
+ETV6	others	.					intronic	.	.	chr12	11984123	TTG	T	2.60	1.14	indels	13	515	1	88	str_contraction	13:5,8	1:0,1	no
+ESR1	others	.					intronic	.	.	chr6	152163967	A	G	51.82	42.36	AG	427	824	158	373	PASS:Germline	427:162,265	158:61,97	no
+AHNAK2	others	.	c.C8605G	p.Q2869E	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413183	G	C	8.43	9.22	GG	257	3047	39	423	PASS:Germline	257:70,187	39:10,29	no
+BCR	others	.					intronic	.	.	chr22	23654032	T	C	6.20	2.53	TT	47	1328	5	198	alt_allele_in_normal	47:28,19	5:2,3	no
+HLA-A	others	.	c.C78T,c.C78T	p.S26S,p.S26S	exon2,exon2	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29910538	C	T	46.30	33.33	CT	119	257	12	36	PASS:Germline	119:69,50	12:8,4	no
+MLH1	others	.					intronic	.	.	chr3	37067094	TA	T	9.72	0	indels	14	144	0	23	PASS:Somatic	14:7,7	0:0,0	no
+AHNAK2	others	.	c.G9371A	p.R3124Q	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105412417	C	T	1.51	1.37	CC	67	4428	12	874	PASS:Germline	67:15,52	12:4,8	no
+STAT5B	others	.	c.G919A	p.G307S	exon8	NM_012448	exonic	nonsynonymous SNV	.	chr17	40370811	C	T	38.94	39.13	CT	505	1297	72	184	PASS:Germline	505:243,262	72:38,34	no
+HERC2	others	.					intronic	.	.	chr15	28424390	CA	C	2.65	3.9	indels	11	415	3	77	PASS:Germline	11:4,7	3:1,2	no
+BCR	others	.					intronic	.	.	chr22	23529687	T	TC	8.70	4.23	indels	34	391	3	71	PASS:Germline	34:10,24	3:1,2	no
+AHNAK2	others	.	c.T9493A	p.L3165M	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105412295	A	T	1.93	2.21	AA	86	4461	20	907	PASS:Germline	86:52,34	20:11,9	no
+TMPRSS2	others	.					intronic	.	.	chr21	42854020	G	GT	3.79	5.26	indels	17	449	3	57	PASS:Germline	17:15,2	3:3,0	no
+PARP4	others	.					intronic	.	.	chr13	25021415	T	C	4.20	5.13	TT	9	264	2	39	alt_allele_in_normal;germline_risk	9:1,8	2:1,1	no
+DNAH8	others	.					intronic	.	.	chr6	38754787	GTATA	G	18.60	4	indels	20	100	1	25	alt_allele_in_normal	20:4,16	1:0,1	no
+BCR	others	.					intronic	.	.	chr22	23544934	GTATATA	G	56.18	64.29	indels	50	89	9	14	PASS:Germline	50:21,29	9:4,5	no
+FGFR1	others	.	c.129_131del,c.129_131del,c.129_131del,c.396_398del,c.396_398del,c.396_398del,c.396_398del,c.372_374del,c.495_497del	p.D44delD(ref_AA:DD,start:43,end:44,mut_AA:D),p.D44delD(ref_AA:DD,start:43,end:44,mut_AA:D),p.D44delD(ref_AA:DD,start:43,end:44,mut_AA:D),p.D133delD(ref_AA:DD,start:132,end:133,mut_AA:D),p.D133delD(ref_AA:DD,start:132,end:133,mut_AA:D),p.D133delD(ref_AA:DD,start:132,end:133,mut_AA:D),p.D133delD(ref_AA:DD,start:132,end:133,mut_AA:D),p.D125delD(ref_AA:DD,start:124,end:125,mut_AA:D),p.D166delD(ref_AA:DD,start:165,end:166,mut_AA:D)	exon3,exon3,exon3,exon4,exon4,exon4,exon4,exon5,exon5	NM_001174066,NM_023105,NM_023106,NM_001174063,NM_001174065,NM_015850,NM_023110,NM_001174064,NM_001174067	exonic	nonframeshift deletion	.	chr8	38285913	GTCA	G	1.80	1.45	indels	32	2022	5	346	alt_allele_in_normal;str_contraction	32:9,23	5:3,2	no
+FGFR1	others	.	c.129_131del,c.129_131del,c.129_131del,c.396_398del,c.396_398del,c.396_398del,c.396_398del,c.372_374del,c.495_497del	p.D44delD(ref_AA:DD,start:43,end:44,mut_AA:D),p.D44delD(ref_AA:DD,start:43,end:44,mut_AA:D),p.D44delD(ref_AA:DD,start:43,end:44,mut_AA:D),p.D133delD(ref_AA:DD,start:132,end:133,mut_AA:D),p.D133delD(ref_AA:DD,start:132,end:133,mut_AA:D),p.D133delD(ref_AA:DD,start:132,end:133,mut_AA:D),p.D133delD(ref_AA:DD,start:132,end:133,mut_AA:D),p.D125delD(ref_AA:DD,start:124,end:125,mut_AA:D),p.D166delD(ref_AA:DD,start:165,end:166,mut_AA:D)	exon3,exon3,exon3,exon4,exon4,exon4,exon4,exon5,exon5	NM_001174066,NM_023105,NM_023106,NM_001174063,NM_001174065,NM_015850,NM_023110,NM_001174064,NM_001174067	exonic	nonframeshift deletion	.	chr8	38285913	GTCA	G	1.20	1.28	indels	28	2330	5	392	PASS:Germline	28:15,13	5:3,2	no
+CYP19A1	others	.					intronic	.	.	chr15	51510859	G	GA	2.08	0	indels	8	385	0	119	PASS:Somatic	8:3,5	0:0,0	no
+MEF2B,MEF2BNB-MEF2B	others	.	c.C379A,c.C379A	p.R127R,p.R127R	exon4,exon6	NM_001145785,NM_005919	exonic	synonymous SNV	.	chr19	19258521	G	T	1.10	0	GG	9	818	0	105	PASS:Somatic	9:5,4	0:0,0	no
+FANCD2	others	.					intronic	.	.	chr3	10106352	T	A	1.10	0.71	TT	11	1436	2	282	alt_allele_in_normal;clustered_events	11:2,9	2:2,0	no
+FANCD2	others	.					intronic	.	.	chr3	10106352	T	A	2.25	1.07	TT	23	1024	2	186	LikelySomatic	23:16,7	2:1,1	no
+FANCD2	others	.					intronic	.	.	chr3	10088422	C	T	27.72	30.24	CT	589	2125	137	453	PASS:Germline	589:202,387	137:49,88	no
+NRG1	others	.					intronic	.	.	chr8	32505909	TAG	T	7.30	6.28	indels	106	1456	12	191	alt_allele_in_normal;str_contraction	106:39,67	12:4,8	no
+NRG1	others	.					intronic	.	.	chr8	32505909	TAG	T	4.71	4.38	indels	87	1849	11	251	PASS:Germline	87:25,62	11:3,8	no
+FH	others	.					intronic	.	.	chr1	241663902	T	TGAGA	76.50	38.1	indels	30	46	8	21	alt_allele_in_normal;germline_risk;t_lod_fstar	30:17,4	8:5,1	no
+ABL2	others	.					intronic	.	.	chr1	179086419	T	TA	3.85	0.74	indels	33	858	1	134	LikelySomatic	33:23,10	1:0,1	no
+TFG	others	.					intronic	.	.	chr3	100438797	CT	C	4.09	14.29	indels	7	171	4	28	PASS:Germline	7:4,3	4:2,2	no
+TFG	others	.					intronic	.	.	chr3	100438797	CT	C	5.04	8.33	indels	7	139	2	23	Germline	7:3,4	2:0,2	no
+RB1	others	.	c.G296A	p.W99X	exon3	NM_000321	exonic	stopgain	.	chr13	48916766	G	A	16.10	0	GG	116	739	0	276	PASS	116:48,68	0:0,0	yes
+RB1	others	.	c.G296A	p.W99X	exon3	NM_000321	exonic	stopgain	.	chr13	48916766	G	A	15.21	0.36	GG	113	743	1	276	PASS:Somatic	113:65,48	1:1,0	no
+AHNAK2	others	.	c.G11509A	p.V3837M	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105410279	C	T	3.60	5.65	CC	168	3571	35	620	alt_allele_in_normal;clustered_events	168:94,74	35:21,14	no
+AHNAK2	others	.	c.G11509A	p.V3837M	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105410279	C	T	6.46	6.22	CC	242	3745	41	659	PASS:Germline	242:122,120	41:20,21	no
+TP53	others	COSM1640833,COSM121036,COSM6932,COSM121035,COSM121037,COSM3356965	c.G337A,c.G337A,c.G337A,c.G256A,c.G256A,c.G256A,c.G616A,c.G733A,c.G733A,c.G733A,c.G733A,c.G616A,c.G616A,c.G616A,c.G616A	p.G113S,p.G113S,p.G113S,p.G86S,p.G86S,p.G86S,p.G206S,p.G245S,p.G245S,p.G245S,p.G245S,p.G206S,p.G206S,p.G206S,p.G206S	exon3,exon3,exon3,exon3,exon3,exon3,exon6,exon7,exon7,exon7,exon7,exon7,exon7,exon7,exon7	NM_001126115,NM_001126116,NM_001126117,NM_001276697,NM_001276698,NM_001276699,NM_001126118,NM_000546,NM_001126112,NM_001126113,NM_001126114,NM_001276695,NM_001276696,NM_001276760,NM_001276761	exonic	nonsynonymous SNV	.	chr17	7577548	C	T	20.30	0.34	CC	332	1664	1	294	multi_event_alt_allele_in_normal	332:132,200	1:0,1	no
+TP53	others	COSM1640833,COSM121036,COSM6932,COSM121035,COSM121037,COSM3356965	c.G337A,c.G337A,c.G337A,c.G256A,c.G256A,c.G256A,c.G616A,c.G733A,c.G733A,c.G733A,c.G733A,c.G616A,c.G616A,c.G616A,c.G616A	p.G113S,p.G113S,p.G113S,p.G86S,p.G86S,p.G86S,p.G206S,p.G245S,p.G245S,p.G245S,p.G245S,p.G206S,p.G206S,p.G206S,p.G206S	exon3,exon3,exon3,exon3,exon3,exon3,exon6,exon7,exon7,exon7,exon7,exon7,exon7,exon7,exon7	NM_001126115,NM_001126116,NM_001126117,NM_001276697,NM_001276698,NM_001276699,NM_001126118,NM_000546,NM_001126112,NM_001126113,NM_001126114,NM_001276695,NM_001276696,NM_001276760,NM_001276761	exonic	nonsynonymous SNV	.	chr17	7577548	C	T	19.49	0.34	CC	321	1647	1	295	PASS:Somatic	321:147,174	1:1,0	no
+SDHA	others	COSM111560	c.1800_1801del,c.1944_1945del	p.L601fs(ref_AA:TL,start:600,end:601,mut_AA:T),p.L649fs(ref_AA:TL,start:648,end:649,mut_AA:T)	exon14,exon15	NM_001294332,NM_004168	exonic	frameshift deletion	.	chr5	256483	CTT	C	17.35	17.18	indels	752	4335	129	751	PASS:Germline	752:389,363	129:66,63	no
+OBSCN	others	.					intronic	.	.	chr1	228526742	CCA	C	36.81	32.14	indels	67	182	9	28	PASS:Germline	67:21,46	9:4,5	no
+ETV1	others	.					intronic	.	.	chr7	13995946	AT	A	5.66	6.53	indels	111	1960	26	398	PASS:Germline	111:60,51	26:13,13	no
+BRCA1	others	.					intronic	.	.	chr17	41242938	GCA	G	1.60	2.37	indels	45	3204	13	548	alt_allele_in_normal;str_contraction	45:23,22	13:5,6	no
+BRCA1	others	.					intronic	.	.	chr17	41242938	GCA	G	1.27	1.78	indels	42	3300	10	563	PASS:Germline	42:22,20	10:5,5	no
+AHNAK2	others	.	c.G3400C	p.E1134Q	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105418388	C	G	3.70	4.05	CC	115	4273	32	790	alt_allele_in_normal;clustered_events	115:49,66	32:15,17	no
+AHNAK2	others	.	c.G3400C	p.E1134Q	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105418388	C	G	4.36	4.36	CC	177	4061	32	734	PASS:Germline	177:30,147	32:4,28	no
+NOTCH2	others	.	c.A273G,c.A273G	p.R91R,p.R91R	exon3,exon3	NM_001200001,NM_024408	exonic	synonymous SNV	.	chr1	120548094	T	C	6.46	6.97	TT	367	5680	64	918	PASS:Germline	367:251,116	64:47,17	no
+AHNAK2	others	.	c.T4023G	p.S1341S	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105417765	A	C	99.11	98.25	CC	2568	2591	450	458	PASS:Germline	2568:1261,1307	450:226,224	no
+AHNAK2	others	.	c.T5421G	p.G1807G	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105416367	A	C	2.70	3.64	AA	113	4182	29	796	PASS:Germline	113:47,66	29:11,18	no
+AHNAK2	others	.	c.A8746G	p.I2916V	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105413042	T	C	11.78	13.39	TT	433	3676	83	620	PASS:Germline	433:290,143	83:51,32	no
+HERC2	others	.	c.7231_7245del	p.C2411_A2415delCQCLA(ref_AA:CQCLA,start:2411,end:2415,mut_AA:)	exon46	NM_004667	exonic	nonframeshift deletion	.	chr15	28447727	CAGCCAAGCACTGGCA	C	6.50	3.51	indels	7	108	2	57	alt_allele_in_normal;clustered_events	7:2,5	2:2,0	no
+NCOA3	others	.					intronic	.	.	chr20	46256785	GTC	G	4.00	3.45	indels	22	654	4	116	alt_allele_in_normal;str_contraction	22:12,10	4:0,4	no
+NCOA3	others	.					intronic	.	.	chr20	46256785	GTC	G	2.60	2.74	indels	21	808	4	146	PASS:Germline	21:5,16	4:2,2	no
+RUNX1	others	.					intronic	.	.	chr21	36265323	CT	C	5.42	6.06	indels	11	203	4	66	PASS:Germline	11:4,7	4:1,3	no
+GNAQ	others	COSM404628	c.A286T	p.T96S	exon2	NM_002072	exonic	nonsynonymous SNV	.	chr9	80537112	T	A	4.52	2	TT	61	1351	8	401	PASS:Germline	61:32,29	8:4,4	no
+PARP4	others	COSM3931803	c.A2024G	p.N675S	exon16	NM_006437	exonic	nonsynonymous SNV	.	chr13	25044054	T	C	2.01	1.47	TT	50	2491	7	475	PASS:Germline	50:26,24	7:3,4	no
+KMT2C	others	.					intronic	.	.	chr7	151932823	G	A	4.68	8.24	GG	87	1857	28	340	PASS:Germline	87:51,36	28:15,13	no
+CHEK2	others	.					intronic	.	.	chr22	29091300	T	C	2.53	3.31	TT	31	1225	6	181	PASS:Germline	31:15,16	6:3,3	no
+CDC73	others	.					intronic	.	.	chr1	193111228	TGAGA	T	1.30	0.36	indels	11	952	1	274	PASS	11:5,5	1:1,0	no
+SOX10	others	.	c.A730C	p.T244P	exon4	NM_006941	exonic	nonsynonymous SNV	.	chr22	38370173	T	G	1.02	0	TT	7	689	0	70	PASS:Somatic	7:1,6	0:0,0	no
+FCGR2A	others	.					intronic	.	.	chr1	161483579	C	T	7.90	11.54	CC	43	651	12	104	alt_allele_in_normal;clustered_events	43:22,21	12:8,4	no
+ETV6	others	.					intronic	.	.	chr12	11931629	TA	T	1.59	1.13	indels	25	1573	3	266	PASS:Germline	25:10,15	3:3,0	no
+SOS1	others	.					intronic	.	.	chr2	39262472	AT	A	1.21	0.57	indels	9	744	1	175	LikelySomatic	9:4,5	1:1,0	no
+FANCD2	others	.					intronic	.	.	chr3	10085406	G	T	3.70	6.25	GG	21	587	7	112	alt_allele_in_normal	21:9,12	7:3,4	no
+EPHA3	others	.					intronic	.	.	chr3	89521596	G	T	44.33	41.85	GT	637	1437	154	368	PASS:Germline	637:416,221	154:97,57	no
+ETS2	others	.					intronic	.	.	chr21	40182049	AT	A	3.20	1.5	indels	56	1748	5	333	PASS:Germline	56:19,37	5:3,2	no
+SUZ12	others	.					intronic	.	.	chr17	30293149	CT	C	12.88	19.05	indels	21	163	4	21	PASS:Germline	21:14,7	4:4,0	no
+KMT2C	others	.					intronic	.	.	chr7	151932824	A	T	22.81	17.06	AA	426	1868	58	340	PASS:Germline	426:320,106	58:44,14	no
+KMT2C	others	.					intronic	.	.	chr7	151884279	TA	T	10.64	7.32	indels	45	423	9	123	PASS:Germline	45:34,11	9:9,0	no
+PMS2	others	.					intronic	.	.	chr7	6022352	G	A	1.20	1.93	GG	12	1205	4	207	alt_allele_in_normal;clustered_events	12:7,5	4:2,2	no
+EWSR1	others	.					intronic	.	.	chr22	29675108	AAG	A	2.00	1.94	indels	48	2328	8	412	alt_allele_in_normal;clustered_events;str_contraction	48:28,20	8:4,4	no
+EWSR1	others	.					intronic	.	.	chr22	29675108	AAG	A	1.56	1.85	indels	39	2499	8	432	PASS:Germline	39:23,16	8:3,5	no
+WRN	others	.					intronic	.	.	chr8	30933816	CT	C	11.21	7.14	indels	126	1124	14	196	PASS:Germline	126:38,88	14:4,10	no
+EP300	others	.					intronic	.	.	chr22	41550984	C	CT	3.82	5.86	indels	79	2069	15	256	PASS:Germline	79:53,26	15:10,5	no
+HLA-A	others	.					intronic	.	.	chr6	29912463	A	G	30.77	33.33	AG	20	65	3	9	PASS:Germline	20:2,18	3:1,2	no
+MSH2	others	.					intronic	.	.	chr2	47635523	CT	C	8.84	4.81	indels	52	588	5	104	PASS:Germline	52:35,17	5:3,2	no
+KMT2C	others	COSM150426	c.G2963T	p.C988F	exon18	NM_170606	exonic	nonsynonymous SNV	.	chr7	151927021	C	A	32.57	38.77	CA	1538	4722	618	1594	PASS:Germline	1538:922,616	618:367,251	no
+FANCI	others	.					intronic	.	.	chr15	89816724	G	T	4.10	10	GG	32	552	8	80	alt_allele_in_normal;t_lod_fstar	32:8,24	8:5,3	no
+CACNA1D	others	.					intronic	.	.	chr3	53531142	TA	T	3.07	1.4	indels	53	1726	4	286	PASS:Germline	53:34,19	4:3,1	no
+BRAF	others	.					intronic	.	.	chr7	140495581	T	TA	1.21	0	indels	8	661	0	140	PASS:Somatic	8:4,4	0:0,0	no
+ARID2	others	.	c.A1759G	p.S587G	exon14	NM_152641	exonic	nonsynonymous SNV	.	chr12	46243406	A	G	55.50	46.01	AG	964	1737	294	639	PASS:Germline	964:529,435	294:153,141	no
+CD3EAP	others	.					UTR3	.	NM_001297590:c.*396_*397insA,NM_012099:c.*396_*397insA	chr19	45913155	T	TA	28.00	0	indels	7	25	0	6	germline_risk	7:4,3	0:0,0	yes
+DNMT1	others	.					intronic	.	.	chr19	10291322	TTCA	T	2.00	2.74	indels	11	503	2	73	alt_allele_in_normal;str_contraction	11:4,7	2:0,2	no
+HLA-A	others	.	c.C642T,c.C642T	p.T214T,p.T214T	exon4,exon4	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29911921	C	T	6.00	6.77	CC	203	3711	44	650	alt_allele_in_normal;clustered_events	203:102,101	44:14,30	no
+HLA-A	others	.	c.C642T,c.C642T	p.T214T,p.T214T	exon4,exon4	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29911921	C	T	6.33	6.64	CC	262	4136	44	663	PASS:Germline	262:153,109	44:26,18	no
+FANCD2	others	.					intronic	.	.	chr3	10089775	A	G	27.55	28.06	AG	465	1688	101	360	PASS:Germline	465:106,359	101:29,72	no
+FBXO11	others	.					intronic	.	.	chr2	48046012	TA	T	21.36	26.79	indels	144	674	30	112	PASS:Germline	144:90,54	30:16,14	no
+FOXO3	others	.	c.A527G,c.A527G	p.K176R,p.K176R	exon1,exon2	NM_001455,NM_201559	exonic	nonsynonymous SNV	.	chr6	108882938	A	G	2.24	2.2	AA	24	1070	4	182	PASS:Germline	24:10,14	4:2,2	no
+EZR	others	COSM1721214					intronic	.	.	chr6	159208241	TGA	T	1.70	1.86	indels	49	3065	10	539	alt_allele_in_normal;clustered_events;str_contraction	49:23,26	10:5,5	no
+EZR	others	COSM1721214					intronic	.	.	chr6	159208241	TGA	T	1.31	1.54	indels	46	3500	9	586	PASS:Germline	46:22,24	9:5,4	no
+AHNAK2	others	.	c.C3024T	p.F1008F	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418764	G	A	1.43	0.26	GG	59	4134	2	777	PASS:Germline	59:20,39	2:1,1	no
+FANCD2	others	.					intronic	.	.	chr3	10106408	C	T	7.80	7.86	CC	165	2115	32	407	PASS:Germline	165:135,30	32:28,4	no
+FANCD2	others	.					intronic	.	.	chr3	10106408	C	T	9.54	10.04	CC	140	1468	28	278	Germline	140:105,35	28:24,4	no
+HLA-A	others	.	c.G240T,c.G240T	p.G80G,p.G80G	exon2,exon2	NM_001242758,NM_002116	exonic	synonymous SNV	.	chr6	29910700	G	T	47.21	45.1	GT	144	305	23	51	PASS:Germline	144:64,80	23:13,10	no
+CHEK2	others	.					intronic	.	.	chr22	29120925	G	GA	1.62	2.06	indels	27	1664	5	243	PASS:Germline	27:18,9	5:3,2	no
+SDHC	others	.					intronic	.	.	chr1	161309415	C	T	1.12	0	CC	6	534	0	55	PASS:Somatic	6:2,4	0:0,0	no
+NFAT5,NQO1	others	.					intergenic	.	dist=2529;dist=2206	chr16	69741098	T	G	1.10	0	TT	6	543	0	72	PASS:Somatic	6:1,5	0:0,0	no
+AHNAK2	others	.	c.G11496A	p.K3832K	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105410292	C	T	1.30	1.52	CC	31	3789	10	660	alt_allele_in_normal;clustered_events	31:15,16	10:6,4	no
+KMT2C	others	COSM4162010	c.G2573T	p.W858L	exon15	NM_170606	exonic	nonsynonymous SNV	.	chr7	151935871	C	A	15.86	18.7	CC	443	2793	127	679	PASS:Germline	443:207,236	127:59,68	no
+HERC2	others	.	c.G839T	p.S280I	exon8	NM_004667	exonic	nonsynonymous SNV	.	chr15	28518112	C	A	1.80	2.33	CC	25	1534	6	257	alt_allele_in_normal;clustered_events	25:13,12	6:1,5	no
+HERC2	others	.	c.G839T	p.S280I	exon8	NM_004667	exonic	nonsynonymous SNV	.	chr15	28518112	C	A	6.08	5.68	CC	98	1612	15	264	PASS:Germline	98:54,44	15:7,8	no
+HERC2	others	.					intronic	.	.	chr15	28518244	A	C	4.10	4.49	AA	22	519	4	89	alt_allele_in_normal;clustered_events	22:7,15	4:1,3	no
+ETV6	others	.					intronic	.	.	chr12	11906780	G	A	59.08	46.82	GA	2039	3451	353	754	PASS:Germline	2039:1067,972	353:194,159	no
+AHNAK2	others	.	c.A11328G	p.P3776P	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105410460	T	C	24.43	25.57	TT	1204	4929	257	1005	PASS:Germline	1204:443,761	257:93,164	no
+AFF3	others	.	c.1858_1863del,c.1783_1788del	p.S620_A621delSA(ref_AA:SA,start:620,end:621,mut_AA:),p.S595_A596delSA(ref_AA:SA,start:595,end:596,mut_AA:)	exon14,exon14	NM_001025108,NM_002285	exonic	nonframeshift deletion	.	chr2	100210334	CGGCTGA	C	33.33	38.1	indels	50	150	8	21	PASS:Germline	50:24,26	8:3,5	no
+SLC34A2	others	.					intronic	.	.	chr4	25674905	TCACA	T	41.41	47.83	indels	53	128	11	23	PASS:Germline	53:18,35	11:3,8	no
+FANCD2	others	.					intronic	.	.	chr3	10089749	T	C	33.10	33.9	TC	795	2402	159	469	PASS:Germline	795:251,544	159:55,104	no
+AHNAK2	others	.	c.C6406G	p.Q2136E	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105415382	G	C	6.94	7.18	GG	285	4109	51	710	PASS:Germline	285:207,78	51:40,11	no
+HLA-A	others	.					intronic	.	.	chr6	29911806	T	C	24.76	21.81	TT	354	1430	53	243	PASS:Germline	354:293,61	53:42,11	no
+NTRK1	others	.					intronic	.	.	chr1	156845492	A	AGTGTGT	16.89	19.57	indels	76	450	9	46	PASS:Germline	76:30,46	9:5,4	no
+HERC2	others	.					intronic	.	.	chr15	28518279	T	C	4.70	2.86	TT	11	230	1	35	alt_allele_in_normal;clustered_events;germline_risk	11:4,7	1:0,1	no
+UGT1A3	others	.	c.A850G	p.R284G	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234638622	A	G	2.40	4.78	AA	50	2873	34	712	alt_allele_in_normal	50:30,20	34:19,15	no
+UGT1A3	others	.	c.A850G	p.R284G	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234638622	A	G	5.12	4.63	AA	153	2988	33	713	PASS:Germline	153:45,108	33:12,21	no
+SDHA	others	.					intronic	.	.	chr5	256378	TC	T	1.53	2.43	indels	18	1176	6	247	PASS:Germline	18:11,7	6:3,3	no
+CIC	others	.	c.C1953T,c.C4680T	p.P651P,p.P1560P	exon10,exon11	NM_015125,NM_001304815	exonic	synonymous SNV	.	chr19	42794873	C	T	44.25	52.13	CT	296	669	49	94	PASS:Germline	296:142,154	49:22,27	no
+FCGR2A	others	.					UTR3	.	NM_001136219:c.*26T>C,NM_021642:c.*26T>C	chr1	161487964	T	C	36.70	25.5	TC	352	959	38	149	PASS:Germline	352:72,280	38:6,32	no
+FCGR2A	others	.					UTR3	.	NM_001136219:c.*26T>C,NM_021642:c.*26T>C	chr1	161487964	T	C	43.16	29.17	TC	344	797	35	119	Germline	344:54,290	35:2,33	no
+SPEN	others	.					intronic	.	.	chr1	16248740	A	T	1.10	0.53	AA	14	1197	1	187	PASS	14:5,9	1:0,1	no
+SPEN	others	.					intronic	.	.	chr1	16248740	A	T	1.07	0.76	AA	9	839	1	131	LikelySomatic	9:3,6	1:1,0	no
+NFKB2	others	.					intronic	.	.	chr10	104160647	G	A	1.16	0	GG	6	517	0	113	PASS:Somatic	6:3,3	0:0,0	no
+NCOR1	others	.					UTR5	.	NM_006311:c.-70G>A,NM_001190440:c.-70G>A,NM_001190438:c.-70G>A	chr17	16097953	C	T	2.50	5.08	CC	36	1226	13	256	alt_allele_in_normal;clustered_events	36:23,13	13:8,5	no
+NCOR1	others	.					UTR5	.	NM_006311:c.-70G>A,NM_001190440:c.-70G>A,NM_001190438:c.-70G>A	chr17	16097953	C	T	4.21	5	CC	53	1260	13	260	PASS:Germline	53:21,32	13:6,7	no
+VTI1A	others	.					intronic	.	.	chr10	114297930	AT	A	6.61	10.17	indels	15	227	12	118	PASS:Germline	15:11,4	12:10,2	no
+AHNAK2	others	.	c.G2586A	p.K862K	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105419202	C	T	1.50	2.33	CC	55	3676	17	729	PASS:Germline	55:28,27	17:9,8	no
+MTRR	others	.					intronic	.	.	chr5	7896957	CT	C	2.62	5.67	indels	25	953	14	247	PASS:Germline	25:18,7	14:10,4	no
+MTRR	others	.					intronic	.	.	chr5	7896957	CT	C	3.06	5.91	indels	22	719	12	202	Germline	22:14,8	12:7,5	no
+GNAQ	others	COSM3670056	c.C105T	p.D35D	exon1	NM_002072	exonic	synonymous SNV	.	chr9	80646047	G	A	3.40	10.14	GG	10	362	7	69	alt_allele_in_normal;clustered_events	10:4,6	7:6,1	no
+GNAQ	others	COSM3670056	c.C105T	p.D35D	exon1	NM_002072	exonic	synonymous SNV	.	chr9	80646047	G	A	8.59	9.59	GG	33	384	7	73	PASS:Germline	33:22,11	7:5,2	no
+AHNAK2	others	.	c.C11276T	p.A3759V	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105410512	G	A	6.54	5.46	GG	252	3856	39	714	PASS:Germline	252:31,221	39:3,36	no
+AHNAK2	others	.	c.G3366C	p.V1122V	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418422	C	G	3.10	3.49	CC	80	4067	26	746	alt_allele_in_normal;clustered_events	80:33,47	26:11,15	no
+AHNAK2	others	.	c.G3366C	p.V1122V	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105418422	C	G	2.95	3.82	CC	110	3730	26	681	PASS:Germline	110:17,93	26:3,23	no
+PER1,VAMP2	others	.					intergenic	.	dist=3774;dist=2937	chr17	8059526	CCA	C	1.20	0	indels	6	475	0	105	str_contraction;t_lod_fstar	6:2,4	0:0,0	yes
+FLT4	others	.	c.G4061A	p.R1354H	exon30	NM_182925	exonic	nonsynonymous SNV	.	chr5	180030223	C	T	43.23	42.31	CT	345	798	66	156	PASS:Germline	345:201,144	66:32,34	no
+POLE	others	.					intronic	.	.	chr12	133201440	GAGGAGGCCA	G	46.71	43.75	indels	718	1537	133	304	PASS:Germline	718:370,348	133:70,63	no
+FANCD2	others	.					intronic	.	.	chr3	10088443	C	A	27.12	28.66	CA	450	1659	96	335	PASS:Germline	450:126,324	96:29,67	no
+KMT2C	others	.	c.T2538C	p.A846A	exon15	NM_170606	exonic	synonymous SNV	.	chr7	151935906	A	G	13.65	14.19	AA	311	2278	81	571	PASS:Germline	311:113,198	81:29,52	no
+NOTCH2	others	.					UTR5	.	NM_024408:c.-14A>C,NM_001200001:c.-14A>C	chr1	120612034	T	G	3.90	0	TT	6	148	0	28	clustered_events;t_lod_fstar	6:3,3	0:0,0	yes
+NOTCH2	others	.					UTR5	.	NM_024408:c.-14A>C,NM_001200001:c.-14A>C	chr1	120612034	T	G	16.81	0	TT	20	119	0	15	PASS:Somatic	20:12,8	0:0,0	no
+NOTCH2	others	.					UTR5	.	NM_024408:c.-14A>C,NM_001200001:c.-14A>C	chr1	120612034	T	G	17.21	0	TT	21	122	0	19	StrongSomatic	21:12,9	0:0,0	yes
+ETV6	others	.					intronic	.	.	chr12	11905742	TA	T	2.38	1.35	indels	33	1384	3	222	PASS:Germline	33:13,20	3:0,3	no
+JAK1	others	.					intronic	.	.	chr1	65311116	GC	CT	49.24	45.9	GCCT	548	1113	84	182	Germline	548:303,245	84:52,32	no
+KMT2C	others	.					intronic	.	.	chr7	151926977	A	G	30.82	27.16	AG	876	2842	233	858	PASS:Germline	876:655,221	233:175,58	no
+ITK	others	.					intronic	.	.	chr5	156670613	ACT	A	1.70	1.8	indels	41	2491	7	389	alt_allele_in_normal;str_contraction	41:15,26	7:4,3	no
+ITK	others	.					intronic	.	.	chr5	156670613	ACT	A	1.50	1.83	indels	38	2538	7	382	PASS:Germline	38:23,15	7:3,4	no
+KMT2C	others	.					intronic	.	.	chr7	151970959	G	A	3.21	2.28	GG	118	3675	21	922	PASS:Germline	118:42,76	21:6,15	no
+PDGFRA	others	.					intronic	.	.	chr4	55130161	AT	A	16.50	18.18	indels	98	594	34	187	PASS:Germline	98:24,74	34:8,26	no
+HERC2	others	.	c.A32G	p.Q11R	exon2	NM_004667	exonic	nonsynonymous SNV	.	chr15	28566548	T	C	1.40	2.15	TT	6	659	4	186	alt_allele_in_normal;clustered_events	6:3,3	4:2,2	no
+HERC2	others	.	c.A32G	p.Q11R	exon2	NM_004667	exonic	nonsynonymous SNV	.	chr15	28566548	T	C	1.83	2.13	TT	25	1364	4	188	PASS:Germline	25:7,18	4:1,3	no
+TPMT	others	COSM1621243					intronic	.	.	chr6	18148155	GA	G	6.22	6.15	indels	25	402	4	65	PASS:Germline	25:11,14	4:2,2	no
+TPMT	others	COSM1621243					intronic	.	.	chr6	18148155	GA	G	6.34	7.69	indels	18	284	4	51	Germline	18:4,14	4:2,2	no
+NF2	others	.					intronic	.	.	chr22	30051705	CT	C	22.64	15.47	indels	290	1281	28	181	PASS:Germline	290:65,225	28:6,22	no
+ROS1	others	.					intronic	.	.	chr6	117644130	T	C	56.37	51.94	TC	230	408	268	516	PASS:Germline	230:114,116	268:134,134	no
+MSH6	others	.					intronic	.	.	chr2	48032740	AT	A	9.58	8.33	indels	46	480	5	60	PASS:Germline	46:32,14	5:4,1	no
+PARP4	others	.					intronic	.	.	chr13	25043999	C	A	1.93	2.34	CC	39	2018	9	385	PASS:Germline	39:20,19	9:5,4	no
+AHNAK2	others	.	c.T8730C	p.D2910D	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105413058	A	G	15.71	16.16	AA	597	3799	102	631	PASS:Germline	597:356,241	102:59,43	no
+MAP3K1	others	.					intronic	.	.	chr5	56179350	G	T	46.85	50	GT	1010	2156	208	416	PASS:Germline	1010:685,325	208:144,64	no
+NOTCH2	others	.					UTR5	.	NM_024408:c.-148G>A,NM_001200001:c.-148G>A	chr1	120612168	C	T	37.17	45.24	CT	139	374	19	42	PASS:Germline	139:70,69	19:9,10	no
+NOTCH2	others	.					UTR5	.	NM_024408:c.-148G>A,NM_001200001:c.-148G>A	chr1	120612168	C	T	36.80	40	CT	85	231	12	29	Germline	85:15,70	12:2,10	no
+KMT2C	others	.					intronic	.	.	chr7	151962068	T	C	23.24	23.43	TT	372	1601	119	508	PASS:Germline	372:324,48	119:105,14	no
+COLQ	others	.					UTR5	.	NM_005677:c.-105_-106delCA,NM_080539:c.-105_-106delCA	chr3	15563236	TTG	T	4.50	0	indels	12	298	0	35	clustered_events;str_contraction	12:5,7	0:0,0	yes
+STAT4	others	COSM1735791					intronic	.	.	chr2	191941054	G	GA	3.16	2.44	indels	21	665	3	123	PASS:Germline	21:6,15	3:1,2	no
+ROS1	others	.					intronic	.	.	chr6	117657400	A	G	39.66	49.21	AG	23	58	31	63	PASS:Germline	23:11,12	31:13,18	no
+SDHA	others	.					intronic	.	.	chr5	224656	C	T	1.10	2.39	CC	20	1278	6	251	alt_allele_in_normal	20:6,14	6:4,2	no
+SDHA	others	.					intronic	.	.	chr5	224656	C	T	1.92	2.32	CC	25	1301	6	259	PASS:Germline	25:13,12	6:3,3	no
+KMT2C	others	.					intronic	.	.	chr7	151932848	T	G	1.30	2.36	TT	32	1803	10	424	alt_allele_in_normal;clustered_events	32:15,17	10:4,6	no
+KMT2C	others	.					intronic	.	.	chr7	151932848	T	G	8.24	6.58	TT	201	2439	30	456	PASS:Germline	201:153,48	30:22,8	no
+KMT2C	others	.					intronic	.	.	chr7	151919784	TG	T	2.06	2.69	indels	16	777	6	223	PASS:Germline	16:8,8	6:3,3	no
+HERC2	others	.					intronic	.	.	chr15	28518021	C	G	2.10	3.11	CC	25	1291	6	193	alt_allele_in_normal;clustered_events	25:13,12	6:4,2	no
+ATIC	others	.					intronic	.	.	chr2	216212412	C	CT	1.89	1.53	indels	22	1161	4	262	PASS:Germline	22:7,15	4:1,3	no
+MET	others	.					intronic	.	.	chr7	116409675	CT	C	12.78	14.55	indels	23	180	16	110	PASS:Germline	23:17,6	16:10,6	no
+KMT2C	others	COSM249560,COSM249561	c.G5053T	p.A1685S	exon34	NM_170606	exonic	nonsynonymous SNV	.	chr7	151882672	C	A	8.84	12.07	CC	108	1222	35	290	PASS:Germline	108:55,53	35:17,18	no
+SDHA	others	.	c.A1570G,c.A1714G	p.M524V,p.M572V	exon12,exon13	NM_001294332,NM_004168	exonic	nonsynonymous SNV	.	chr5	251503	A	G	3.91	0	AA	21	537	0	75	PASS:Somatic	21:8,13	0:0,0	no
+PARP4	others	COSM1365994	c.C2088T	p.A696A	exon17	NM_006437	exonic	synonymous SNV	.	chr13	25043207	G	A	2.23	1.41	GG	69	3092	8	567	PASS:Germline	69:34,35	8:4,4	no
+ETV6	others	.					intronic	.	.	chr12	11921061	CT	C	5.11	4.03	indels	63	1234	12	298	PASS:Germline	63:31,32	12:5,7	no
+NOTCH2	others	COSM132830	c.17_18del,c.17_18del	p.P6fs(ref_AA:P,start:6,end:6,mut_AA:R),p.P6fs(ref_AA:P,start:6,end:6,mut_AA:R)	exon1,exon1	NM_001200001,NM_024408	exonic	frameshift deletion	.	chr1	120612002	CGG	C	15.43	0	indels	25	162	0	25	PASS:Somatic	25:16,9	0:0,0	no
+NOTCH2	others	COSM132830	c.17_18del,c.17_18del	p.P6fs(ref_AA:P,start:6,end:6,mut_AA:R),p.P6fs(ref_AA:P,start:6,end:6,mut_AA:R)	exon1,exon1	NM_001200001,NM_024408	exonic	frameshift deletion	.	chr1	120612002	CGG	C	16.67	0	indels	20	120	0	19	StrongSomatic	20:11,9	0:0,0	yes
+HLA-A	others	.					intronic	.	.	chr6	29913191	TG	CA	45.57	43.91	TGCA	1441	3162	256	582	Germline	1441:346,1095	256:64,192	no
+EPHA5	others	.					intronic	.	.	chr4	66286113	GA	G	1.82	4.04	indels	6	330	4	99	PASS:Germline	6:5,1	4:2,2	no
+FGFR4	others	.					intronic	.	.	chr5	176516968	CGT	C	4.60	5.95	indels	32	748	5	84	alt_allele_in_normal;str_contraction	32:14,18	5:0,5	no
+FGFR4	others	.					intronic	.	.	chr5	176516968	CGT	C	3.71	3.85	indels	33	889	4	104	PASS:Germline	33:10,23	4:1,3	no
+RANBP2	others	.	c.G4579T	p.E1527X	exon20	NM_006267	exonic	stopgain	.	chr2	109381574	G	T	1.10	0	GG	7	636	0	593	t_lod_fstar	7:4,3	0:0,0	yes
+COL12A1	others	.					intronic	.	.	chr6	75796364	GTATATATA	G	12.50	3.23	indels	19	232	1	31	PASS	19:2,1	1:0,0	yes
+KMT2C	others	COSM228110	c.G1042A	p.D348N	exon8	NM_170606	exonic	nonsynonymous SNV	.	chr7	151962265	C	T	4.70	4.17	CC	193	4334	69	1655	alt_allele_in_normal;clustered_events	193:87,106	69:36,33	no
+KMT2C	others	COSM228110	c.G1042A	p.D348N	exon8	NM_170606	exonic	nonsynonymous SNV	.	chr7	151962265	C	T	4.71	4.15	CC	238	5055	68	1639	PASS:Germline	238:69,169	68:17,51	no
+KDM6A	others	.					intronic	.	.	chrX	44938316	TA	T	7.83	3.77	indels	17	217	2	53	PASS:Germline	17:14,3	2:2,0	no
+UBR5	others	COSM253116					intronic	.	.	chr8	103287850	TA	T	8.71	11.26	indels	88	1010	25	222	PASS:Germline	88:48,40	25:13,12	no
+HLA-A	others	.	c.G142T,c.G142T	p.A48S,p.A48S	exon2,exon2	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29910602	G	T	2.10	0	GG	11	428	0	62	clustered_events;homologous_mapping_event	11:3,8	0:0,0	yes
+HLA-A	others	.	c.G142T,c.G142T	p.A48S,p.A48S	exon2,exon2	NM_001242758,NM_002116	exonic	nonsynonymous SNV	.	chr6	29910602	G	T	3.92	3.12	GG	17	434	2	64	PASS:Germline	17:9,8	2:1,1	no
+FANCD2	others	.					intronic	.	.	chr3	10090933	G	A	2.30	6.25	GG	7	276	5	80	alt_allele_in_normal;clustered_events	7:3,4	5:1,4	no
+BCL2L2	others	.					UTR3	.	NM_004050:c.*1984T>C,NM_001199839:c.*1984T>C	chr14	23780158	T	C	49.45	43.93	TC	717	1450	105	239	PASS:Germline	717:425,292	105:60,45	no
+RQCD1	others	.					intronic	.	.	chr2	219452150	C	CT	5.88	5.56	indels	17	289	3	53	Germline	17:8,9	3:2,1	no
+XPO1	others	COSM1615013					splicing	.	NM_003400:exon8:c.591-2->T	chr2	61726050	T	TA	4.44	0	indels	12	270	0	45	StrongSomatic	12:2,10	0:0,0	yes
+KMT2C	others	.					intronic	.	.	chr7	151970714	C	A	3.38	3.27	CC	84	2484	20	612	PASS:Germline	84:73,11	20:17,3	no
+SDHB	others	.					intronic	.	.	chr1	17354373	GGAA	G	3.10	2.75	indels	40	1371	5	182	alt_allele_in_normal;str_contraction	40:24,16	5:1,4	no
+SDHB	others	.					intronic	.	.	chr1	17354373	GGAA	G	2.16	1.86	indels	35	1624	4	215	PASS:Germline	35:15,20	4:1,3	no
+GNAQ	others	.					UTR5	.	NM_002072:c.-64G>A	chr9	80646215	C	T	8.70	0	CC	17	221	0	34	clustered_events;germline_risk;homologous_mapping_event	17:3,14	0:0,0	yes
+KMT2C	others	COSM4162020	c.C2189A	p.S730Y	exon14	NM_170606	exonic	nonsynonymous SNV	.	chr7	151945330	G	T	2.80	1.53	GG	30	1456	8	524	alt_allele_in_normal;clustered_events	30:12,18	8:5,3	no
+APC	others	.					intronic	.	.	chr5	112154529	TTG	T	14.49	6.52	indels	40	276	3	46	PASS:Germline	40:32,8	3:3,0	no
+ETV6	others	.					intronic	.	.	chr12	12031758	AG	A	8.26	6.16	indels	99	1198	13	211	PASS:Germline	99:34,65	13:3,10	no
+ZFHX3	others	COSM1724858	c.2330_2332del	p.V777delV(ref_AA:VA,start:777,end:778,mut_AA:A)	exon2	NM_006885	exonic	nonframeshift deletion	.	chr16	72991712	GCCA	G	1.33	1.76	indels	9	677	3	170	PASS:Germline	9:3,6	3:1,2	no
+SETBP1	others	.	c.C1932T	p.S644S	exon4	NM_015559	exonic	synonymous SNV	.	chr18	42531237	C	T	39.20	45.47	CT	1174	2995	241	530	PASS:Germline	1174:482,692	241:97,144	no
+ETV6	others	.					intronic	.	.	chr12	11962348	C	T	55.07	42.86	CT	304	552	45	105	PASS:Germline	304:236,68	45:30,15	no
+HERC2	others	.	c.G4061A	p.S1354N	exon27	NM_004667	exonic	nonsynonymous SNV	.	chr15	28479373	C	T	6.04	5.05	CC	42	695	5	99	PASS:Germline	42:8,34	5:2,3	no
+MIR5096	others	.					ncRNA_intronic	.	.	chr1	16200729	AT	A	1.15	1.85	indels	18	1569	7	379	PASS:Germline	18:8,10	7:4,3	no
+MIR5096	others	.					ncRNA_intronic	.	.	chr1	16200729	AT	A	1.17	1.88	indels	13	1109	5	265	LikelySomatic	13:2,11	5:2,3	no
+AHNAK2	others	.	c.C2316T	p.D772D	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105419472	G	A	3.60	3.04	GG	58	2973	16	526	alt_allele_in_normal;clustered_events	58:26,32	16:6,10	no
+ETV6	others	.					intronic	.	.	chr12	11954632	G	GATGAGGAATCAAACTCAGAT	21.24	16.92	indels	352	1657	56	331	PASS:Germline	352:241,111	56:37,19	no
+NOTCH2	others	.					UTR5	.	NM_024408:c.-23C>A,NM_001200001:c.-23C>A	chr1	120612043	G	T	10.92	9.52	GG	13	119	2	21	PASS:Germline	13:9,4	2:2,0	no
+AHNAK2	others	.	c.A2561C	p.D854A	exon7	NM_138420	exonic	nonsynonymous SNV	.	chr14	105419227	T	G	2.34	1.25	TT	86	3679	9	722	PASS:Germline	86:77,9	9:8,1	no
+RAF1	others	.					intronic	.	.	chr3	12650635	CTA	C	2.50	3.09	indels	13	482	3	97	alt_allele_in_normal;str_contraction;triallelic_site	13:2,11	3:1,2	no
+KMT2C	others	COSM4161996	c.A2763G	p.L921L	exon16	NM_170606	exonic	synonymous SNV	.	chr7	151932908	T	C	21.99	24.29	TT	872	3966	171	704	PASS:Germline	872:279,593	171:56,115	no
+STAT5B	others	.					intronic	.	.	chr17	40359505	GCACACACA	G	26.30	26.09	indels	161	621	18	69	alt_allele_in_normal;germline_risk	161:2,6	18:1,2	no
+NFKBIE	others	.	c.C275G	p.S92W	exon1	NM_004556	exonic	nonsynonymous SNV	.	chr6	44233226	G	C	51.35	75	GC	57	111	18	24	PASS:Germline	57:29,28	18:8,10	no
+NFKBIE	others	.	c.C275G	p.S92W	exon1	NM_004556	exonic	nonsynonymous SNV	.	chr6	44233226	G	C	45.83	68.75	GC	33	72	11	15	Germline	33:5,28	11:1,10	no
+SMAD2	others	.					intronic	.	.	chr18	45395819	C	A	1.09	1.42	CC	7	644	4	282	PASS:Germline	7:1,6	4:0,4	no
+ETS2	others	.					intronic	.	.	chr21	40181937	C	CT	4.35	5.02	indels	62	1425	13	259	PASS:Germline	62:37,25	13:9,4	no
+PMS2	others	.					intronic	.	.	chr7	6031478	AC	A	7.30	0	indels	12	182	0	31	PASS	12:7,5	0:0,0	yes
+TMPRSS2	others	.					intronic	.	.	chr21	42855463	G	C	10.60	7.14	GG	18	131	1	14	alt_allele_in_normal	18:14,4	1:1,0	no
+IQSEC1	others	COSM1593325					splicing	.	NM_001134382:exon14:c.2976+1G>-,NM_001134382:exon15:c.2977-1G>-	chr3	12942850	GC	G	99.29	98.57	indels	281	283	69	70	PASS:Germline	281:251,30	69:57,12	no
+IQSEC1	others	COSM1593325					splicing	.	NM_001134382:exon14:c.2976+1G>-,NM_001134382:exon15:c.2977-1G>-	chr3	12942850	GC	G	99.59	98.39	indels	244	245	61	61	Germline	244:214,30	61:48,13	no
+CLTC	others	.					intronic	.	.	chr17	57762402	CT	C	9.63	11.26	indels	98	1018	17	151	PASS:Germline	98:60,38	17:8,9	no
+DOT1L	others	.					intronic	.	.	chr19	2220254	TCTG	T	1.30	1.3	indels	7	636	1	77	str_contraction	7:2,5	1:1,0	no
+IGF1R	others	.					intronic	.	.	chr15	99439963	A	AT	1.65	1.09	indels	26	1576	3	274	PASS:Germline	26:15,11	3:2,1	no
+AHNAK2	others	.	c.C9373T	p.L3125L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105412415	G	A	1.66	1.69	GG	74	4449	15	888	PASS:Germline	74:19,55	15:5,10	no
+CUX1	others	.					intronic	.	.	chr7	101921209	T	C	5.26	11.54	TT	7	133	3	26	PASS:Germline	7:6,1	3:3,0	no
+CTNNA2	others	.					intronic	.	.	chr2	80136693	TTG	T	1.60	3.61	indels	8	501	3	83	alt_allele_in_normal;str_contraction	8:2,6	3:0,3	no
+FANCD2	others	.					intronic	.	.	chr3	10091261	G	A	15.12	20.08	GG	188	1243	51	254	PASS:Germline	188:50,138	51:11,40	no
+GNA11	others	.					UTR3	.	NM_002067:c.*276delA	chr19	3121452	TA	T	18.40	19.51	indels	76	413	8	41	PASS:Germline	76:24,52	8:4,4	no
+CRTC1	others	.					intronic	.	.	chr19	18887967	A	C	3.04	0	AA	8	263	0	38	PASS:Somatic	8:7,1	0:0,0	no
+AHNAK2	others	.	c.C6201T	p.L2067L	exon7	NM_138420	exonic	synonymous SNV	.	chr14	105415587	G	A	19.59	22.36	GG	617	3150	125	559	PASS:Germline	617:193,424	125:42,83	no
+STAT5B	others	.					intronic	.	.	chr17	40379540	C	T	47.88	45.31	CT	924	1930	116	256	PASS:Germline	924:501,423	116:60,56	no
+ETV1	others	.					intronic	.	.	chr7	13971669	CCA	C	40.17	40.98	indels	384	956	50	122	PASS:Germline	384:156,228	50:22,28	no
+NT5C2	others	.					intronic	.	.	chr10	104858753	CA	C	1.17	0	indels	7	599	0	103	PASS:Somatic	7:3,4	0:0,0	no
+APC	others	.					intronic	.	.	chr5	112165789	G	GT	1.44	0.57	indels	26	1808	2	349	PASS:Germline	26:11,15	2:1,1	no
+BCR	others	.					intronic	.	.	chr22	23529439	CT	C	2.54	2.7	indels	34	1337	6	222	PASS:Germline	34:19,15	6:5,1	no
+FANCD2	others	.					intronic	.	.	chr3	10089549	TACTA	T	26.89	23.48	indels	481	1789	77	328	PASS:Germline	481:379,102	77:60,17	no
+FGFR3	others	.					intronic	.	.	chr4	1803491	C	G	1.70	0	CC	6	352	0	52	PASS:Somatic	6:1,5	0:0,0	no
+KMT2C	others	.					intronic	.	.	chr7	151891358	TA	T	4.33	5.21	indels	25	578	5	96	PASS:Germline	25:8,17	5:0,5	no
+ETV6	others	.					intronic	.	.	chr12	11955635	C	T	53.65	40.09	CT	971	1810	188	469	PASS:Germline	971:428,543	188:88,100	no
+MYH11,NDE1	others	.					intronic	.	.	chr16	15808971	A	G	1.94	3.64	AA	8	412	2	55	PASS:Germline	8:1,7	2:0,2	no
+BTG1	others	.	c.G100T	p.E34X	exon1	NM_001731	exonic	stopgain	.	chr12	92539212	C	A	1.08	0	CC	7	650	0	145	PASS:Somatic	7:4,3	0:0,0	no
+FANCD2	others	.					intronic	.	.	chr3	10106608	T	C	7.80	7.75	TT	131	2027	30	387	alt_allele_in_normal;clustered_events	131:59,72	30:16,14	no
+FANCD2	others	.					intronic	.	.	chr3	10106608	T	C	8.39	6.28	TT	177	2109	24	382	PASS:Germline	177:48,129	24:5,19	no
+BUB1B	others	.					intronic	.	.	chr15	40476527	G	T	1.53	0	GG	6	391	0	93	PASS:Somatic	6:5,1	0:0,0	no
+AXIN2	others	COSM1184281	c.C2140T	p.R714W	exon8	NM_004655	exonic	nonsynonymous SNV	.	chr17	63532439	G	A	47.74	43.98	GA	708	1483	84	191	PASS:Germline	708:362,346	84:39,45	no
+UGT1A3	others	.	c.A804G	p.P268P	exon1	NM_019093	exonic	synonymous SNV	.	chr2	234638576	A	G	4.50	6.38	AA	208	3822	60	941	alt_allele_in_normal;clustered_events	208:105,103	60:31,29	no
+UGT1A3	others	.	c.A804G	p.P268P	exon1	NM_019093	exonic	synonymous SNV	.	chr2	234638576	A	G	7.99	6.39	AA	321	4020	60	939	PASS:Germline	321:137,184	60:26,34	no
+CACNA1D	others	.					intronic	.	.	chr3	53699666	A	AT	1.84	1.63	indels	23	1250	4	246	PASS:Germline	23:14,9	4:2,2	no
+DICER1	others	.					intronic	.	.	chr14	95566068	TACACACACACAC	T	59.82	60	indels	262	438	60	100	PASS:Germline	262:207,55	60:47,13	no
+MTOR	others	.					intronic	.	.	chr1	11182260	T	TA	1.01	0	indels	8	790	0	111	PASS:Somatic	8:4,4	0:0,0	no
+FANCD2	others	.					intronic	.	.	chr3	10105661	CT	C	26.70	27.27	indels	314	1176	60	220	PASS:Germline	314:70,244	60:14,46	no
+HERC2	others	.					intronic	.	.	chr15	28566444	C	T	4.50	3.23	CC	10	193	3	93	alt_allele_in_normal;germline_risk	10:5,5	3:0,3	no
+UGT1A3	others	.	c.A17G	p.Q6R	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234637789	A	G	47.54	46.38	AG	357	751	64	138	PASS:Germline	357:256,101	64:49,15	no
+UGT1A3	others	.	c.A17G	p.Q6R	exon1	NM_019093	exonic	nonsynonymous SNV	.	chr2	234637789	A	G	48.90	49.54	AG	288	589	54	108	Germline	288:183,105	54:39,15	no

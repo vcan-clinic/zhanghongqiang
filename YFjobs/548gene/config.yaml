@@ -1,0 +1,7 @@
+fastq:
+  dir: ../fastq
+  sample2unit_file: sample_unit.txt
+  sample2info_file: sample_info.txt
+output:
+  dir: ../results
+

@@ -1,0 +1,390 @@
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 152, in <module>
+    a= annotation(sys.argv[1],sys.argv[2],config_dict)
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 117, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 23, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/dongjian_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 152, in <module>
+    a= annotation(sys.argv[1],sys.argv[2],config_dict)
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 117, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 23, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/wangbingan_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 152, in <module>
+    a= annotation(sys.argv[1],sys.argv[2],config_dict)
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 117, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 23, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/luchengzhen_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 152, in <module>
+    a= annotation(sys.argv[1],sys.argv[2],config_dict)
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 117, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 23, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/liuyujun_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 152, in <module>
+    a= annotation(sys.argv[1],sys.argv[2],config_dict)
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 117, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 23, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/wangjiarui_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 152, in <module>
+    a= annotation(sys.argv[1],sys.argv[2],config_dict)
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 117, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 23, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/liuxingwu_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 152, in <module>
+    a= annotation(sys.argv[1],sys.argv[2],config_dict)
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 117, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 23, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/renyuchao_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 152, in <module>
+    a= annotation(sys.argv[1],sys.argv[2],config_dict)
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 117, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 23, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181114/liuyujun_ffpe/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 152, in <module>
+    a= annotation(sys.argv[1],sys.argv[2],config_dict)
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 117, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 23, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181114/renyuchao_ffpe/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/dongjian_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/wangbingan_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/luchengzhen_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/liuyujun_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/wangjiarui_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/liuxingwu_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/renyuchao_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181114/liuyujun_ffpe/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181114/renyuchao_ffpe/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/548fillter.py", line 32, in <module>
+    toexceldata(vipdata)
+  File "/gpfs/home/zhaohongqiang/project/548gene/548fillter.py", line 23, in toexceldata
+    u'cosmic70']
+  File "/gpfs/home/zhaohongqiang/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 2682, in __getitem__
+    return self._getitem_array(key)
+  File "/gpfs/home/zhaohongqiang/anaconda2/lib/python2.7/site-packages/pandas/core/frame.py", line 2726, in _getitem_array
+    indexer = self.loc._convert_to_indexer(key, axis=1)
+  File "/gpfs/home/zhaohongqiang/anaconda2/lib/python2.7/site-packages/pandas/core/indexing.py", line 1327, in _convert_to_indexer
+    .format(mask=objarr[mask]))
+KeyError: "[u'GeneDetail.refGene'] not in index"
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/dongjian_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/wangbingan_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/luchengzhen_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/liuyujun_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/wangjiarui_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/liuxingwu_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181210_CF/renyuchao_cf/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181114/liuyujun_ffpe/annotation/*3tool.vcf.gz'
+Traceback (most recent call last):
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 146, in <module>
+    a = annotation(sys.argv[1],sys.argv[2],config_dict) #reformed_vcf,multianno_txt
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 17, in __init__
+    self.vcf_filter()
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 109, in vcf_filter
+    for line in self.reformed_vcf:
+  File "/gpfs/home/zhaohongqiang/project/548gene/annovar_annotation_filter.py", line 21, in read_file
+    f_open=gzip.open(f) if f.endswith(".gz") else open(f)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 34, in open
+    return GzipFile(filename, mode, compresslevel)
+  File "/gpfs/software/bcbio/bcbio/anaconda/lib/python2.7/gzip.py", line 94, in __init__
+    fileobj = self.myfileobj = __builtin__.open(filename, mode or 'rb')
+IOError: [Errno 2] No such file or directory: '/gpfs/project/RD_bioinfor/KY_project/RD_548gene/20180922_548gene/20181114/renyuchao_ffpe/annotation/*3tool.vcf.gz'

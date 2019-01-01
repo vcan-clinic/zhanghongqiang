@@ -1,0 +1,148 @@
+chr	pos	ref	alt	tumor_ratio	normal_ratio	genotype	alt_depth	all_depth	control_alt_depth	control_all_depth	status	tumor_alt_forward_reverse	normal_alt_forward_reverse	decision	tag	cosmic70	CDS_Mutation	AA_Mutation	exon	transcripts	Func.refGene	ExonicFunc.refGene
+chr2	109381574	G	T	1.10	0	GG	7	636	0	593	t_lod_fstar	7:4,3	0:0,0	yes	others	.	c.G4579T	p.E1527X	exon20	NM_006267	exonic	stopgain
+chr8	92983159	A	AT	1.40	0	indels	15	1071	0	189	PASS:Somatic	15:5,10	0:0,0	no	others	.					intronic	.
+chr15	51510859	G	GA	2.08	0	indels	8	385	0	119	PASS:Somatic	8:3,5	0:0,0	no	others	.					intronic	.
+chr3	30842346	AAGAG	A	8.80	0	indels	18	209	0	54	triallelic_site	18:4,11	0:0,0	yes	others	.					intronic	.
+chr12	49426905	TTGC	T	1.90	0	indels	8	314	0	69	str_contraction	8:2,6	0:0,0	yes	others	COSM1361991,COSM1361990	c.11580_11582del	p.Q3861delQ(ref_AA:QQ,start:3860,end:3861,mut_AA:Q)	exon39	NM_003482	exonic	nonframeshift deletion
+chr12	49426905	TTGC	T	2.10	0	indels	8	289	0	62	str_contraction	8:2,6	0:0,0	yes	others	COSM1361991,COSM1361990	c.11580_11582del	p.Q3861delQ(ref_AA:QQ,start:3860,end:3861,mut_AA:Q)	exon39	NM_003482	exonic	nonframeshift deletion
+chr5	254609	T	C	1.42	0	TT	11	773	0	115	PASS:Somatic	11:6,5	0:0,0	no	others	.	c.T1752C,c.T1896C	p.V584V,p.V632V	exon13,exon14	NM_001294332,NM_004168	exonic	synonymous SNV
+chr19	19258521	G	T	1.10	0	GG	9	818	0	105	PASS:Somatic	9:5,4	0:0,0	no	others	.	c.C379A,c.C379A	p.R127R,p.R127R	exon4,exon6	NM_001145785,NM_005919	exonic	synonymous SNV
+chr3	53839234	AC	A	2.20	0	indels	28	1393	0	275	PASS	28:15,13	0:0,0	yes	others	.					intronic	.
+chr3	53839234	AC	A	1.98	0	indels	29	1468	0	296	PASS:Somatic	29:8,21	0:0,0	no	others	.					intronic	.
+chr1	27106581	C	T	7.30	0	CC	142	1913	0	287	PASS	142:50,92	0:0,0	yes	others	.	c.C6192T,c.C5541T	p.L2064L,p.L1847L	exon20,exon20	NM_006015,NM_139135	exonic	synonymous SNV
+chr1	27106581	C	T	7.32	0	CC	141	1927	0	287	PASS:Somatic	141:65,76	0:0,0	no	others	.	c.C6192T,c.C5541T	p.L2064L,p.L1847L	exon20,exon20	NM_006015,NM_139135	exonic	synonymous SNV
+chr1	27106581	C	T	7.32	0	CC	107	1462	0	213	StrongSomatic	107:28,79	0:0,0	yes	others	.	c.C6192T,c.C5541T	p.L2064L,p.L1847L	exon20,exon20	NM_006015,NM_139135	exonic	synonymous SNV
+chr6	29910602	G	T	2.10	0	GG	11	428	0	62	clustered_events;homologous_mapping_event	11:3,8	0:0,0	yes	others	.	c.G142T,c.G142T	p.A48S,p.A48S	exon2,exon2	NM_001242758,NM_002116	exonic	nonsynonymous SNV
+chr22	36721212	GGA	G	2.20	0	indels	19	859	0	82	str_contraction	19:7,12	0:0,0	yes	others	.					intronic	.
+chr22	36721212	GGA	G	1.72	0	indels	18	1049	0	101	PASS:Somatic	18:6,12	0:0,0	no	others	.					intronic	.
+chr1	11182260	T	TA	1.01	0	indels	8	790	0	111	PASS:Somatic	8:4,4	0:0,0	no	others	.					intronic	.
+chr9	127951072	CAAT	C	4.60	0	indels	8	172	0	26	str_contraction	8:6,2	0:0,0	yes	others	.					intronic	.
+chrX	70360648	C	T	32.30	0	CT	122	398	0	61	PASS	122:60,62	0:0,0	yes	others	.	c.C6208T	p.Q2070X	exon42	NM_005120	exonic	stopgain
+chrX	70360648	C	T	34.60	0	CT	112	348	0	55	clustered_events;homologous_mapping_event	112:44,68	0:0,0	yes	others	.	c.C6208T	p.Q2070X	exon42	NM_005120	exonic	stopgain
+chr2	7915435	C	A	1.68	0	CC	6	358	0	66	PASS:Somatic	6:3,3	0:0,0	no	others	.					intergenic	.
+chr1	226259229	A	T	1.53	0	AA	10	655	0	99	StrongSomatic	10:1,9	0:0,0	yes	others	.					ncRNA_exonic	.
+chr4	89036048	A	T	9.60	0	AA	66	685	0	130	PASS	66:31,35	0:0,0	yes	others	.					intronic	.
+chr4	89036048	A	T	9.64	0	AA	66	685	0	129	PASS:Somatic	66:51,15	0:0,0	no	others	.					intronic	.
+chr19	45913157	T	TATTA	28.00	0	indels	7	25	0	6	germline_risk	7:4,3	0:0,0	yes	others	.					UTR3	.
+chr13	48916766	G	A	16.10	0	GG	116	739	0	276	PASS	116:48,68	0:0,0	yes	others	.	c.G296A	p.W99X	exon3	NM_000321	exonic	stopgain
+chr13	48916766	G	A	15.21	0.36	GG	113	743	1	276	PASS:Somatic	113:65,48	1:1,0	no	others	.	c.G296A	p.W99X	exon3	NM_000321	exonic	stopgain
+chr2	61726050	T	TA	4.44	0	indels	12	270	0	45	StrongSomatic	12:2,10	0:0,0	yes	others	COSM1615013					splicing	.
+chr9	135772991	C	T	1.69	0	CC	12	709	0	127	PASS:Somatic	12:2,10	0:0,0	no	others	.	c.G2479A,c.G2632A,c.G2629A	p.E827K,p.E878K,p.E877K	exon20,exon21,exon21	NM_001162427,NM_000368,NM_001162426	exonic	nonsynonymous SNV
+chr17	7577548	C	T	20.30	0.34	CC	332	1664	1	294	multi_event_alt_allele_in_normal	332:132,200	1:0,1	no	others	COSM1640833,COSM121036,COSM6932,COSM121035,COSM121037,COSM3356965	c.G337A,c.G337A,c.G337A,c.G256A,c.G256A,c.G256A,c.G616A,c.G733A,c.G733A,c.G733A,c.G733A,c.G616A,c.G616A,c.G616A,c.G616A	p.G113S,p.G113S,p.G113S,p.G86S,p.G86S,p.G86S,p.G206S,p.G245S,p.G245S,p.G245S,p.G245S,p.G206S,p.G206S,p.G206S,p.G206S	exon3,exon3,exon3,exon3,exon3,exon3,exon6,exon7,exon7,exon7,exon7,exon7,exon7,exon7,exon7	NM_001126115,NM_001126116,NM_001126117,NM_001276697,NM_001276698,NM_001276699,NM_001126118,NM_000546,NM_001126112,NM_001126113,NM_001126114,NM_001276695,NM_001276696,NM_001276760,NM_001276761	exonic	nonsynonymous SNV
+chr17	7577548	C	T	19.49	0.34	CC	321	1647	1	295	PASS:Somatic	321:147,174	1:1,0	no	others	COSM1640833,COSM121036,COSM6932,COSM121035,COSM121037,COSM3356965	c.G337A,c.G337A,c.G337A,c.G256A,c.G256A,c.G256A,c.G616A,c.G733A,c.G733A,c.G733A,c.G733A,c.G616A,c.G616A,c.G616A,c.G616A	p.G113S,p.G113S,p.G113S,p.G86S,p.G86S,p.G86S,p.G206S,p.G245S,p.G245S,p.G245S,p.G245S,p.G206S,p.G206S,p.G206S,p.G206S	exon3,exon3,exon3,exon3,exon3,exon3,exon6,exon7,exon7,exon7,exon7,exon7,exon7,exon7,exon7	NM_001126115,NM_001126116,NM_001126117,NM_001276697,NM_001276698,NM_001276699,NM_001126118,NM_000546,NM_001126112,NM_001126113,NM_001126114,NM_001276695,NM_001276696,NM_001276760,NM_001276761	exonic	nonsynonymous SNV
+chr4	1746535	G	T	1.55	0	GG	6	387	0	64	PASS:Somatic	6:3,3	0:0,0	no	others	.	c.G2427T	p.S809S	exon15	NM_006342	exonic	synonymous SNV
+chr20	50007983	C	A	1.18	0	CC	8	676	0	83	PASS:Somatic	8:1,7	0:0,0	no	others	.	c.G2668T,c.G2071T,c.G2071T,c.G2728T	p.E890X,p.E691X,p.E691X,p.E910X	exon10,exon10,exon10,exon10	NM_001258292,NM_001258295,NM_001258297,NM_173091	exonic	stopgain
+chr9	80646215	C	T	8.70	0	CC	17	221	0	34	clustered_events;germline_risk;homologous_mapping_event	17:3,14	0:0,0	yes	others	.					UTR5	.
+chr17	11672549	G	A	2.40	0	GG	33	1245	0	231	PASS	33:23,10	0:0,0	yes	others	.	c.G7455A	p.S2485S	exon38	NM_001372	exonic	synonymous SNV
+chr17	11672549	G	A	2.48	0	GG	31	1251	0	229	PASS:Somatic	31:13,18	0:0,0	no	others	.	c.G7455A	p.S2485S	exon38	NM_001372	exonic	synonymous SNV
+chr7	55242466	GAATTAAGAGAAGCAACA	G	19.40	0	indels	627	3044	0	550	clustered_events	627:283,344	0:0,0	yes	vip_19del	.	c.2237_2253del	p.E746fs(ref_AA:ELREAT,start:746,end:751,mut_AA:V)	exon19	NM_005228	exonic	frameshift deletion
+chr7	55242466	GAATTAAGAGAAGCAACA	G	15.41	0	indels	391	2538	0	465	PASS:Somatic	391:214,177	0:0,0	no	vip_19del	.	c.2237_2253del	p.E746fs(ref_AA:ELREAT,start:746,end:751,mut_AA:V)	exon19	NM_005228	exonic	frameshift deletion
+chr11	65822624	A	C	2.16	0	AA	8	371	0	51	PASS:Somatic	8:7,1	0:0,0	no	others	.	c.A336C	p.P112P	exon4	NM_006842	exonic	synonymous SNV
+chr22	23619698	CCTG	C	1.60	0	indels	20	1338	0	154	str_contraction	20:4,16	0:0,0	yes	others	.					intronic	.
+chr22	23619698	CCTG	C	1.50	0	indels	17	1235	0	143	str_contraction	17:2,15	0:0,0	yes	others	.					intronic	.
+chr17	1251240	C	A	1.13	0	CC	7	617	0	64	PASS:Somatic	7:2,5	0:0,0	no	others	.					intronic	.
+chr6	34212748	T	C	9.50	0	TT	8	234	0	34	PASS	8:6,2	0:0,0	yes	others	.					UTR3	.
+chr6	29910577	C	T	1.80	0	CC	10	397	0	55	clustered_events;homologous_mapping_event	10:2,8	0:0,0	yes	others	.	c.C117T,c.C117T	p.P39P,p.P39P	exon2,exon2	NM_001242758,NM_002116	exonic	synonymous SNV
+chr7	140495581	T	TA	1.21	0	indels	8	661	0	140	PASS:Somatic	8:4,4	0:0,0	no	others	.					intronic	.
+chr7	6037052	C	A	1.04	0	CC	11	1056	0	169	PASS:Somatic	11:2,9	0:0,0	no	others	.	c.G708T	p.L236F	exon7	NM_000535	exonic	nonsynonymous SNV
+chr4	1803491	C	G	1.70	0	CC	6	352	0	52	PASS:Somatic	6:1,5	0:0,0	no	others	.					intronic	.
+chrX	119694116	TGAG	T	2.26	0	indels	19	840	0	123	PASS:Somatic	19:11,8	0:0,0	no	others	COSM1465286,COSM1465287	c.375_377del,c.429_431del	p.S126delS(ref_AA:SS,start:125,end:126,mut_AA:S),p.S144delS(ref_AA:SS,start:143,end:144,mut_AA:S)	exon1,exon3	NM_001079872,NM_003588	exonic	nonframeshift deletion
+chr17	40369129	CCA	C	2.70	0	indels	21	742	0	116	str_contraction	21:12,9	0:0,0	yes	others	.					intronic	.
+chr16	3781171	T	G	1.50	0	TT	6	400	0	30	PASS:Somatic	6:1,5	0:0,0	no	others	.					intronic	.
+chr10	101961753	G	T	1.01	0	GG	7	694	0	140	PASS:Somatic	7:4,3	0:0,0	no	others	.					intronic	.
+chr3	13114446	C	A	1.23	0	CC	7	570	0	91	PASS:Somatic	7:3,4	0:0,0	no	others	.					intronic	.
+chr21	42855490	G	T	2.16	0	GG	8	371	0	60	PASS:Somatic	8:7,1	0:0,0	no	others	.					intronic	.
+chr11	94170377	G	T	1.40	0	GG	8	443	0	93	t_lod_fstar	8:6,2	0:0,0	yes	others	.	c.C1808A,c.C1892A	p.P603H,p.P631H	exon16,exon17	NM_005590,NM_005591	exonic	nonsynonymous SNV
+chr11	94170377	G	T	1.81	0	GG	8	441	0	92	PASS:Somatic	8:4,4	0:0,0	no	others	.	c.C1808A,c.C1892A	p.P603H,p.P631H	exon16,exon17	NM_005590,NM_005591	exonic	nonsynonymous SNV
+chr7	98495297	TTG	T	12.61	0	indels	105	833	0	102	PASS:Somatic	105:57,48	0:0,0	no	others	.					intronic	.
+chr4	126336055	G	T	1.01	0	GG	7	694	0	295	PASS:Somatic	7:3,4	0:0,0	no	others	.	c.G5937T,c.G5937T,c.G5937T	p.L1979F,p.L1979F,p.L1979F	exon5,exon5,exon5	NM_001291285,NM_001291303,NM_024582	exonic	nonsynonymous SNV
+chr17	8059526	CCA	C	1.20	0	indels	6	475	0	105	str_contraction;t_lod_fstar	6:2,4	0:0,0	yes	others	.					intergenic	.
+chr6	117655489	T	C	10.53	0	TT	6	57	0	45	PASS:Somatic	6:5,1	0:0,0	no	others	.					intronic	.
+chr13	110434577	AGCG	A	1.40	0	indels	6	496	0	47	str_contraction	6:3,3	0:0,0	yes	others	.	c.3821_3823del	p.P1274delP(ref_AA:PL,start:1274,end:1275,mut_AA:L)	exon1	NM_003749	exonic	nonframeshift deletion
+chr6	117631414	G	A	1.38	0	GG	6	434	0	290	PASS:Somatic	6:2,4	0:0,0	no	others	.	c.C6264T	p.S2088S	exon40	NM_002944	exonic	synonymous SNV
+chr8	38287160	T	G	2.67	0	TT	9	337	0	65	PASS:Somatic	9:1,8	0:0,0	no	others	.					intronic	.
+chr8	37692943	T	G	2.71	0	TT	7	258	0	40	PASS:Somatic	7:4,3	0:0,0	no	others	.					intronic	.
+chr7	6031478	AC	A	7.30	0	indels	12	182	0	31	PASS	12:7,5	0:0,0	yes	others	.					intronic	.
+chr13	49039199	C	A	1.02	0	CC	6	586	0	150	PASS:Somatic	6:3,3	0:0,0	no	others	.	c.C2277A	p.V759V	exon22	NM_000321	exonic	synonymous SNV
+chr1	120611960	C	T	13.24	0	CC	18	136	0	17	PASS:Somatic	18:12,6	0:0,0	no	others	COSM1600651	c.G61A,c.G61A	p.A21T,p.A21T	exon1,exon1	NM_001200001,NM_024408	exonic	nonsynonymous SNV
+chr1	120611960	C	T	14.29	0	CC	14	98	0	13	StrongSomatic	14:9,5	0:0,0	yes	others	COSM1600651	c.G61A,c.G61A	p.A21T,p.A21T	exon1,exon1	NM_001200001,NM_024408	exonic	nonsynonymous SNV
+chr2	141208248	G	GA	1.47	0	indels	6	409	0	115	PASS:Somatic	6:1,5	0:0,0	no	others	.					intronic	.
+chr1	120612034	T	G	3.90	0	TT	6	148	0	28	clustered_events;t_lod_fstar	6:3,3	0:0,0	yes	others	.					UTR5	.
+chr1	120612034	T	G	16.81	0	TT	20	119	0	15	PASS:Somatic	20:12,8	0:0,0	no	others	.					UTR5	.
+chr1	120612034	T	G	17.21	0	TT	21	122	0	19	StrongSomatic	21:12,9	0:0,0	yes	others	.					UTR5	.
+chr11	95825260	TTGC	T	2.40	0	indels	7	351	0	37	clustered_events;str_contraction	7:4,3	0:0,0	yes	others	.	c.1932_1934del	p.Q645delQ(ref_AA:QQ,start:644,end:645,mut_AA:Q)	exon2	NM_032427	exonic	nonframeshift deletion
+chr2	29519588	AGT	A	6.80	0	indels	23	337	0	48	str_contraction	23:16,7	0:0,0	yes	others	.					intronic	.
+chr8	54906323	T	TTTCA	7.90	0	indels	147	1925	0	340	clustered_events	147:57,90	0:0,0	yes	others	.					intronic	.
+chr8	54906323	T	TTTCA	6.87	0	indels	135	1966	0	351	PASS:Somatic	135:50,85	0:0,0	no	others	.					intronic	.
+chr15	40476527	G	T	1.53	0	GG	6	391	0	93	PASS:Somatic	6:5,1	0:0,0	no	others	.					intronic	.
+chr10	88650068	G	GT	1.50	0	indels	9	600	0	177	PASS:Somatic	9:2,7	0:0,0	no	others	.					intronic	.
+chr10	43608735	C	T	8.00	0	CC	166	2113	0	481	PASS	166:78,88	0:0,0	yes	others	.					intronic	.
+chr10	43608735	C	T	7.64	0	CC	162	2121	0	476	PASS:Somatic	162:81,81	0:0,0	no	others	.					intronic	.
+chr2	100360512	T	C	1.05	0	TT	6	569	0	104	PASS:Somatic	6:5,1	0:0,0	no	others	.					intronic	.
+chr19	11129473	TCCTC	T	1.20	0	indels	9	590	0	81	str_contraction	9:2,7	0:0,0	yes	others	.					intronic	.
+chr17	41620650	T	C	2.80	0	TT	8	255	0	35	clustered_events	8:1,7	0:0,0	yes	others	.					intronic	.
+chr2	141250188	G	A	5.60	0	GG	16	281	0	126	PASS	16:8,8	0:0,0	yes	others	.	c.C9109T	p.L3037F	exon57	NM_018557	exonic	nonsynonymous SNV
+chr2	141250188	G	A	5.32	0	GG	15	282	0	128	PASS:Somatic	15:7,8	0:0,0	no	others	.	c.C9109T	p.L3037F	exon57	NM_018557	exonic	nonsynonymous SNV
+chr5	131927550	AT	A	2.05	0	indels	6	293	0	82	PASS:Somatic	6:5,1	0:0,0	no	others	.					intronic	.
+chr5	131927550	AT	A	2.44	0	indels	6	246	0	65	StrongSomatic	6:5,1	0:0,0	yes	others	.					intronic	.
+chr19	40748503	G	T	1.70	0	GG	6	359	0	32	t_lod_fstar	6:5,1	0:0,0	yes	others	.	c.C193A,c.C193A,c.C379A	p.P65T,p.P65T,p.P127T	exon4,exon5,exon5	NM_001243028,NM_001243027,NM_001626	exonic	nonsynonymous SNV
+chr22	23633009	C	CT	1.73	0	indels	19	1096	0	126	PASS:Somatic	19:8,11	0:0,0	no	others	.					intronic	.
+chr6	29910549	G	A	2.00	0	GG	10	326	0	43	clustered_events;homologous_mapping_event	10:2,8	0:0,0	yes	others	.	c.G89A,c.G89A	p.R30K,p.R30K	exon2,exon2	NM_001242758,NM_002116	exonic	nonsynonymous SNV
+chr6	29910549	G	A	3.57	0	GG	12	336	0	45	PASS:Somatic	12:6,6	0:0,0	no	others	.	c.G89A,c.G89A	p.R30K,p.R30K	exon2,exon2	NM_001242758,NM_002116	exonic	nonsynonymous SNV
+chr6	18264078	TTCC	T	1.10	0	indels	6	512	0	62	str_contraction	6:2,4	0:0,0	yes	others	.	c.138_140del,c.138_140del	p.E47delE(ref_AA:EE,start:46,end:47,mut_AA:E),p.E47delE(ref_AA:EE,start:46,end:47,mut_AA:E)	exon2,exon2	NM_001134709,NM_003472	exonic	nonframeshift deletion
+chr22	38370185	T	G	1.01	0	TT	6	595	0	50	PASS:Somatic	6:1,5	0:0,0	no	others	.	c.A718C	p.T240P	exon4	NM_006941	exonic	nonsynonymous SNV
+chr15	50790860	G	T	1.08	0	GG	7	647	0	217	PASS:Somatic	7:3,4	0:0,0	no	others	.	c.G2788T,c.G3106T,c.G3106T	p.D930Y,p.D1036Y,p.D1036Y	exon16,exon19,exon19	NM_001283049,NM_001128610,NM_005154	exonic	nonsynonymous SNV
+chr22	38370173	T	G	1.02	0	TT	7	689	0	70	PASS:Somatic	7:1,6	0:0,0	no	others	.	c.A730C	p.T244P	exon4	NM_006941	exonic	nonsynonymous SNV
+chr2	48066511	T	TA	1.29	0	indels	6	466	0	77	PASS:Somatic	6:3,3	0:0,0	no	others	.					intronic	.
+chr7	14027867	G	GCACA	2.50	0	indels	9	92	0	32	triallelic_site	9:1,1	0:0,0	no	others	.					intronic	.
+chr5	254574	C	T	1.14	0	CC	12	1056	0	176	PASS:Somatic	12:6,6	0:0,0	no	others	.	c.C1717T,c.C1861T	p.H573Y,p.H621Y	exon13,exon14	NM_001294332,NM_004168	exonic	nonsynonymous SNV
+chr4	1980558	G	GC	1.20	0	indels	12	1000	0	167	PASS:Somatic	12:3,9	0:0,0	no	others	COSM1163361	c.4021dupC,c.4021dupC,c.4021dupC,c.4021dupC	p.K1340fs,p.K1340fs,p.K1340fs,p.K1340fs	exon22,exon22,exon23,exon24	NM_001042424,NM_133335,NM_133331,NM_133330	exonic	frameshift insertion
+chr17	41620662	T	A	3.40	0	TT	9	251	0	33	clustered_events	9:3,6	0:0,0	yes	others	.					intronic	.
+chr12	121434630	C	CTCAT	66.70	1.66	indels	13	1094	4	241	alt_allele_in_normal;germline_risk	13:1,8	4:2,1	no	others	.					intronic	.
+chr17	74732409	C	T	1.10	0	CC	25	2005	0	266	clustered_events	25:9,16	0:0,0	yes	others	COSM3796131,COSM3796130	c.G500A,c.G500A	p.R167Q,p.R167Q	exon2,exon2	NM_001195427,NM_003016	exonic	nonsynonymous SNV
+chr17	74732409	C	T	1.15	0	CC	23	2007	0	271	PASS:Somatic	23:10,13	0:0,0	no	others	COSM3796131,COSM3796130	c.G500A,c.G500A	p.R167Q,p.R167Q	exon2,exon2	NM_001195427,NM_003016	exonic	nonsynonymous SNV
+chr6	44216301	G	T	1.80	0	GG	8	480	0	67	PASS	8:3,5	0:0,0	yes	others	.					intronic	.
+chr3	15563236	TTG	T	4.50	0	indels	12	298	0	35	clustered_events;str_contraction	12:5,7	0:0,0	yes	others	.					UTR5	.
+chr3	89448446	A	AT	1.22	0	indels	11	900	0	155	StrongSomatic	11:8,3	0:0,0	yes	others	.					intronic	.
+chr10	104858753	CA	C	1.17	0	indels	7	599	0	103	PASS:Somatic	7:3,4	0:0,0	no	others	.					intronic	.
+chr19	45913155	T	TA	28.00	0	indels	7	25	0	6	germline_risk	7:4,3	0:0,0	yes	others	.					UTR3	.
+chr10	104160647	G	A	1.16	0	GG	6	517	0	113	PASS:Somatic	6:3,3	0:0,0	no	others	.					intronic	.
+chr11	17741959	G	T	1.30	0	GG	6	403	0	69	t_lod_fstar	6:5,1	0:0,0	yes	others	.	c.G630T	p.M210I	exon1	NM_002478	exonic	nonsynonymous SNV
+chr1	36939067	G	T	1.06	0	GG	9	846	0	105	PASS:Somatic	9:4,5	0:0,0	no	others	.	c.C642A,c.C642A,c.C642A	p.S214S,p.S214S,p.S214S	exon6,exon6,exon6	NM_000760,NM_156039,NM_172313	exonic	synonymous SNV
+chr2	39233605	C	A	1.03	0	CC	6	580	0	146	PASS:Somatic	6:3,3	0:0,0	no	others	.	c.G2739T	p.K913N	exon17	NM_005633	exonic	nonsynonymous SNV
+chr3	14200047	C	A	1.05	0	CC	9	856	0	131	PASS:Somatic	9:3,6	0:0,0	no	others	.	c.G1336T	p.E446X	exon9	NM_004628	exonic	stopgain
+chr1	156842855	T	G	3.96	0	TT	8	202	0	26	StrongSomatic	8:6,2	0:0,0	yes	others	.					intronic	.
+chr7	41729740	TTTC	T	1.30	0	indels	6	356	0	47	str_contraction	6:4,2	0:0,0	yes	others	.	c.786_788del	p.K263delK(ref_AA:KK,start:262,end:263,mut_AA:K)	exon3	NM_002192	exonic	nonframeshift deletion
+chr7	41729740	TTTC	T	1.20	0	indels	10	718	0	88	str_contraction	10:7,3	0:0,0	yes	others	.	c.786_788del	p.K263delK(ref_AA:KK,start:262,end:263,mut_AA:K)	exon3	NM_002192	exonic	nonframeshift deletion
+chr2	61143993	A	AT	1.35	0	indels	8	594	0	164	StrongSomatic	8:5,3	0:0,0	yes	others	.					intronic	.
+chr15	28518286	T	G	5.60	0	TT	11	194	0	28	clustered_events;homologous_mapping_event	11:4,7	0:0,0	yes	others	.					intronic	.
+chr17	7590601	A	C	1.04	0	AA	8	767	0	113	PASS:Somatic	8:7,1	0:0,0	no	others	.					intronic	.
+chr9	80646223	C	A	4.60	0	CC	6	161	0	27	clustered_events;homologous_mapping_event	6:1,5	0:0,0	yes	others	.					UTR5	.
+chr1	11187618	A	AT	2.04	0	indels	10	489	0	49	StrongSomatic	10:9,1	0:0,0	yes	others	.					intronic	.
+chr7	124475334	C	A	1.10	0	CC	6	546	0	172	PASS:Somatic	6:4,2	0:0,0	no	others	.	c.G1111T,c.G1504T	p.G371X,p.G502X	exon14,exon15	NM_001042594,NM_015450	exonic	stopgain
+chrX	15822104	TA	T	11.51	0	indels	16	139	0	23	PASS:Somatic	16:9,7	0:0,0	no	others	.					intronic	.
+chr16	9856869	CCAA	C	1.30	0	indels	8	622	0	68	str_contraction	8:4,4	0:0,0	yes	others	.					UTR3	.
+chr12	92539212	C	A	1.08	0	CC	7	650	0	145	PASS:Somatic	7:4,3	0:0,0	no	others	.	c.G100T	p.E34X	exon1	NM_001731	exonic	stopgain
+chr10	104157206	T	G	4.46	0	TT	10	224	0	48	PASS:Somatic	10:1,9	0:0,0	no	others	.					intronic	.
+chr5	251503	A	G	3.91	0	AA	21	537	0	75	PASS:Somatic	21:8,13	0:0,0	no	others	.	c.A1570G,c.A1714G	p.M524V,p.M572V	exon12,exon13	NM_001294332,NM_004168	exonic	nonsynonymous SNV
+chr3	37067094	TA	T	9.72	0	indels	14	144	0	23	PASS:Somatic	14:7,7	0:0,0	no	others	.					intronic	.
+chr22	23587790	G	GCTGCCAGCCTGGCAGAGGAGGAGAAAGTAGAGAAACCACCAGAACCAAC	20.20	0	indels	84	981	0	188	PASS	84:49,35	0:0,0	yes	others	.					intronic	.
+chr7	55242486	TC	T	22.00	0	indels	632	2869	0	506	clustered_events	632:283,349	0:0,0	yes	others	.	c.2257delC	p.P753fs	exon19	NM_005228	exonic	frameshift deletion
+chr7	55242486	TC	T	14.85	0	indels	393	2647	0	500	PASS:Somatic	393:217,176	0:0,0	no	others	.	c.2257delC	p.P753fs	exon19	NM_005228	exonic	frameshift deletion
+chr8	31000002	G	GA	1.07	0	indels	6	562	0	159	PASS:Somatic	6:3,3	0:0,0	no	others	.					intronic	.
+chr19	15281453	G	C	6.50	0	GG	13	148	0	15	PASS	13:8,5	0:0,0	yes	others	.					intronic	.
+chr19	18887967	A	C	3.04	0	AA	8	263	0	38	PASS:Somatic	8:7,1	0:0,0	no	others	.					intronic	.
+chr1	161309415	C	T	1.12	0	CC	6	534	0	55	PASS:Somatic	6:2,4	0:0,0	no	others	.					intronic	.
+chr3	185802038	C	A	1.40	0	CC	8	571	0	138	PASS:Somatic	8:1,7	0:0,0	no	others	.					intronic	.
+chr8	145011169	C	A	1.07	0	CC	6	562	0	94	PASS:Somatic	6:3,3	0:0,0	no	others	.	c.G371T,c.G347T,c.G824T,c.G317T,c.G413T,c.G425T,c.G413T,c.G494T	p.W124L,p.W116L,p.W275L,p.W106L,p.W138L,p.W142L,p.W138L,p.W165L	exon5,exon5,exon5,exon5,exon5,exon5,exon5,exon6	NM_201378,NM_201379,NM_201380,NM_201381,NM_201382,NM_201383,NM_201384,NM_000445	exonic	nonsynonymous SNV
+chr13	73349321	CA	C	1.29	0	indels	6	466	0	154	PASS:Somatic	6:5,1	0:0,0	no	others	.					intronic	.
+chr1	120612002	CGG	C	15.43	0	indels	25	162	0	25	PASS:Somatic	25:16,9	0:0,0	no	others	COSM132830	c.17_18del,c.17_18del	p.P6fs(ref_AA:P,start:6,end:6,mut_AA:R),p.P6fs(ref_AA:P,start:6,end:6,mut_AA:R)	exon1,exon1	NM_001200001,NM_024408	exonic	frameshift deletion
+chr1	120612002	CGG	C	16.67	0	indels	20	120	0	19	StrongSomatic	20:11,9	0:0,0	yes	others	COSM132830	c.17_18del,c.17_18del	p.P6fs(ref_AA:P,start:6,end:6,mut_AA:R),p.P6fs(ref_AA:P,start:6,end:6,mut_AA:R)	exon1,exon1	NM_001200001,NM_024408	exonic	frameshift deletion
+chr16	69741098	T	G	1.10	0	TT	6	543	0	72	PASS:Somatic	6:1,5	0:0,0	no	others	.					intergenic	.
+chr12	11958912	T	C	1.06	0	TT	12	1130	0	527	PASS:Somatic	12:8,4	0:0,0	no	others	.					intronic	.
+chr3	38765107	G	T	10.30	0	GG	20	222	0	34	PASS	20:5,15	0:0,0	yes	others	.					intronic	.
+chr4	1805573	TCTG	T	1.10	0	indels	8	760	0	138	str_contraction	8:2,6	0:0,0	yes	others	.					intronic	.
+chr5	1294268	C	A	1.21	0	CC	6	497	0	96	PASS:Somatic	6:3,3	0:0,0	no	others	.	c.G733T,c.G733T	p.E245X,p.E245X	exon2,exon2	NM_001193376,NM_198253	exonic	stopgain
+chr3	15539976	CCA	C	4.30	0	indels	8	364	0	43	str_contraction	8:4,4	0:0,0	yes	others	.					intronic	.
+chrX	44920541	A	AT	1.52	0	indels	10	658	0	87	PASS:Somatic	10:9,1	0:0,0	no	others	.					intronic	.
+chr7	66460278	C	A	1.35	0	CC	27	1996	0	356	PASS:Somatic	27:14,13	0:0,0	no	others	.	c.G127T	p.V43L	exon1	NM_016038	exonic	nonsynonymous SNV

@@ -1,0 +1,166 @@
+chr,pos,ref,alt,Gene.refGene,exon,tumor_ratio,normal_ratio,transcripts,CDS_Mutation,AA_Mutation,alt_depth,all_depth,Func.refGene,ExonicFunc.refGene,GeneDetail.refGene,cosmic70
+chr17,15973435,A,T,NCOR1,,1.06,0.0,,,,14,1317,intronic,.,.,.
+chr22,42524924,A,G,CYP2D6,"exon3,exon4",2.6,0.0,"NM_001025161,NM_000106","c.T375C,c.T528C","p.G125G,p.G176G",8,351,exonic,synonymous SNV,.,.
+chr6,29910759,TGGACCTGGGGACCCTGCGCG,AGAGCCTGCGGATCGCGCTCC,HLA-A,"exon2,exon2",30.58,0.0,"NM_001242758,NM_002116","c.299_319AGAGCCTGCGGATCGCGCTCC,c.299_319AGAGCCTGCGGATCGCGCTCC","p.V100_G107>ESLRIALR(ref_AA:VDLGTLRG,start:100,end:107,mut_AA:ESLRIALR),p.V100_G107>ESLRIALR(ref_AA:VDLGTLRG,start:100,end:107,mut_AA:ESLRIALR)",85,278,exonic,nonframeshift substitution,.,.
+chr6,117655489,T,C,ROS1,,5.2,0.0,,,,6,105,intronic,.,.,.
+chr11,108121846,G,C,ATM,,1.71,0.0,,,,17,994,intronic,.,.,.
+chr7,13990836,T,C,ETV1,,1.25,0.0,,,,9,722,intronic,.,.,.
+chr19,18583695,AT,A,ELL,,1.14,0.0,,,,10,875,intronic,.,.,.
+chrX,66906139,CT,C,AR,,1.06,0.0,,,,6,566,intronic,.,.,.
+chr17,30320860,CT,C,SUZ12,,4.15,0.0,,,,31,747,intronic,.,.,.
+chr7,140498081,G,T,BRAF,,7.78,0.0,,,,13,167,intronic,.,.,.
+chr6,117655476,A,G,ROS1,,7.6,0.0,,,,8,82,intronic,.,.,.
+chr3,105421293,C,A,CBLB,exon12,1.4,0.0,NM_170662,c.G1604T,p.C535F,10,715,exonic,nonsynonymous SNV,.,.
+chr6,117657816,G,A,ROS1,,6.93,0.56,,,,16,231,intronic,.,.,.
+chr9,97934328,C,A,FANCC,"exon5,exon5,exon5",1.06,0.0,"NM_000136,NM_001243743,NM_001243744","c.G447T,c.G447T,c.G447T","p.L149F,p.L149F,p.L149F",7,663,exonic,nonsynonymous SNV,.,.
+chr9,110249447,G,C,KLF4,"exon3,exon4",1.89,0.0,"NM_001314052,NM_004235","c.C1228G,c.C1126G","p.P410A,p.P376A",36,1907,exonic,nonsynonymous SNV,.,.
+chr6,117656871,T,C,ROS1,,10.9,0.0,,,,6,65,intronic,.,.,.
+chr6,117657819,A,G,ROS1,,4.41,0.0,,,,10,227,intronic,.,.,.
+chr8,32620720,C,CT,NRG1,,1.18,0.0,,,,30,2535,intronic,.,.,.
+chr16,9856869,CCAA,C,GRIN2A,,1.5,0.0,,,,9,660,UTR3,.,"NM_001134408:c.*342_*340delTTG,NM_001134407:c.*136_*134delTTG,NM_000833:c.*136_*134delTTG",.
+chr19,18273702,C,CA,PIK3R2,,1.55,0.0,,,,16,1030,intronic,.,.,.
+chr13,48955363,C,CT,RB1,,3.47,0.0,,,,7,202,intronic,.,.,.
+chr12,11961067,CAAATATTTGAT,TCTCCTAGGGGGCTACAGTGACTTGTCACTGTCC,ETV6,,1.7,0.0,,,,34,2000,intronic,.,.,.
+chr22,23538968,AC,A,BCR,,1.3,0.0,,,,23,1772,intronic,.,.,.
+chr7,98533361,G,GA,TRRAP,,1.02,0.0,,,,9,880,intronic,.,.,.
+chr14,105237818,A,G,AKT1,,1.9,0.0,,,,56,2804,intronic,.,.,.
+chr6,117657693,G,T,ROS1,,4.87,0.0,,,,13,267,intronic,.,.,.
+chr2,109371620,AT,A,RANBP2,,1.04,0.0,,,,14,1343,intronic,.,.,.
+chr4,55968049,T,C,KDR,,1.9,0.0,,,,8,422,intronic,.,.,.
+chr7,13990825,T,A,ETV1,,1.5,0.0,,,,7,468,intronic,.,.,.
+chr6,108882444,C,T,FOXO3,"exon1,exon2",1.96,0.0,"NM_001455,NM_201559","c.C33T,c.C33T","p.L11L,p.L11L",9,460,exonic,synonymous SNV,.,COSM1559718
+chr22,23573735,T,TA,BCR,,1.04,0.0,,,,10,965,intronic,.,.,.
+chr5,170819654,C,CT,NPM1,,1.28,0.0,,,,12,935,intronic,.,.,.
+chr6,117657834,T,A,ROS1,,3.1,0.0,,,,7,162,intronic,.,.,.
+chr12,11959056,T,C,ETV6,,1.24,0.0,,,,18,1446,intronic,.,.,.
+chr6,34212748,T,C,HMGA1,,2.19,0.0,,,,7,320,UTR3,.,"NM_002131:c.*87T>C,NM_145903:c.*87T>C,NM_145899:c.*87T>C,NM_145901:c.*87T>C,NM_145902:c.*87T>C,NM_145905:c.*87T>C",.
+chr6,117657823,A,C,ROS1,,3.11,0.0,,,,7,225,intronic,.,.,.
+chr6,29910693,A,G,HLA-A,"exon2,exon2",2.32,0.0,"NM_001242758,NM_002116","c.A233G,c.A233G","p.Q78R,p.Q78R",11,474,exonic,nonsynonymous SNV,.,.
+chr22,29678765,C,T,EWSR1,,1.02,0.0,,,,11,1080,intronic,.,.,.
+chr6,117657604,AA,TG,ROS1,,5.31,0.0,,,,6,113,intronic,.,.,.
+chr3,185792672,G,A,ETV5,,1.69,0.0,,,,8,474,intronic,.,.,.
+chr11,95825260,TTGC,T,MAML2,exon2,1.4,0.0,NM_032427,c.1932_1934del,"p.Q645delQ(ref_AA:QQ,start:644,end:645,mut_AA:Q)",7,532,exonic,nonframeshift deletion,.,.
+chrX,15822072,GA,G,ZRSR2,,6.38,0.0,,,,6,94,intronic,.,.,.
+chr2,47702471,A,T,MSH2,,1.02,0.0,,,,8,787,intronic,.,.,.
+chr1,78432647,GA,G,FUBP1,,1.83,0.0,,,,9,492,intronic,.,.,.
+chr15,50776587,G,GA,USP8,,1.06,0.0,,,,7,658,intronic,.,.,.
+chr12,12019132,CT,C,ETV6,,1.37,0.0,,,,8,586,intronic,.,.,.
+chr7,140498381,A,T,BRAF,,1.31,0.0,,,,7,535,intronic,.,.,.
+chr17,16052606,CATAT,C,NCOR1,,16.4,0.0,,,,12,72,intronic,.,.,.
+chr19,10288072,G,GA,DNMT1,,2.17,0.0,,,,12,552,intronic,.,.,.
+chr5,38950588,G,T,RICTOR,"exon31,exon31,exon31",1.9,0.0,"NM_001285439,NM_001285440,NM_152756","c.C3362A,c.C2507A,c.C3362A","p.S1121X,p.S836X,p.S1121X",6,239,exonic,stopgain,.,.
+chr2,29451557,GAGGCAGGGTGCTGGCTCGAAAGCCAGCACCCTGCCTCTGGCTGGTCC,G,ALK,,1.31,0.0,,,,12,916,intronic,.,.,.
+chrX,66765167,A,T,AR,exon1,3.1,0.0,NM_000044,c.A179T,p.Q60L,10,249,exonic,nonsynonymous SNV,.,.
+chr22,36721212,GGA,G,MYH9,,2.0,0.0,,,,24,1156,intronic,.,.,.
+chr17,29700966,G,T,NF1,,1.07,0.0,,,,6,561,intronic,.,.,.
+chr8,37555933,GCGC,G,ZNF703,exon2,2.7,0.0,NM_025069,c.1515_1517del,"p.A506delA(ref_AA:SA,start:505,end:506,mut_AA:S)",9,319,exonic,nonframeshift deletion,.,.
+chr15,50782434,GT,G,USP8,,4.23,0.0,,,,24,567,intronic,.,.,.
+chr15,89826619,CTGA,C,FANCI,,2.8,0.0,,,,6,191,intronic,.,.,.
+chr12,11980092,G,GT,ETV6,,1.01,0.0,,,,23,2288,intronic,.,.,.
+chr7,66460278,C,A,SBDS,exon1,1.37,0.0,NM_016038,c.G127T,p.V43L,49,3564,exonic,nonsynonymous SNV,.,.
+chr1,161309430,G,T,SDHC,,2.6,0.0,,,,13,500,intronic,.,.,.
+chr8,80679387,CA,C,HEY1,,1.05,0.0,,,,21,2001,intronic,.,.,.
+chr6,117656344,A,G,ROS1,,10.0,0.0,,,,6,60,intronic,.,.,.
+chr2,141130707,C,A,LRP1B,,1.4,0.0,,,,7,535,splicing,.,NM_018557:exon69:c.10639-1G>T,.
+chr9,36923303,ATC,A,PAX5,,1.54,0.0,,,,40,2589,intronic,.,.,.
+chr6,117657810,A,G,ROS1,,3.73,0.0,,,,9,241,intronic,.,.,.
+chr7,140498388,G,T,BRAF,,1.23,0.0,,,,10,812,intronic,.,.,.
+chr6,38879386,G,A,LOC100131047,,1.66,0.0,,,,17,1023,ncRNA_intronic,.,.,.
+chr7,151875153,G,A,KMT2C,,2.25,0.0,,,,6,267,intronic,.,.,.
+chr17,40364283,C,A,STAT5B,,1.3,0.0,,,,12,861,intronic,.,.,.
+chr12,66235829,G,GGTGGTCTGAATAGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTACGTGT,HMGA2,,1.59,0.0,,,,6,378,intronic,.,.,.
+chr11,102199611,A,ATATT,BIRC3,,25.0,0.0,,,,13,52,intronic,.,.,.
+chr12,66235853,C,T,HMGA2,,2.79,0.0,,,,20,717,intronic,.,.,.
+chr1,16248728,C,CT,SPEN,,2.92,0.0,,,,29,993,intronic,.,.,.
+chr1,120612034,T,G,NOTCH2,,6.18,0.0,,,,16,259,UTR5,.,"NM_024408:c.-14A>C,NM_001200001:c.-14A>C",.
+chr6,117657850,A,C,ROS1,,3.39,0.0,,,,6,177,intronic,.,.,.
+chr22,29130783,T,A,CHEK2,,1.17,0.0,,,,16,1369,intronic,.,.,.
+chrX,70360588,GAGC,G,MED12,exon42,1.2,0.0,NM_005120,c.6149_6151del,"p.Q2051delQ(ref_AA:EQ,start:2050,end:2051,mut_AA:E)",9,967,exonic,nonframeshift deletion,.,.
+chr6,29910622,C,T,HLA-A,"exon2,exon2",1.85,0.0,"NM_001242758,NM_002116","c.C162T,c.C162T","p.D54D,p.D54D",13,704,exonic,synonymous SNV,.,.
+chr6,117657709,A,G,ROS1,,2.36,0.0,,,,7,296,intronic,.,.,.
+chr12,124950743,C,G,NCOR2,"exon7,exon7,exon7",1.5,0.0,"NM_001077261,NM_001206654,NM_006312","c.G681C,c.G681C,c.G681C","p.V227V,p.V227V,p.V227V",11,759,exonic,synonymous SNV,.,.
+chr12,92538893,C,A,BTG1,,1.3,0.0,,,,10,684,intronic,.,.,.
+chr2,61712800,C,A,XPO1,,1.5,0.0,,,,6,401,intronic,.,.,.
+chr16,72830446,T,G,ZFHX3,"exon8,exon9",1.86,0.0,"NM_001164766,NM_006885","c.A3393C,c.A6135C","p.P1131P,p.P2045P",6,323,exonic,synonymous SNV,.,.
+chr19,18279877,C,T,PIK3R2,,1.7,0.0,,,,20,1210,intronic,.,.,.
+chr12,11944705,G,GT,ETV6,,1.07,0.0,,,,11,1031,intronic,.,.,.
+chr11,108206836,C,A,ATM,,1.53,0.0,,,,6,392,intronic,.,.,.
+chr7,13989980,A,T,ETV1,,2.64,0.0,,,,21,796,intronic,.,.,.
+chr3,38105533,C,T,DLEC1,,2.5,0.0,,,,9,186,intronic,.,.,.
+chr3,142215119,A,AATATATATAT,ATR,,9.5,0.0,,,,23,344,intronic,.,.,.
+chr12,49431649,G,C,KMT2D,exon34,1.4,0.0,NM_003482,c.C9490G,p.R3164G,29,2083,exonic,nonsynonymous SNV,.,.
+chr3,176771833,CGTGT,C,TBL1XR1,,45.7,0.0,,,,21,44,intronic,.,.,.
+chr3,53529192,GGAT,G,CACNA1D,,1.6,0.0,,,,12,935,exonic,frameshift deletion,.,"COSM1724735,COSM1724734"
+chr6,29910688,A,G,HLA-A,"exon2,exon2",2.64,0.0,"NM_001242758,NM_002116","c.A228G,c.A228G","p.I76M,p.I76M",13,493,exonic,nonsynonymous SNV,.,.
+chrX,70361097,ACAG,A,MED12,exon43,2.6,0.0,NM_005120,c.6286_6288del,"p.Q2096delQ(ref_AA:Q,start:2096,end:2096,mut_AA:)",12,461,exonic,nonframeshift deletion,.,"COSM298367,COSM298366"
+chr3,185155442,A,T,MAP3K13,,1.31,0.0,,,,10,761,intronic,.,.,.
+chr2,47641761,G,T,MSH2,,1.1,0.0,,,,6,398,intronic,.,.,.
+chr16,72821618,ACCG,A,ZFHX3,"exon9,exon10",1.6,0.0,"NM_001164766,NM_006885","c.7812_7814del,c.10554_10556del","p.G2605delG(ref_AA:GG,start:2604,end:2605,mut_AA:G),p.G3519delG(ref_AA:GG,start:3518,end:3519,mut_AA:G)",17,1178,exonic,nonframeshift deletion,.,.
+chr19,3121469,G,A,GNA11,,1.22,0.0,,,,7,572,UTR3,.,NM_002067:c.*292G>A,.
+chr12,48383789,CT,C,COL2A1,,47.5,0.0,,,,19,40,intronic,.,.,.
+chr7,2985375,CACACACACACACAG,C,CARD11,,1.1,0.0,,,,20,1686,intronic,.,.,.
+chr6,117653454,T,C,ROS1,,5.88,0.0,,,,6,102,intronic,.,.,.
+chr7,13980641,AGT,A,ETV1,,1.3,0.0,,,,10,693,intronic,.,.,.
+chr6,117655505,G,A,ROS1,,4.05,0.0,,,,6,148,intronic,.,.,.
+chrX,66766356,TGGCGGCGGCGGCGGCGGCGGCGGCGGC,T,AR,exon1,2.6,0.0,NM_000044,c.1369_1395del,"p.G457_G465delGGGGGGGGG(ref_AA:GGGGGGGGG,start:457,end:465,mut_AA:)",9,200,exonic,nonframeshift deletion,.,.
+chr6,117657481,TCCCCCCACCCCTCCCCCTG,AGTTCCCTCCCCTCAGCTCCTATCCCTCA,ROS1,,16.33,0.0,,,,8,49,intronic,.,.,.
+chr6,117657672,C,T,ROS1,,3.61,0.0,,,,7,194,intronic,.,.,.
+chr19,3121299,AT,A,GNA11,,3.2,0.0,,,,28,875,UTR3,.,NM_002067:c.*123delT,.
+chr11,69465987,AGAG,A,CCND1,exon5,1.1,0.0,NM_053056,c.826_828del,"p.E276delE(ref_AA:E,start:276,end:276,mut_AA:)",6,573,exonic,nonframeshift deletion,.,"COSM931394,COSM1356611"
+chr6,117657868,A,G,ROS1,,3.8,0.0,,,,6,158,intronic,.,.,.
+chr10,61574382,C,A,CCDC6,,1.43,0.0,,,,16,1116,intronic,.,.,.
+chr2,209110318,T,G,IDH1,,57.1,0.0,,,,28,49,intronic,.,.,.
+chr15,28424390,C,CA,HERC2,,2.04,0.0,,,,10,491,intronic,.,.,.
+chr12,49425839,G,T,KMT2D,exon39,1.8,0.0,NM_003482,c.C12649A,p.Q4217K,50,2346,exonic,nonsynonymous SNV,.,.
+chr6,29910607,G,C,HLA-A,"exon2,exon2",1.81,0.0,"NM_001242758,NM_002116","c.G147C,c.G147C","p.V49V,p.V49V",13,718,exonic,synonymous SNV,.,.
+chr17,29563075,GTT,G,NF1,,1.7,0.0,,,,24,1842,intronic,.,.,.
+chr12,11961316,G,A,ETV6,,1.5,0.0,,,,32,2468,intronic,.,.,.
+chr6,117655507,A,G,ROS1,,5.19,0.0,,,,8,154,intronic,.,.,.
+chr16,3781171,T,G,CREBBP,,1.6,0.0,,,,10,624,intronic,.,.,.
+chr22,23634049,G,T,BCR,,1.3,0.0,,,,49,3422,intronic,.,.,.
+chr3,53685000,TG,T,CACNA1D,,1.45,0.0,,,,12,826,intronic,.,.,.
+chr17,8052531,C,CA,PER1,,1.49,0.0,,,,12,807,intronic,.,.,.
+chr16,3781337,C,T,CREBBP,"exon29,exon30",1.7,0.0,"NM_001079846,NM_004380","c.G4914A,c.G5028A","p.W1638X,p.W1676X",14,938,exonic,stopgain,.,.
+chr12,49426729,AGCT,A,KMT2D,exon39,1.46,0.0,NM_003482,c.11756_11758del,"p.Q3919delQ(ref_AA:QL,start:3919,end:3920,mut_AA:L)",10,684,exonic,nonframeshift deletion,.,.
+chr12,124812190,GAGAC,G,NCOR2,,1.2,0.0,,,,12,931,intronic,.,.,.
+chr12,11958912,T,C,ETV6,,2.8,0.0,,,,45,1607,intronic,.,.,.
+chr16,3779135,GTGC,G,CREBBP,"exon30,exon31",1.08,0.0,"NM_001079846,NM_004380","c.5796_5798del,c.5910_5912del","p.Q1932delQ(ref_AA:QH,start:1932,end:1933,mut_AA:H),p.Q1970delQ(ref_AA:QH,start:1970,end:1971,mut_AA:H)",6,555,exonic,nonframeshift deletion,.,.
+chr6,117657644,A,G,ROS1,,4.2,0.0,,,,6,125,intronic,.,.,.
+chr19,44055916,CAG,C,XRCC1,,2.0,0.0,,,,7,248,intronic,.,.,.
+chr6,117657790,G,A,ROS1,,2.89,0.0,,,,8,277,intronic,.,.,.
+chr22,23527812,G,T,BCR,,1.27,0.0,,,,6,472,intronic,.,.,.
+chr6,157099426,ACAG,A,ARID1B,"exon1,exon1",2.2,0.0,"NM_017519,NM_020732","c.364_366del,c.364_366del","p.Q122delQ(ref_AA:Q,start:122,end:122,mut_AA:),p.Q122delQ(ref_AA:Q,start:122,end:122,mut_AA:)",11,460,exonic,nonframeshift deletion,.,.
+chr7,6036895,TA,T,PMS2,,1.29,0.0,,,,9,696,intronic,.,.,.
+chr22,23541113,G,C,BCR,,1.62,0.0,,,,7,433,intronic,.,.,.
+chr7,13989993,A,G,ETV1,,1.18,0.0,,,,9,764,intronic,.,.,.
+chr12,11952690,C,T,ETV6,,1.49,0.0,,,,23,1547,intronic,.,.,.
+chr17,41620644,A,TCTCTCCCTCTCTCTCT,ETV4,,2.08,0.0,,,,6,288,intronic,.,.,.
+chr22,29683312,C,T,EWSR1,,1.71,0.0,,,,9,527,intronic,.,.,.
+chr6,157099402,CCAG,C,ARID1B,"exon1,exon1",1.27,0.0,"NM_017519,NM_020732","c.340_342del,c.340_342del","p.Q114delQ(ref_AA:Q,start:114,end:114,mut_AA:),p.Q114delQ(ref_AA:Q,start:114,end:114,mut_AA:)",6,474,exonic,nonframeshift deletion,.,.
+chr1,161309415,C,T,SDHC,,1.29,0.0,,,,9,697,intronic,.,.,.
+chr6,117656518,G,A,ROS1,,17.65,0.0,,,,6,34,intronic,.,.,.
+chr6,117653436,A,T,ROS1,,8.0,0.0,,,,6,75,intronic,.,.,.
+chr17,29482988,CT,C,NF1,,1.48,0.0,,,,13,876,intronic,.,.,.
+chr5,256378,TC,T,SDHA,,1.64,0.0,,,,25,1527,intronic,.,.,.
+chr17,8059526,CCA,C,"PER1,VAMP2",,1.1,0.0,,,,12,1084,intergenic,.,dist=3774;dist=2937,.
+chr7,151948998,TA,T,KMT2C,,1.01,0.0,,,,7,692,intronic,.,.,.
+chr3,15563236,TTG,T,COLQ,,6.9,0.0,,,,28,436,UTR5,.,"NM_005677:c.-105_-106delCA,NM_080539:c.-105_-106delCA",.
+chr11,3756550,C,A,NUP98,"exon13,exon13,exon13,exon13",1.07,0.0,"NM_005387,NM_016320,NM_139131,NM_139132","c.G1464T,c.G1413T,c.G1413T,c.G1413T","p.L488F,p.L471F,p.L471F,p.L471F",10,938,exonic,nonsynonymous SNV,.,.
+chr5,35857055,ACT,A,IL7R,,1.1,0.0,,,,9,900,UTR5,.,NM_002185:c.-24_-23del-,.
+chr9,139396933,G,A,NOTCH1,exon28,1.8,0.0,NM_017617,c.C5175T,p.T1725T,7,410,exonic,synonymous SNV,.,.
+chr1,120612002,CGG,C,NOTCH2,"exon1,exon1",7.0,0.0,"NM_001200001,NM_024408","c.17_18del,c.17_18del","p.P6fs(ref_AA:P,start:6,end:6,mut_AA:R),p.P6fs(ref_AA:P,start:6,end:6,mut_AA:R)",17,243,exonic,frameshift deletion,.,COSM132830
+chr5,176516968,CGT,C,FGFR4,,5.3,0.0,,,,62,1174,intronic,.,.,.
+chrX,66765161,A,T,AR,exon1,3.52,0.0,NM_000044,c.A173T,p.Q58L,10,284,exonic,nonsynonymous SNV,.,.
+chr1,120612043,G,T,NOTCH2,,11.17,0.0,,,,22,197,UTR5,.,"NM_024408:c.-23C>A,NM_001200001:c.-23C>A",.
+chr17,59858089,AAAC,A,BRIP1,,2.5,0.0,,,,6,249,intronic,.,.,.
+chr6,117657787,A,G,ROS1,,2.88,0.0,,,,8,278,intronic,.,.,.
+chr2,80136693,TTG,T,CTNNA2,,2.0,0.0,,,,19,912,intronic,.,.,.
+chrX,100614965,TTA,T,BTK,,3.4,0.0,,,,9,304,intronic,.,.,.
+chr6,117656503,T,C,ROS1,,14.29,0.0,,,,6,42,intronic,.,.,.
+chr3,53699666,AT,A,CACNA1D,,1.13,0.0,,,,15,1333,intronic,.,.,.
+chr6,117657541,C,T,ROS1,,10.87,0.0,,,,10,92,intronic,.,.,.
+chr1,161309408,C,T,SDHC,,1.15,0.0,,,,9,785,intronic,.,.,.
+chr6,29911444,G,A,HLA-A,,20.2,0.0,,,,28,141,intronic,.,.,.
+chr17,41620558,T,C,ETV4,,1.23,0.0,,,,7,568,intronic,.,.,.
+chr3,185791901,GA,G,ETV5,,1.18,0.0,,,,6,510,intronic,.,.,.
+chr2,61143993,AT,A,REL,,1.25,0.0,,,,11,879,intronic,.,.,.
